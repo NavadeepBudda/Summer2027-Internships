@@ -3,13 +3,13 @@
 from typing import Any
 
 from list_updater.category import create_category_table, ensure_categories
-from list_updater.constants import CATEGORIES, GITHUB_FILE_SIZE_LIMIT, SIZE_BUFFER
+from list_updater.constants import CATEGORIES, GITHUB_FILE_SIZE_LIMIT, REPO_NAME, REPO_SLUG, SIZE_BUFFER
 from list_updater.listings import filter_active, mark_stale_listings
 
 type Listing = dict[str, Any]
 
 
-def check_and_insert_warning(content: str, repo_name: str = "Summer2026-Internships") -> str:
+def check_and_insert_warning(content: str, repo_name: str = REPO_NAME) -> str:
     """Insert warning notice before GitHub cutoff point while preserving full content.
 
     Args:
@@ -48,7 +48,7 @@ def check_and_insert_warning(content: str, repo_name: str = "Summer2026-Internsh
         insertion_point = len(insertion_content)
 
     # Create the warning notice with anchor link
-    full_list_url = f"https://github.com/SimplifyJobs/{repo_name}/blob/dev/README.md#-see-full-list"
+    full_list_url = f"https://github.com/{REPO_SLUG}/blob/dev/README.md#-see-full-list"
     simplify_jobs_url = (
         "https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering"
         "%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security"
@@ -147,7 +147,7 @@ def embed_table(
         readme_filename = "README-Off-Season.md"
     else:
         readme_filename = "README.md"
-    github_readme_base = f"https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/{readme_filename}"
+    github_readme_base = f"https://github.com/{REPO_SLUG}/blob/dev/{readme_filename}"
 
     for category_key in category_order:
         if category_key in CATEGORIES:

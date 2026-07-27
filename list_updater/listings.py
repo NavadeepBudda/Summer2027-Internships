@@ -90,11 +90,13 @@ def filter_summer(listings: list[Listing], year: str, earliest_date: int) -> lis
     return final_listings
 
 
-def filter_off_season(listings: list[Listing]) -> list[Listing]:
+def filter_off_season(listings: list[Listing], summer_year: str | None = None) -> list[Listing]:
     """Filter listings for off-season (Fall, Winter, Spring) internships.
 
     Args:
         listings: List of listing dictionaries.
+        summer_year: Optional recruiting-cycle year. For 2027, this selects
+            Fall 2026 plus Winter and Spring 2027.
 
     Returns:
         Filtered list of off-season internships.
@@ -105,7 +107,12 @@ def filter_off_season(listings: list[Listing]) -> list[Listing]:
             return False
 
         terms = listing.get("terms", [])
-        has_off_season_term = any(season in term for term in terms for season in ["Fall", "Winter", "Spring"])
+        if summer_year is not None:
+            previous_year = str(int(summer_year) - 1)
+            allowed_terms = {f"Fall {previous_year}", f"Winter {summer_year}", f"Spring {summer_year}"}
+            has_off_season_term = any(term in allowed_terms for term in terms)
+        else:
+            has_off_season_term = any(season in term for term in terms for season in ["Fall", "Winter", "Spring"])
         has_summer_term = any("Summer" in term for term in terms)
 
         # We don't want to include listings in the off season list if they include a Summer term

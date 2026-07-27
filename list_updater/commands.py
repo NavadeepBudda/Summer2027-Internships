@@ -7,7 +7,7 @@ from datetime import datetime
 from typing import Any
 
 from list_updater.category import classify_job_category
-from list_updater.constants import CATEGORY_MAPPING
+from list_updater.constants import CATEGORY_MAPPING, SUMMER_LISTING_CUTOFF, TARGET_YEAR
 from list_updater.github import fail, set_output
 from list_updater.listings import (
     check_schema,
@@ -38,15 +38,15 @@ def cmd_readme_update() -> None:
     check_schema(listings)
     sort_listings(listings)
 
-    summer_2026_listings = filter_summer(listings, "2026", earliest_date=1748761200)
+    target_summer_listings = filter_summer(listings, TARGET_YEAR, earliest_date=SUMMER_LISTING_CUTOFF)
 
     # Generate main README with active listings only
-    embed_table(summer_2026_listings, "README.md", active_only=True)
+    embed_table(target_summer_listings, "README.md", active_only=True)
 
     # Generate separate README for inactive listings (same header/ads structure)
-    embed_table(summer_2026_listings, "README-Inactive.md", inactive_only=True)
+    embed_table(target_summer_listings, "README-Inactive.md", inactive_only=True)
 
-    offseason_listings = filter_off_season(listings)
+    offseason_listings = filter_off_season(listings, TARGET_YEAR)
     embed_table(offseason_listings, "README-Off-Season.md", off_season=True)
 
     set_output("commit_message", "Updating READMEs at " + datetime.now().strftime("%B %d, %Y %H:%M:%S"))

@@ -7,6 +7,16 @@ import time
 os.environ["TZ"] = "America/Los_Angeles"
 time.tzset()
 
+# Repository configuration for this Summer 2027 community fork.
+TARGET_YEAR = "2027"
+REPO_OWNER = "NavadeepBudda"
+REPO_NAME = "Summer2027-Internships"
+REPO_SLUG = f"{REPO_OWNER}/{REPO_NAME}"
+
+# June 1, 2026 at midnight Pacific Time. This mirrors the upstream convention
+# of ignoring listings posted before the recruiting cycle begins.
+SUMMER_LISTING_CUTOFF = 1780297200
+
 # Button image URLs
 SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png"
 SHORT_APPLY_BUTTON = "https://i.imgur.com/fbjwDvo.png"

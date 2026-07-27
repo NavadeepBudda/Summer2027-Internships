@@ -1,7 +1,11 @@
 # Contributing to the Internship List
 Thank you for your interest in contributing to the Pitt CSC and Simplify internship list!
 
-Below, you'll find the guidelines for our repository. If you have any questions, please create a [miscellaneous issue](https://github.com/SimplifyJobs/Summer2026-Internships/issues/new/choose).
+> This repository is a Summer 2027 community view of the
+> [original Pitt CSC & Simplify project](https://github.com/SimplifyJobs/Summer2026-Internships).
+> Please submit listing additions and corrections upstream so they flow back into this fork and benefit the whole community.
+
+Below, you'll find the upstream contribution guidelines. If you have any questions, please create a [miscellaneous issue in the original repository](https://github.com/SimplifyJobs/Summer2026-Internships/issues/new/choose).
 
 ## Finding an Internship to Add
 We ask that the internships that you add meet some requirements. Specifically, your internship must

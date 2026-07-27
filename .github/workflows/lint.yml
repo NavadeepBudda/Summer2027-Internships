@@ -12,6 +12,9 @@ on:
       - 'list_updater/**'
       - 'pyproject.toml'
 
+permissions:
+  contents: read
+
 jobs:
   lint:
     runs-on: ubuntu-latest

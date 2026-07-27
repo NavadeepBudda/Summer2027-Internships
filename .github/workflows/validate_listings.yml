@@ -8,6 +8,9 @@ on:
     paths:
       - '.github/scripts/listings.json'
 
+permissions:
+  contents: read
+
 jobs:
   validate:
     runs-on: ubuntu-latest

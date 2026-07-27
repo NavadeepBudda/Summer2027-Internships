@@ -3,7 +3,7 @@
 import re
 from typing import Any
 
-from list_updater.constants import CATEGORIES
+from list_updater.constants import CATEGORIES, REPO_SLUG, TARGET_YEAR
 from list_updater.formatter import create_md_table
 
 type Listing = dict[str, Any]
@@ -333,10 +333,10 @@ def create_category_table(
     # Different header for inactive-only page
     if inactive_only:
         header = f"\n\n## {emoji} {category_name} Internship Roles (Inactive)\n\n"
-        header += "[Back to top](#summer-2026-tech-internships-inactive-listings)\n\n"
+        header += f"[Back to top](#summer-{TARGET_YEAR}-tech-internships-inactive-listings)\n\n"
     else:
         header = f"\n\n## {emoji} {category_name} Internship Roles\n\n"
-        header += "[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)\n\n"
+        header += f"[Back to top](#summer-{TARGET_YEAR}-tech-internships-by-pitt-csc--simplify)\n\n"
 
     # Optional callout under Data Science section (only for active listings)
     if not inactive_only and category_name == "Data Science, AI & Machine Learning":
@@ -384,7 +384,9 @@ def create_category_table(
             # Add link to inactive listings if there are any
             if inactive:
                 anchor = category_name.lower().replace(" ", "-").replace(",", "").replace("&", "")
-                inactive_url = f"https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-{anchor}-internship-roles-inactive"
+                inactive_url = (
+                    f"https://github.com/{REPO_SLUG}/blob/dev/README-Inactive.md#-{anchor}-internship-roles-inactive"
+                )
                 result += f"🔒 **[See {len(inactive)} more closed roles →]({inactive_url})**\n\n"
         else:
             return ""  # No active listings in this category
