@@ -5,11 +5,15 @@ on:
     paths:
       - 'main.py'
       - 'list_updater/**'
+      - 'scripts/**'
+      - 'tests/**'
       - 'pyproject.toml'
   pull_request:
     paths:
       - 'main.py'
       - 'list_updater/**'
+      - 'scripts/**'
+      - 'tests/**'
       - 'pyproject.toml'
 
 permissions:
@@ -32,10 +36,13 @@ jobs:
         uses: astral-sh/setup-uv@v5
 
       - name: Run ruff check
-        run: uv run ruff check main.py list_updater/**
+        run: uv run ruff check main.py list_updater/ scripts/ tests/
 
       - name: Run ruff format check
-        run: uv run ruff format --check main.py list_updater/**
+        run: uv run ruff format --check main.py list_updater/ scripts/ tests/
 
       - name: Run mypy
-        run: uv run mypy main.py list_updater
+        run: uv run mypy main.py list_updater scripts/daily_email_digest.py
+
+      - name: Run unit tests
+        run: uv run python -m unittest tests/test_daily_email_digest.py

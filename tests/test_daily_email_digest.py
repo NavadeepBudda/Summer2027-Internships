@@ -1,0 +1,65 @@
+"""Tests for the daily Summer 2027 email digest."""
+
+import sys
+import unittest
+from datetime import date, datetime
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from scripts.daily_email_digest import TIME_ZONE, format_plain_text, listings_posted_on
+
+
+def make_listing(**overrides: object) -> dict[str, object]:
+    """Create a representative listing for tests."""
+    listing: dict[str, object] = {
+        "company_name": "Example",
+        "title": "Software Engineer Intern",
+        "locations": ["New York, NY"],
+        "category": "Software",
+        "url": "https://example.com/apply",
+        "date_posted": int(datetime(2026, 7, 27, 9, 30, tzinfo=TIME_ZONE).timestamp()),
+        "terms": ["Summer 2027"],
+        "active": True,
+        "is_visible": True,
+    }
+    listing.update(overrides)
+    return listing
+
+
+class DailyEmailDigestTests(unittest.TestCase):
+    """Verify filtering and digest formatting."""
+
+    def test_filters_to_active_visible_target_term_and_date(self) -> None:
+        target_date = date(2026, 7, 27)
+        listings = [
+            make_listing(),
+            make_listing(company_name="Closed", active=False),
+            make_listing(company_name="Hidden", is_visible=False),
+            make_listing(company_name="Wrong term", terms=["Summer 2026"]),
+            make_listing(
+                company_name="Wrong date",
+                date_posted=int(datetime(2026, 7, 26, 23, 59, tzinfo=TIME_ZONE).timestamp()),
+            ),
+        ]
+
+        matches = listings_posted_on(listings, target_date)  # type: ignore[arg-type]
+
+        self.assertEqual([listing["company_name"] for listing in matches], ["Example"])
+
+    def test_plain_text_includes_role_and_credits(self) -> None:
+        body = format_plain_text([make_listing()], date(2026, 7, 27))  # type: ignore[list-item]
+
+        self.assertIn("Example — Software Engineer Intern", body)
+        self.assertIn("https://example.com/apply", body)
+        self.assertIn("credited to Simplify and Pitt CSC", body)
+
+    def test_plain_text_handles_no_new_roles(self) -> None:
+        body = format_plain_text([], date(2026, 7, 27))
+
+        self.assertIn("0 new Summer 2027 positions", body)
+        self.assertIn("No new active", body)
+
+
+if __name__ == "__main__":
+    unittest.main()

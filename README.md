@@ -12,6 +12,8 @@
 
   🙏 **Found a missing or outdated role? Please [contribute it to the upstream project](https://github.com/SimplifyJobs/Summer2026-Internships/issues/new/choose) so everyone benefits. See their [contribution guidelines](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/CONTRIBUTING.md).** 🙏
 
+  📬 **Want a daily inbox digest? Follow the [4:11 PM email setup guide](./EMAIL_DIGEST_SETUP.md).**
+
 ---
 
 ### Browse 92 Internship Roles by Category

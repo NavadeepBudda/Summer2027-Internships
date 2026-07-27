@@ -8,10 +8,10 @@ dependencies = ["typer>=0.21.1"]
 dev = ["ruff>=0.14.11", "mypy>=1.19.1", "taskipy>=1.14.1"]
 
 [tool.taskipy.tasks]
-lint = "ruff check main.py list_updater/"
-format = "ruff format main.py list_updater/"
-format-check = "ruff format --check main.py list_updater/"
-typecheck = "mypy main.py list_updater/"
+lint = "ruff check main.py list_updater/ scripts/ tests/"
+format = "ruff format main.py list_updater/ scripts/ tests/"
+format-check = "ruff format --check main.py list_updater/ scripts/ tests/"
+typecheck = "mypy main.py list_updater/ scripts/daily_email_digest.py"
 check = "task lint && task format-check && task typecheck"
 
 [tool.ruff]
