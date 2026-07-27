@@ -1,4 +1,4 @@
-"""Tests for the daily Summer 2027 email digest."""
+"""Tests for the daily Summer 2027 GitHub digest."""
 
 import sys
 import unittest
@@ -7,7 +7,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from scripts.daily_email_digest import TIME_ZONE, format_plain_text, listings_posted_on
+from scripts.daily_github_digest import TIME_ZONE, format_markdown, listings_posted_on
 
 
 def make_listing(**overrides: object) -> dict[str, object]:
@@ -27,7 +27,7 @@ def make_listing(**overrides: object) -> dict[str, object]:
     return listing
 
 
-class DailyEmailDigestTests(unittest.TestCase):
+class DailyGitHubDigestTests(unittest.TestCase):
     """Verify filtering and digest formatting."""
 
     def test_filters_to_active_visible_target_term_and_date(self) -> None:
@@ -47,17 +47,17 @@ class DailyEmailDigestTests(unittest.TestCase):
 
         self.assertEqual([listing["company_name"] for listing in matches], ["Example"])
 
-    def test_plain_text_includes_role_and_credits(self) -> None:
-        body = format_plain_text([make_listing()], date(2026, 7, 27))  # type: ignore[list-item]
+    def test_markdown_includes_role_and_credits(self) -> None:
+        body = format_markdown([make_listing()], date(2026, 7, 27))  # type: ignore[list-item]
 
-        self.assertIn("Example — Software Engineer Intern", body)
-        self.assertIn("https://example.com/apply", body)
-        self.assertIn("credited to Simplify and Pitt CSC", body)
+        self.assertIn("| Example | Software Engineer Intern |", body)
+        self.assertIn("[Apply](https://example.com/apply)", body)
+        self.assertIn("credited to [Simplify]", body)
 
-    def test_plain_text_handles_no_new_roles(self) -> None:
-        body = format_plain_text([], date(2026, 7, 27))
+    def test_markdown_handles_no_new_roles(self) -> None:
+        body = format_markdown([], date(2026, 7, 27))
 
-        self.assertIn("0 new Summer 2027 positions", body)
+        self.assertIn("# 0 new Summer 2027 positions", body)
         self.assertIn("No new active", body)
 
 

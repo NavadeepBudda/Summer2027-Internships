@@ -42,7 +42,7 @@ jobs:
         run: uv run ruff format --check main.py list_updater/ scripts/ tests/
 
       - name: Run mypy
-        run: uv run mypy main.py list_updater scripts/daily_email_digest.py
+        run: uv run mypy main.py list_updater scripts/daily_github_digest.py
 
       - name: Run unit tests
-        run: uv run python -m unittest tests/test_daily_email_digest.py
+        run: uv run python -m unittest tests/test_daily_github_digest.py

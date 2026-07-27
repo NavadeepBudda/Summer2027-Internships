@@ -11,7 +11,7 @@ dev = ["ruff>=0.14.11", "mypy>=1.19.1", "taskipy>=1.14.1"]
 lint = "ruff check main.py list_updater/ scripts/ tests/"
 format = "ruff format main.py list_updater/ scripts/ tests/"
 format-check = "ruff format --check main.py list_updater/ scripts/ tests/"
-typecheck = "mypy main.py list_updater/ scripts/daily_email_digest.py"
+typecheck = "mypy main.py list_updater/ scripts/daily_github_digest.py"
 check = "task lint && task format-check && task typecheck"
 
 [tool.ruff]

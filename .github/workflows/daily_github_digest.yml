@@ -1,0 +1,94 @@
+name: Daily Summer 2027 Digest
+
+on:
+  schedule:
+    # Run at both possible 4:11 PM Eastern UTC offsets. The delivery-window
+    # check below selects the correct run across daylight saving time.
+    - cron: "11 20 * * *"
+    - cron: "11 21 * * *"
+  workflow_dispatch:
+    inputs:
+      create_issue:
+        description: "Create and assign the digest issue during this manual test"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: daily-summer-2027-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check Eastern delivery window
+        id: delivery-window
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          python - <<'PY'
+          import os
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+
+          now = datetime.now(ZoneInfo("America/New_York"))
+          should_deliver = os.environ["EVENT_NAME"] == "workflow_dispatch" or now.hour == 16
+          with open(os.environ["GITHUB_OUTPUT"], "a") as output:
+              print(f"should-deliver={str(should_deliver).lower()}", file=output)
+              print(f"digest-date={now:%Y-%m-%d}", file=output)
+              print(f"digest-title=Summer 2027 internship digest — {now:%B %d, %Y}", file=output)
+          print(f"Current Eastern time: {now:%Y-%m-%d %H:%M %Z}")
+          PY
+
+      - name: Download the latest upstream listing database
+        if: steps.delivery-window.outputs.should-deliver == 'true'
+        run: |
+          curl --fail --silent --show-error --location \
+            https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json \
+            --output .github/scripts/listings.json
+
+      - name: Generate digest
+        if: steps.delivery-window.outputs.should-deliver == 'true'
+        run: |
+          python scripts/daily_github_digest.py \
+            --date "${{ steps.delivery-window.outputs.digest-date }}" \
+            --output daily-digest.md
+
+      - name: Create and assign digest issue
+        if: >-
+          steps.delivery-window.outputs.should-deliver == 'true' &&
+          (github.event_name == 'schedule' || inputs.create_issue)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DIGEST_TITLE: ${{ steps.delivery-window.outputs.digest-title }}
+        run: |
+          existing_issue=$(gh issue list --state all --limit 100 --json number,title \
+            --jq '.[] | select(.title == env.DIGEST_TITLE) | .number' | head -1)
+          if [ -n "$existing_issue" ]; then
+            echo "Digest issue #$existing_issue already exists for today."
+            exit 0
+          fi
+
+          gh label create daily-digest \
+            --color "1D76DB" \
+            --description "Daily Summer 2027 internship notification" \
+            --force
+          gh issue create \
+            --title "$DIGEST_TITLE" \
+            --body-file daily-digest.md \
+            --assignee NavadeepBudda \
+            --label daily-digest
