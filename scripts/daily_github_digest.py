@@ -3,7 +3,7 @@
 
 import argparse
 import json
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Any
 from zoneinfo import ZoneInfo
@@ -15,6 +15,22 @@ UPSTREAM_URL = "https://github.com/SimplifyJobs/Summer2026-Internships"
 DEFAULT_LISTINGS_PATH = Path(".github/scripts/listings.json")
 
 type Listing = dict[str, Any]
+
+
+def should_deliver(event_name: str, schedule_expression: str, now: datetime) -> bool:
+    """Decide whether this is the correct Eastern-time schedule.
+
+    GitHub may start scheduled workflows substantially late, so this uses the
+    triggering cron expression and the day's UTC offset instead of the actual
+    start hour.
+    """
+    if event_name == "workflow_dispatch":
+        return True
+
+    utc_offset = now.utcoffset()
+    return (schedule_expression == "11 20 * * *" and utc_offset == timedelta(hours=-4)) or (
+        schedule_expression == "11 21 * * *" and utc_offset == timedelta(hours=-5)
+    )
 
 
 def load_listings(path: Path) -> list[Listing]:

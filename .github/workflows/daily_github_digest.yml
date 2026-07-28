@@ -39,19 +39,29 @@ jobs:
         id: delivery-window
         env:
           EVENT_NAME: ${{ github.event_name }}
+          SCHEDULE_EXPRESSION: ${{ github.event.schedule }}
         run: |
           python - <<'PY'
           import os
           from datetime import datetime
           from zoneinfo import ZoneInfo
 
+          from scripts.daily_github_digest import should_deliver
+
           now = datetime.now(ZoneInfo("America/New_York"))
-          should_deliver = os.environ["EVENT_NAME"] == "workflow_dispatch" or now.hour == 16
+          deliver = should_deliver(
+              os.environ["EVENT_NAME"],
+              os.environ.get("SCHEDULE_EXPRESSION", ""),
+              now,
+          )
           with open(os.environ["GITHUB_OUTPUT"], "a") as output:
-              print(f"should-deliver={str(should_deliver).lower()}", file=output)
+              print(f"should-deliver={str(deliver).lower()}", file=output)
               print(f"digest-date={now:%Y-%m-%d}", file=output)
               print(f"digest-title=Summer 2027 internship digest — {now:%B %d, %Y}", file=output)
-          print(f"Current Eastern time: {now:%Y-%m-%d %H:%M %Z}")
+          print(
+              f"Current Eastern time: {now:%Y-%m-%d %H:%M %Z}; "
+              f"trigger: {os.environ.get('SCHEDULE_EXPRESSION', 'manual')}; deliver: {deliver}"
+          )
           PY
 
       - name: Download the latest upstream listing database

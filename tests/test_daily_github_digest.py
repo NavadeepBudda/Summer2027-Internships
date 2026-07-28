@@ -7,7 +7,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from scripts.daily_github_digest import TIME_ZONE, format_markdown, listings_posted_on
+from scripts.daily_github_digest import TIME_ZONE, format_markdown, listings_posted_on, should_deliver
 
 
 def make_listing(**overrides: object) -> dict[str, object]:
@@ -59,6 +59,23 @@ class DailyGitHubDigestTests(unittest.TestCase):
 
         self.assertIn("# 0 new Summer 2027 positions", body)
         self.assertIn("No new active", body)
+
+    def test_delayed_summer_schedule_still_delivers(self) -> None:
+        delayed_start = datetime(2026, 7, 27, 17, 20, tzinfo=TIME_ZONE)
+
+        self.assertTrue(should_deliver("schedule", "11 20 * * *", delayed_start))
+        self.assertFalse(should_deliver("schedule", "11 21 * * *", delayed_start))
+
+    def test_delayed_winter_schedule_still_delivers(self) -> None:
+        delayed_start = datetime(2027, 1, 27, 18, 20, tzinfo=TIME_ZONE)
+
+        self.assertTrue(should_deliver("schedule", "11 21 * * *", delayed_start))
+        self.assertFalse(should_deliver("schedule", "11 20 * * *", delayed_start))
+
+    def test_manual_dispatch_always_delivers(self) -> None:
+        now = datetime(2026, 7, 27, 9, 0, tzinfo=TIME_ZONE)
+
+        self.assertTrue(should_deliver("workflow_dispatch", "", now))
 
 
 if __name__ == "__main__":
