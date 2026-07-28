@@ -2,69 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "NBCUniversal",
-        "id": "ab56e98e-f29c-4c5a-8cec-b70041f344ac",
-        "title": "Media Tech Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764514809,
-        "date_posted": 1764514809,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000092794882",
-        "locations": [
-            "Centennial, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "NBCUniversal",
-        "id": "5b11cc92-9f3a-4eaa-b2cf-8003e8952b08",
-        "title": "Media Tech \u2013 Enterprise Product Internships - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764514813,
-        "date_posted": 1764514813,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000092796287",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NBCUniversal",
-        "id": "163ed35d-b8bc-4ced-bea7-7db8c98908ef",
-        "title": "Media Tech Data Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764514820,
-        "date_posted": 1764514820,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000092796425",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Seagate Technology ",
         "id": "d0c89212-5037-46e1-8f70-d91d64dd1182",
         "title": "Software Engineer",
@@ -1233,27 +1170,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Qorvo",
-        "id": "1eed9aec-c01a-4d91-a985-ea772b0a934a",
-        "title": "Product Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764510758,
-        "date_posted": 1764510758,
-        "url": "https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1340354900/?ats=successfactors",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "NBCUniversal",
         "id": "20d5cfa5-f533-4fe0-bc51-d80119d453c7",
         "title": "Engineering Intern",
@@ -1268,27 +1184,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LinkedIn",
-        "id": "31b5a900-9531-4d1b-b336-9e5e30b1b927",
-        "title": "AI/ML Engineer Intern - Generative AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764512766,
-        "date_posted": 1764512766,
-        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000095221125",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/LinkedIn",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -325587,7 +325482,7 @@
         "company_name": "GE Healthcare",
         "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
         "title": "Field Service Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336641,7 +336536,7 @@
         "company_name": "Varian",
         "id": "5552be60-0f97-4b78-9b64-2eb8fef91cee",
         "title": "Product Engineering Assistant Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338287,7 +338182,7 @@
         "company_name": "MSM Inc.",
         "id": "6277e90d-1e91-4b5e-9644-631c6bdaa131",
         "title": "AI Solutions Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339343,7 +339238,7 @@
         "company_name": "RTX",
         "id": "96f057ba-4984-4466-ad7a-4e8f75d1ddf9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339828,7 +339723,7 @@
         "company_name": "Bank of Montreal",
         "id": "b3adad35-fbd3-410d-a07f-c9df9cf024d9",
         "title": "Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339917,7 +339812,7 @@
         "company_name": "Northrop Grumman",
         "id": "97736cf7-6766-46a2-81bc-b5cc5f9ea248",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340414,5 +340309,31 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Citadel Securities",
+        "id": "d4041518-dc22-4f01-96d9-aa0030510fd8",
+        "title": "FPGA Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785248432,
+        "date_posted": 1783318269,
+        "url": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
