@@ -10,17 +10,17 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 ---
 
-### Browse 381 Internship Roles by Category
+### Browse 379 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (119)
 
 📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (21)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (146)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (145)
 
 📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (18)
 
-🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (77)
+🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (76)
 
 ---
 
@@ -4930,7 +4930,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/SharkNinja?utm_source=GHList&utm_medium=company">SharkNinja</a></strong></td>
 <td>Fall 2026: Product Development Co-op - Shark - July to December</td>
 <td>Needham, MA</td>
 <td>Fall 2026</td>
@@ -5862,14 +5862,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>26d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/OutputBio?utm_source=GHList&utm_medium=company">Output Biosciences</a></strong></td>
-<td>Research Intern - Machine Learning 🎓</td>
-<td>SF<br>NYC</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/366c2106-60ad-48af-b7c0-95537c275a17?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Arlington-County-VA?utm_source=GHList&utm_medium=company">Arlington County VA</a></strong></td>
 <td>Utility Engineering Intern</td>
 <td>Arlington, VA</td>
@@ -6202,7 +6194,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 
 <details>
-<summary>🗃️ Inactive roles (484)</summary>
+<summary>🗃️ Inactive roles (485)</summary>
 
 <table>
 <thead>
@@ -7004,6 +6996,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td><strong><a href="https://simplify.jobs/c/Micron-Technology?utm_source=GHList&utm_medium=company">Micron Technology</a></strong></td>
 <td>Assembly Process Technician Intern - Yield Enhancement / Failure Analysis</td>
 <td>Leander, TX</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/OutputBio?utm_source=GHList&utm_medium=company">Output Biosciences</a></strong></td>
+<td>Research Intern - Machine Learning 🎓</td>
+<td>SF<br>NYC</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>26d</td>
@@ -11076,14 +11076,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Software Integration Engineer Intern - Software Integration Engineer - Service Tooling</td>
-<td>Fremont, CA</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://www.tesla.com/careers/search/job/271866?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/374d074b-0137-4dae-98f5-8441c0136ad4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
 <td>Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering</td>
 <td>Palo Alto, CA</td>
@@ -11096,7 +11088,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 
 <details>
-<summary>🗃️ Inactive roles (233)</summary>
+<summary>🗃️ Inactive roles (234)</summary>
 
 <table>
 <thead>
@@ -11546,6 +11538,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>↳</td>
 <td>Software Integration Engineer Intern - Software Integration Engineer - Battery Management Systems</td>
 <td>Palo Alto, CA</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Integration Engineer Intern - Software Integration Engineer - Service Tooling</td>
+<td>Fremont, CA</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>1mo</td>
@@ -12550,6 +12550,22 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>🔒</td>
 <td>3mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Atomic-Semi?utm_source=GHList&utm_medium=company">Atomic Semi</a></strong></td>
+<td>Automation Software Engineering Intern</td>
+<td>SF</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Red-Bull-Advanced-Technologies?utm_source=GHList&utm_medium=company">Red Bull Advanced Technologies</a></strong></td>
+<td>Model Maker Apprentice</td>
+<td>Milton Keynes, UK</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -12576,22 +12592,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Atomic-Semi?utm_source=GHList&utm_medium=company">Atomic Semi</a></strong></td>
-<td>Automation Software Engineering Intern</td>
-<td>SF</td>
-<td>Fall 2026</td>
-<td>🔒</td>
-<td>4mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Red-Bull-Advanced-Technologies?utm_source=GHList&utm_medium=company">Red Bull Advanced Technologies</a></strong></td>
-<td>Model Maker Apprentice</td>
-<td>Milton Keynes, UK</td>
-<td>Fall 2026</td>
-<td>🔒</td>
-<td>4mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Atomic-Semi?utm_source=GHList&utm_medium=company">Atomic Semi</a></strong></td>
 <td>Embedded Software Engineering Intern</td>
@@ -12921,7 +12921,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/SharkNinja?utm_source=GHList&utm_medium=company">SharkNinja</a></strong></td>
 <td>Fall 2026: Product Test Engineering Co-op - Ninja - July to December</td>
 <td>Needham, MA</td>
 <td>Fall 2026</td>
