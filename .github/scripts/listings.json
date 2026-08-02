@@ -1,135 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "6f24cfe5-46c6-4a95-a973-d02fb02376ad",
-        "title": "Bell Labs Fiber Optics Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1764906270,
-        "date_posted": 1764906270,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27739",
-        "locations": [
-            "Berkeley Heights, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "f2e04e83-81ad-4024-8a5a-ea44a3b569af",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764905859,
-        "date_posted": 1764905859,
-        "url": "https://careers-gdms.icims.com/jobs/69605/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dedham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "ea5ef721-be72-4fa5-8146-70bce7581cac",
-        "title": "SW Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764905895,
-        "date_posted": 1764905895,
-        "url": "https://careers-gdms.icims.com/jobs/69559/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Brooklyn, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "a188f11f-2d43-4393-b93a-9b6599217778",
-        "title": "SW Engineering Intern - CWL Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764905874,
-        "date_posted": 1764905874,
-        "url": "https://careers-gdms.icims.com/jobs/69437/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Manassas, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "3380ed07-c341-471a-8ada-5a3b0d8db748",
-        "title": "Software Engineer Intern - Tcs",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764905882,
-        "date_posted": 1764905882,
-        "url": "https://careers-gdms.icims.com/jobs/69647/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Manassas, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "d8b1c841-f923-49e5-881d-2bf453996c27",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764905848,
-        "date_posted": 1764905848,
-        "url": "https://careers-gdms.icims.com/jobs/69606/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dedham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "The Aerospace Corporation",
         "id": "2c289eb5-790f-40ad-82fd-132a54ea6869",
@@ -46971,27 +46842,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Prime",
-        "id": "091129ef-b34f-489b-a1d9-4045abdf01dd",
-        "title": "Operations Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768357193,
-        "date_posted": 1764905658,
-        "url": "https://careers-primeinc.icims.com/jobs/4915/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Downers Grove, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Primeinc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -321162,9 +321012,9 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Rivian",
-        "id": "bd784f4e-7ef9-4ba6-98c3-407476163c6d",
+        "id": "3d06c27f-be5d-4769-a58b-6bf05b60a50a",
         "title": "Machine Learning Compiler Intern - Machine Learning Compiler",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -333388,7 +333238,7 @@
         "company_name": "Blackberry",
         "id": "a66dc648-8c3f-403a-8640-01dd140e2822",
         "title": "Application Engineering Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -336630,7 +336480,7 @@
         "company_name": "Marsh & McLennan",
         "id": "f9fe7e9f-de7d-47c2-875e-a933cee69ede",
         "title": "Data and Analytics Team Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -338139,9 +337989,9 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "AMD",
-        "id": "751b37f3-e092-4cf4-a813-7e16d43d89ce",
+        "id": "4f672998-821f-4318-8e79-68a8b7d4734b",
         "title": "Analog/Mixed-Signal Serdes Design Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
