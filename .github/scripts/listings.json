@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Powell",
-        "id": "0bd0599a-6034-42af-b04a-615915c012b4",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1765051866,
-        "date_posted": 1765051866,
-        "url": "https://ekcf.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6630",
-        "locations": [
-            "Melrose Park, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Powell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Dexcom",
         "id": "20b6ea75-9646-40c3-a3f4-aaac9c4fcdbe",
@@ -27771,27 +27750,6 @@
             "Montgomery, IL"
         ],
         "company_url": "https://simplify.jobs/c/Entegris",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dallas Fort Worth International Airport",
-        "id": "8057e22f-c7e5-4d1a-9257-7f9d6641798e",
-        "title": "Undergraduate Intern - Public Safety Research & Analytics",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765055868,
-        "date_posted": 1765055868,
-        "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DPS-Headquarters/XMLNAME-2026-Undergraduate-Summer-Internship---Public-Safety-Research---Analytics_JR101089",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Dallas-Fort-Worth-International-Airport",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
