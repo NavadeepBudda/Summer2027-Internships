@@ -10,13 +10,13 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 ---
 
-### Browse 478 Internship Roles by Category
+### Browse 477 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (146)
 
 📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (25)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (193)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (192)
 
 📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (19)
 
@@ -6726,14 +6726,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Two-Six-Technologies?utm_source=GHList&utm_medium=company">Two Six Technologies</a></strong></td>
-<td>China Subject Matter Expert Intern</td>
-<td>Remote in USA</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/35880e25-246d-4a52-9e52-2241407852fd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Bot-Auto?utm_source=GHList&utm_medium=company">Bot Auto</a></strong></td>
 <td>Deep Learning Engineer Intern 🎓</td>
 <td>Houston, TX</td>
@@ -7018,7 +7010,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 
 <details>
-<summary>🗃️ Inactive roles (509)</summary>
+<summary>🗃️ Inactive roles (510)</summary>
 
 <table>
 <thead>
@@ -7996,6 +7988,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>🔥 <strong><a href="https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company">Intel</a></strong></td>
 <td>Data Engineer Intern</td>
 <td>Austin, TX</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Two-Six-Technologies?utm_source=GHList&utm_medium=company">Two Six Technologies</a></strong></td>
+<td>China Subject Matter Expert Intern</td>
+<td>Remote in USA</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>1mo</td>
@@ -11827,6 +11827,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td><div align="center"><a href="https://jobs.eu.lever.co/cirrus/285c6096-5bc0-438e-abc6-b9768891167d/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b802a26c-5e65-435f-976f-f65a21e784c0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>21d</td>
 </tr>
+<tr>
+<td>↳</td>
+<td>Analog Design Engineer Co-op - Analog Design Engineer 🎓</td>
+<td>Greensboro, NC</td>
+<td>Fall 2026</td>
+<td><div align="center"><a href="https://jobs.eu.lever.co/cirrus/8ad92ca2-1f67-4a86-a5cf-12b7b2981960/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5f3f7649-8bab-4c94-b667-18e0c7aa3f25?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>21d</td>
+</tr>
 </tbody>
 </table>
 
@@ -11853,14 +11861,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 </thead>
 <tbody>
 
-<tr>
-<td>↳</td>
-<td>Analog Design Engineer Co-op - Analog Design Engineer 🎓</td>
-<td>Greensboro, NC</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://jobs.eu.lever.co/cirrus/8ad92ca2-1f67-4a86-a5cf-12b7b2981960/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5f3f7649-8bab-4c94-b667-18e0c7aa3f25?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Duracell?utm_source=GHList&utm_medium=company">Duracell</a></strong></td>
 <td>Electronics Tech Intern</td>
