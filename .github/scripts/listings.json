@@ -2,265 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Plexus",
-        "id": "842e69a5-d5bc-491d-807b-1acfea48abd2",
-        "title": "Intern \u2013 Product Engineer - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765265323,
-        "date_posted": 1765265323,
-        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Product-Engineer--Summer-2026-_R033663-1",
-        "locations": [
-            "Neenah, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Plexus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MKS Instruments",
-        "id": "a8536358-005c-4b52-9d86-a419e3b89c8f",
-        "title": "Compliance Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765264990,
-        "date_posted": 1765264990,
-        "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Irvine-CA/XMLNAME-2026-Spring-to-Fall-Product-Environmental-Compliance-Co-op_R14534",
-        "locations": [
-            "Irvine, CA",
-            "Beaverton, OR",
-            "Broomfield, CO",
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/MKS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Schweitzer Engineering Laboratories",
-        "id": "596464a2-d68c-4e09-845f-2c85f3474255",
-        "title": "Designer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1765264881,
-        "date_posted": 1765264881,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Canada---Calgary/Designer-Intern_2025-18710",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Airbnb",
-        "id": "73a68e3e-6de3-498a-98c8-8a01911b0357",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765264231,
-        "date_posted": 1765264231,
-        "url": "https://careers.airbnb.com/positions/7453837?gh_jid=7453837",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Airbnb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intuitive Surgical",
-        "id": "6f4503ae-2591-4f2e-a268-2525b51554e2",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765266485,
-        "date_posted": 1765266485,
-        "url": "https://jobs.smartrecruiters.com/Intuitive/744000097624745",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "0ea55151-6d85-44de-b8b3-22f1239039b8",
-        "title": "Embedded Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765266255,
-        "date_posted": 1765266255,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26678",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veolia",
-        "id": "9ecba065-df34-4f39-a962-6638c3c36103",
-        "title": "Application Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765266020,
-        "date_posted": 1765266020,
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000097610715",
-        "locations": [
-            "Oakville, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Veolia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Autodesk",
-        "id": "024af9c7-745f-4aa9-bf0a-06e6c65f96fe",
-        "title": "Intern AI Developer",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1765272483,
-        "date_posted": 1765272483,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer---Stagiaire-en-dveloppement-IA_25WD93808",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Axiom Space",
-        "id": "40f87bfe-c8ea-4380-8289-bf6cff56df43",
-        "title": "Software Application Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765272082,
-        "date_posted": 1765272082,
-        "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Application-Engineering-Intern--Summer-2026-_JR100357-1",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AxiomSpace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CSL",
-        "id": "e0f4aec4-a5ac-49fd-8f5b-2976518c1a1a",
-        "title": "Plasma Innovation & Project Delivery Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765274455,
-        "date_posted": 1765274455,
-        "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-FL-Boca-Raton-CSL-Plasma/Plasma-Innovation---Project-Delivery-Intern_R-263392",
-        "locations": [
-            "Boca Raton, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/CSL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CME Group",
-        "id": "ba689326-1b4e-44e3-a596-fe99b6a33d47",
-        "title": "Data Science Intern - Summer 2026 - Fall 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1765273902,
-        "date_posted": 1765273902,
-        "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Data-Science-Intern---Summer-2026---Fall-2026_33559",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/CME-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Analog Devices",
-        "id": "7cc66d08-5bae-45dd-a9ff-9d0f71976eea",
-        "title": "Digital Design Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765273560,
-        "date_posted": 1765273560,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Digital-Design-Intern_R258559",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Motorola",
         "id": "fd02109c-3f62-485f-8641-43691a068435",
         "title": "Software Development Intern/Co-op",
@@ -44727,7 +44468,7 @@
         "company_name": "TikTok",
         "id": "e7d90cdc-955f-4bb2-8a94-81ea48265d84",
         "title": "Software Engineer Intern - Ads Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -231374,7 +231115,7 @@
         "company_name": "GE Healthcare",
         "id": "16245ae0-c25a-4918-a292-b5fdd502742f",
         "title": "Surgery Field Engineer Apprentice Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -231495,7 +231236,7 @@
         "company_name": "Tencent",
         "id": "5d7f71ac-5019-4377-9a96-d95b20a6befe",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296407,7 +296148,7 @@
         "company_name": "Solar Turbines",
         "id": "480b1ffd-7a33-4a90-9d19-fd390e121055",
         "title": "Gas Compressor Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327720,7 +327461,7 @@
         "company_name": "GE Healthcare",
         "id": "18762fe0-77c9-4c38-9e4c-d649c204e975",
         "title": "Surgery Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331143,7 +330884,7 @@
         "company_name": "Rockwell Automation",
         "id": "7f0b4b51-7fe2-4636-acda-1f3a52a12e19",
         "title": "Applied AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333718,7 +333459,7 @@
         "company_name": "Cohere",
         "id": "84c60471-c6d0-43de-9f00-63407856c63e",
         "title": "Data Annotation Specialist - Simplified Chinese / Mandarin",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337834,7 +337575,7 @@
         "company_name": "HireVue",
         "id": "96b741b8-2256-4846-ae66-6fbce7641a46",
         "title": "IO Product Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342611,13 +342352,36 @@
         "company_name": "Canva",
         "id": "b42d28f6-494f-4b0a-8e40-29dd669c4846",
         "title": "PhD Research Scientist Intern - Generative AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
         "date_updated": 1785996541,
         "date_posted": 1785996426,
         "url": "https://jobs.smartrecruiters.com/Canva/6000000001289897",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Canva",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Canva",
+        "id": "40fce4fe-2ffc-4371-9b54-174b5b8f649b",
+        "title": "PhD Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786006981,
+        "date_posted": 1786006941,
+        "url": "https://jobs.smartrecruiters.com/Canva/6000000001291655",
         "locations": [
             "SF"
         ],
