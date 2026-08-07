@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 85 Inactive Internship Roles by Category
+### Browse 87 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (31)
 
@@ -17,7 +17,7 @@
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (17)
 
-📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (26)
+📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (28)
 
 🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (3)
 
@@ -575,6 +575,13 @@
 </tr>
 <tr>
 <td>↳</td>
+<td>Real Estate Equity Investment Analyst Program</td>
+<td><details><summary><strong>5 locations</strong></summary>SF<br>Newark, NJ<br>Chicago, IL<br>NYC<br>Atlanta, GA</details></td>
+<td>🔒</td>
+<td>19d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Real Estate – Agency Investment Analyst Program</td>
 <td>Chicago, IL<br>Arlington, VA</td>
 <td>🔒</td>
@@ -584,6 +591,13 @@
 <td><strong><a href="https://simplify.jobs/c/PGIM?utm_source=GHList&utm_medium=company">PGIM</a></strong></td>
 <td>Real Estate Originations Investment Analyst Program</td>
 <td><details><summary><strong>7 locations</strong></summary>SF<br>LA<br>Dallas, TX<br>Chicago, IL<br>Arlington, VA<br>NYC<br>Atlanta, GA</details></td>
+<td>🔒</td>
+<td>19d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Real Estate Equity Investment Analyst Program</td>
+<td><details><summary><strong>5 locations</strong></summary>SF<br>Newark, NJ<br>Chicago, IL<br>NYC<br>Atlanta, GA</details></td>
 <td>🔒</td>
 <td>19d</td>
 </tr>
