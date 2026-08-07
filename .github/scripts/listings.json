@@ -1,51 +1,5 @@
 [
     {
-        "date_updated": 1765387587,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/",
-        "company_name": "Westinghouse",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Shoreview, MN"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "faaeecec-2f51-4926-b379-c75a7cabe96b",
-        "date_posted": 1765387587,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "T-Mobile",
-        "id": "ce73b4b5-d4aa-43b0-be54-ee65b485dff2",
-        "title": "Associate Product Manager",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765386436,
-        "date_posted": 1765386436,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2026-Associate-Product-Manager-Internship_REQ340099",
-        "locations": [
-            "Frisco, TX",
-            "Bellevue, WA",
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1765481140,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -262841,7 +262795,7 @@
         "company_name": "Formlabs",
         "id": "00f44446-ad17-4f48-b8bb-b740cf261ff7",
         "title": "Hardware Systems Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -286072,7 +286026,7 @@
         "company_name": "Tesla",
         "id": "183067f3-544e-4de5-8991-0da96367cf8d",
         "title": "Applied AI Engineer Intern - AI Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338549,7 +338503,7 @@
         "company_name": "Sargent & Lundy",
         "id": "e5d6ed75-e71c-4466-a1c4-803fdc3bb93a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
