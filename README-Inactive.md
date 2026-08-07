@@ -410,7 +410,7 @@
 <td>AI & Automation Intern - Summer 2027</td>
 <td>Wilmington, DE</td>
 <td>🔒</td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Williams?utm_source=GHList&utm_medium=company">Williams</a></strong></td>
