@@ -323282,7 +323282,7 @@
         "company_name": "FTI Consulting",
         "id": "5efbd1de-4e9a-48b1-82f2-9d2d0c6f3914",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324622,7 +324622,7 @@
         "company_name": "CVS Health",
         "id": "40c1294a-a472-402c-882b-843d26a07449",
         "title": "Analytics & Behavior Change - Data Science - Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
