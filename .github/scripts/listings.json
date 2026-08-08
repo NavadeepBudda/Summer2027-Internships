@@ -331131,7 +331131,7 @@
         "company_name": "AcreTrader",
         "id": "fd7fd37a-f2c7-4788-9c80-409d4ae8a683",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334840,7 +334840,7 @@
         "company_name": "Roblox",
         "id": "f89dbf35-2e68-4087-a28a-1092da1e72d4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338399,6 +338399,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Eko Health",
+        "id": "ccc26e13-7964-413d-8db2-404361781e7a",
+        "title": "Clinical Product Strategy Intern - Clinical Technology",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786192237,
+        "date_posted": 1785852354,
+        "url": "https://jobs.lever.co/ekohealth/ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eko-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
