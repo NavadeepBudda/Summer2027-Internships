@@ -331131,7 +331131,7 @@
         "company_name": "AcreTrader",
         "id": "fd7fd37a-f2c7-4788-9c80-409d4ae8a683",
         "title": "Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334840,7 +334840,7 @@
         "company_name": "Roblox",
         "id": "f89dbf35-2e68-4087-a28a-1092da1e72d4",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
