@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "General Motors",
-        "id": "18453d33-690b-4db4-b88d-268765e694bb",
-        "title": "Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765506841,
-        "date_posted": 1765506841,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Systems-Engineer---Autonomous-Driving--Master-s-Degree-_JR-202524216",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Sunnyvale, CA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "General Motors",
-        "id": "060ad206-693f-4c5a-9ce4-d0bcac210f5d",
-        "title": "2026 Summer Intern - Machine Learning Systems Engineer - Autonomous Driving",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765506835,
-        "date_posted": 1765506835,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Systems-Engineer---Autonomous-Driving--Bachelor-s-Degree-_JR-202523395",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Sunnyvale, CA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "The Walt Disney Company",
         "id": "b2a15756-8bb9-4eca-a0fb-8cdd5a84a96c",
@@ -36744,32 +36696,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Anthropic",
-        "id": "8a17a8bb-179e-4026-be78-6324749ad898",
-        "title": "Anthropic AI Security Fellow",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767770584,
-        "date_posted": 1765506812,
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5030244008",
-        "locations": [
-            "London, UK",
-            "SF",
-            "United States",
-            "Ontario, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anthropic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
