@@ -1642,7 +1642,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Toronto, ON, Canada</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Revvity?utm_source=GHList&utm_medium=company">Revvity</a></strong></td>
@@ -3170,7 +3170,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Toronto, ON, Canada</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -3178,7 +3178,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Toronto, ON, Canada</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -3186,7 +3186,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Toronto, ON, Canada</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
@@ -4684,7 +4684,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Remote in USA</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://jobs.lever.co/ekohealth/ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ccc26e13-7964-413d-8db2-404361781e7a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/StudyFetch?utm_source=GHList&utm_medium=company">StudyFetch</a></strong></td>
@@ -4724,7 +4724,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Southfield, MI</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000140457960?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2970def3-bba8-4f36-a2fe-f710b8bf6414?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Texas-Instruments?utm_source=GHList&utm_medium=company">Texas Instruments</a></strong></td>
@@ -5007,7 +5007,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Welwyn Garden City, UK</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TelevisaUnivision?utm_source=GHList&utm_medium=company">TelevisaUnivision</a></strong></td>
@@ -6643,7 +6643,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>London, UK</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://careers.medpace.com/jobs/12863?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/78b03927-c204-476c-947a-99cb2714c3ee?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
@@ -6883,7 +6883,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Andover, MN</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://www.careers.zurich.com/job/Anoka-Bachelor's-Apprenticeship-Data-Analytics-Anoka,-MN-MN/1366724757/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/579783d3-3f59-4f31-b459-43426edc1bd6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Stand-Insurance?utm_source=GHList&utm_medium=company">Stand Insurance</a></strong></td>
@@ -7454,7 +7454,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Sunnyvale, CA</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company">Rockwell Automation</a></strong></td>
@@ -8489,7 +8489,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Bosch-Home-Comfort?utm_source=GHList&utm_medium=company">Bosch Home Comfort</a></strong></td>
+<td>↳</td>
 <td>Foreign Trade Data Analytics Intern</td>
 <td>Western Springs, IL</td>
 <td>Fall 2026</td>
@@ -8878,7 +8878,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Toronto, ON, Canada</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -8886,7 +8886,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Toronto, ON, Canada</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies?utm_source=GHList&utm_medium=company">Rivian and Volkswagen Group Technologies</a></strong></td>
@@ -13982,7 +13982,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Plymouth, MA</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-UK?utm_source=GHList&utm_medium=company">General Dynamics UK</a></strong></td>
@@ -14894,7 +14894,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Crawley, UK</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>

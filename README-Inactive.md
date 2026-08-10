@@ -319,7 +319,7 @@
 <td>Software Developer Intern - Cyber & Analytics Business Area - Security Engineering</td>
 <td>Annapolis Junction, MD</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Anduril?utm_source=GHList&utm_medium=company">Anduril</a></strong></td>
