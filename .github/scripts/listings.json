@@ -307739,7 +307739,7 @@
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "id": "94928190-a01b-4ff0-8068-4fad65af019c",
         "title": "Student 2 - Data Management",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -327948,7 +327948,7 @@
         "company_name": "University System of New Hampshire",
         "id": "cbc54767-dc6e-40b3-a3be-54f9edcc4ef5",
         "title": "Research Assistant - Keesee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
