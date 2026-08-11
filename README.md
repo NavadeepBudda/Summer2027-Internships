@@ -17,15 +17,15 @@
 
 ---
 
-### Browse 330 Internship Roles by Category
+### Browse 329 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (117)
+💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (116)
 
 📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README.md#-product-management-internship-roles)** (24)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (105)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (106)
 
-📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (69)
+📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (68)
 
 🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (15)
 
@@ -281,13 +281,6 @@
 <td>Frontend Engineer Intern - Ads Interface</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7671211313289398581?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5cd02bbb-4f1e-49d8-a75c-44f5f6e2e968?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Atoms?utm_source=GHList&utm_medium=company">Atoms</a></strong></td>
-<td>Software Engineer Intern - Summer 2027</td>
-<td><details><summary><strong>5 locations</strong></summary>Seattle, WA<br>SF<br>LA<br>NYC<br>Mountain View, CA</details></td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2751af83-9f4f-48b8-8aba-6f534e9681e7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>3d</td>
 </tr>
 <tr>
@@ -938,7 +931,7 @@
 </table>
 
 
-🔒 **[See 39 more closed roles →](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 40 more closed roles →](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -1154,6 +1147,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Deloitte?utm_source=GHList&utm_medium=company">Deloitte</a></strong></td>
+<td>AI and Data Engineering Summer Scholar Intern - Government & Public Services</td>
+<td>Austin, TX</td>
+<td><div align="center"><a href="https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/83d5ce20-ba22-49dc-a345-e4d8c85a7ef8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Quantbot-Technologies?utm_source=GHList&utm_medium=company">Quantbot Technologies</a></strong></td>
 <td>Machine Learning Research Engineer Intern</td>
@@ -1956,13 +1956,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/PEAK6?utm_source=GHList&utm_medium=company">PEAK6</a></strong></td>
-<td>Trading Intern</td>
-<td>Chicago, IL</td>
-<td><div align="center"><a href="https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Internship-for-Women-_JR105061?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/755d53f2-611b-41ed-b60e-f7e1ed63a5ef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Trading Bootcamp Micro-Internship - Summer 2027</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fa275c09-336d-4067-ad94-70cbcecb4ed9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -2399,7 +2392,7 @@
 </table>
 
 
-🔒 **[See 31 more closed roles →](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
+🔒 **[See 32 more closed roles →](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
 
 
 
