@@ -1,47 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "84eb5f67-9a37-41b6-8a9f-6a51ba5e7c7b",
-        "title": "Insurance \u2013 Business and Data Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765671039,
-        "date_posted": 1765671039,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026-Insurance--Summer-Business-and-Data-Analyst--4-16-months-_R-0000152445",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "2d2bb44c-f253-49cb-888c-273ccdd02008",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765671034,
-        "date_posted": 1765671034,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---CLAO--Data-Analyst-Intern--4-Months-_R-0000152234",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1765785265,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -36444,27 +36402,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thales",
-        "id": "31f057e0-31a9-40ec-8092-2dace22ec47e",
-        "title": "Test Manufacturing Technician",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1766142410,
-        "date_posted": 1765670980,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/Test-Manufacturing-Technician_R0296700",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -226903,7 +226840,7 @@
         "company_name": "Regal Rexnord",
         "id": "cbab2238-fe0a-4455-883d-7e0d95e8d4fc",
         "title": "Application Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -278640,7 +278577,7 @@
         "company_name": "Tesla",
         "id": "52919742-2339-4055-82e8-694863cdb915",
         "title": "Automated Diagnostics Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -313653,7 +313590,7 @@
         "company_name": "Rivian",
         "id": "ad36c275-69d8-4f8a-a543-c15d377852e5",
         "title": "Research Park Intern - Embedded Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322353,7 +322290,7 @@
         "company_name": "NORY",
         "id": "afe0a0fb-3122-4fb0-9f95-8e945b50b092",
         "title": "Maker Education Fabricator - Prototyping",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -324550,7 +324487,7 @@
         "company_name": "Rodan Energy Solutions Inc.",
         "id": "f3544c49-d2f8-44f9-9cc4-0a42ee9bc825",
         "title": "Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
