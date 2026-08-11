@@ -315418,7 +315418,7 @@
         "company_name": "GE Healthcare",
         "id": "18762fe0-77c9-4c38-9e4c-d649c204e975",
         "title": "Surgery Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326841,7 +326841,7 @@
         "company_name": "Microsoft",
         "id": "7e143f06-1c28-41b7-9291-53a869d86325",
         "title": "Software Engineer Intern - Cloud & Distributed Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328040,7 +328040,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1924d443-3b61-47d4-addf-d6db4308935b",
         "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
