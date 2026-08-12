@@ -10,13 +10,13 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 ---
 
-### Browse 482 Internship Roles by Category
+### Browse 480 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (155)
 
-📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (26)
+📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (25)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (197)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (196)
 
 📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (23)
 
@@ -3445,7 +3445,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
 <td>Software Developer Co-op/Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>Fall 2026</td>
@@ -4967,14 +4967,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>22d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
-<td>Technology Product Analyst Intern 🎓</td>
-<td>Dallas, TX</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110077?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3c097d8a-920c-4a58-ad96-84d012227d92?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Signify?utm_source=GHList&utm_medium=company">Signify</a></strong></td>
 <td>Product Management Intern</td>
 <td>Menlo Park, CA</td>
@@ -5051,7 +5043,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 
 <details>
-<summary>🗃️ Inactive roles (99)</summary>
+<summary>🗃️ Inactive roles (100)</summary>
 
 <table>
 <thead>
@@ -5136,6 +5128,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>22d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
+<td>Technology Product Analyst Intern 🎓</td>
+<td>Dallas, TX</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Trane-Technologies?utm_source=GHList&utm_medium=company">Trane Technologies</a></strong></td>
@@ -6494,14 +6494,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>11d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/TMX-Group?utm_source=GHList&utm_medium=company">TMX Group</a></strong></td>
-<td>Analyst Student Intern - Market Insights</td>
-<td>Toronto, ON, Canada</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3725cd0e-9932-44d8-96f4-2534ae618827?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Persona-AI?utm_source=GHList&utm_medium=company">Persona AI</a></strong></td>
 <td>Machine Learning Intern - Manipulation 🎓</td>
 <td>Houston, TX</td>
@@ -7466,7 +7458,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 
 <details>
-<summary>🗃️ Inactive roles (563)</summary>
+<summary>🗃️ Inactive roles (564)</summary>
 
 <table>
 <thead>
@@ -7647,6 +7639,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>8d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/TMX-Group?utm_source=GHList&utm_medium=company">TMX Group</a></strong></td>
+<td>Analyst Student Intern - Market Insights</td>
+<td>Toronto, ON, Canada</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/PSECU?utm_source=GHList&utm_medium=company">PSECU</a></strong></td>
@@ -10321,7 +10321,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
 <td>Analyst Co-op/Intern - Months</td>
 <td>Toronto, ON, Canada</td>
 <td>Fall 2026</td>
@@ -12168,6 +12168,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td><div align="center"><a href="https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/af41c8d1-6670-4cbb-9111-9204ac3a4da9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company">Citadel</a></strong></td>
+<td>Trader: Fixed Income & Macro Intern</td>
+<td>Greenwich, CT<br>Miami, FL<br>NYC</td>
+<td>Fall 2026</td>
+<td><div align="center"><a href="https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/79ceb913-ca59-4a50-9fa9-18c378d86c3e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -12194,14 +12202,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company">Citadel</a></strong></td>
-<td>Trader: Fixed Income & Macro Intern</td>
-<td>Greenwich, CT<br>Miami, FL<br>NYC</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/79ceb913-ca59-4a50-9fa9-18c378d86c3e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Seven-Research?utm_source=GHList&utm_medium=company">Seven Research</a></strong></td>
 <td>Quantitative Researcher Intern</td>
