@@ -244399,7 +244399,7 @@
         "company_name": "Pennsylvania State University",
         "id": "a543ce3e-1976-406e-9398-c700e1bfcbad",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
