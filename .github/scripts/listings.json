@@ -323007,7 +323007,7 @@
         "company_name": "StudyFetch",
         "id": "be331c13-8c20-4369-b515-8a9ef603b26b",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327016,7 +327016,7 @@
         "company_name": "OLG",
         "id": "289e1c66-a2ae-49f2-a0f4-7b6e82152ecd",
         "title": "Risk Monitoring and Intervention Student - Safer Gambling",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335298,6 +335298,377 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ConnectPrep",
+        "id": "6fcc37f1-f667-4483-a39c-eea9d0bbc924",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786603313,
+        "date_posted": 1786602435,
+        "url": "https://apply.workable.com/connectprep/j/D1C67258C0/apply",
+        "locations": [
+            "Washington, DC",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ConnectPrep",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tuckernuck",
+        "id": "7d5cd44a-3181-49ee-88bc-83e27e241535",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786602781,
+        "date_posted": 1786602315,
+        "url": "https://tnuck.bamboohr.com/careers/273/",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/777f8586-64d6-4b58-a27e-43c19bcd1182",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RRS Group",
+        "id": "fba68433-d063-4d27-b298-93d1a9e5e965",
+        "title": "Data Engineering & Analytics Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786603125,
+        "date_posted": 1786602302,
+        "url": "https://jobs.smartrecruiters.com/RRSGroup/744000130586249",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/aef9724c-a5e1-43bf-ab08-dfeae35aff9b",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BowerGroupAsia",
+        "id": "dbd42a27-5b9c-4e33-981e-03b350eb0b21",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786603081,
+        "date_posted": 1786602272,
+        "url": "https://bga.bamboohr.com/careers/152/",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/d65da23a-3051-4f76-b620-d275aed9bef4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Picton Mahoney Asset Management",
+        "id": "a4e3a190-9d69-4f63-b959-816725dea114",
+        "title": "Business Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786603015,
+        "date_posted": 1786602225,
+        "url": "https://pictonmahoney.bamboohr.com/careers/356/",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0b130d09-83d1-4945-9831-e3f64b0a608f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Picton Mahoney Asset Management",
+        "id": "a1dfd8c9-dd85-479e-ac8d-8a56f0599e6c",
+        "title": "Quantitative Research & Risk Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786603006,
+        "date_posted": 1786602214,
+        "url": "https://pictonmahoney.bamboohr.com/careers/350/",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0b130d09-83d1-4945-9831-e3f64b0a608f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Specter Aerospace",
+        "id": "58719875-03a5-4934-aa9f-46c5b044cc97",
+        "title": "Image Processing Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1786602986,
+        "date_posted": 1786602196,
+        "url": "https://specteraerospace.bamboohr.com/careers/121/",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/407199f2-9dde-44bd-8418-cd9bc31d9758",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Specter Aerospace",
+        "id": "3bb608c1-4704-4fe1-a877-eaf540f90cc1",
+        "title": "Full Stack Developer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786602979,
+        "date_posted": 1786602193,
+        "url": "https://specteraerospace.bamboohr.com/careers/122/",
+        "locations": [
+            "Boston, MA",
+            "Peabody, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/407199f2-9dde-44bd-8418-cd9bc31d9758",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Specter Aerospace",
+        "id": "5cbd2b0f-806d-42d0-91fe-637455fe40c0",
+        "title": "Front-End Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1786602976,
+        "date_posted": 1786602184,
+        "url": "https://specteraerospace.bamboohr.com/careers/120/",
+        "locations": [
+            "Boston, MA",
+            "Peabody, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/407199f2-9dde-44bd-8418-cd9bc31d9758",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Specter Aerospace",
+        "id": "0904ea85-ce34-417f-8493-06a6299f4673",
+        "title": "Embedded Software Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1786602971,
+        "date_posted": 1786602182,
+        "url": "https://specteraerospace.bamboohr.com/careers/119/",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/407199f2-9dde-44bd-8418-cd9bc31d9758",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Calpion/Plutus Health",
+        "id": "88a8e50a-7fc5-4f13-97c6-fe8a2e9db33c",
+        "title": "AI Engineering Intern - Python & Agentic AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786602781,
+        "date_posted": 1786602186,
+        "url": "https://calpionplutus.bamboohr.com/careers/310/",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/5a21c0ed-981d-4a6f-8c0a-43374bf2d2c4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "fab6a94b-bce1-404c-bb49-443ecf37e5e8",
+        "title": "Student Researcher - AI Foundation Model Infrastructure - Seed",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786602244,
+        "date_posted": 1786601825,
+        "url": "https://jobs.bytedance.com/en/position/7673274430383032629/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wells Fargo",
+        "id": "93ceecd3-ef7a-4e11-a4d0-fb7eb399e7f3",
+        "title": "Quantitative Analytics Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786602630,
+        "date_posted": 1786579200,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Wells Fargo",
+        "id": "c0230293-14bd-4f7f-affb-255d60ae0334",
+        "title": "Quantitative Analytics Intern - Capital Markets - Masters",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786602632,
+        "date_posted": 1786579200,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "70115b81-b4c5-4a64-8a6c-5b644608f906",
+        "title": "Student Researcher - AI Foundation Model Infrastructure - Seed",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786602244,
+        "date_posted": 1786601830,
+        "url": "https://jobs.bytedance.com/en/position/7673274910202988805/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wells Fargo",
+        "id": "6f6691e6-af37-4f78-b8c5-99857e6628bf",
+        "title": "Quantitative Analytics Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786602638,
+        "date_posted": 1786579200,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--Masters----Early-Careers_R-568259",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
