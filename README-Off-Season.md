@@ -10,7 +10,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 ---
 
-### Browse 483 Internship Roles by Category
+### Browse 482 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (152)
 
@@ -20,7 +20,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (24)
 
-🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (80)
+🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (79)
 
 ---
 
@@ -111,7 +111,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Roanoke, VA</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8805a32d-c38e-4a8a-8843-ed203eec617f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/1538700b-2577-4b98-8b18-62956174eca0?utm_source=GHList&utm_medium=company">Felix Magazine</a></strong></td>
@@ -1314,7 +1314,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>NYC</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Analytic-Partners?utm_source=GHList&utm_medium=company">Analytic Partners</a></strong></td>
@@ -5890,7 +5890,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/SharkNinja?utm_source=GHList&utm_medium=company">SharkNinja</a></strong></td>
 <td>Fall 2026: Product Development Co-op - Shark - July to December</td>
 <td>Needham, MA</td>
 <td>Fall 2026</td>
@@ -12934,14 +12934,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>9d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/SRI-International?utm_source=GHList&utm_medium=company">SRI International</a></strong></td>
-<td>Embedded Software Engineer Co-op</td>
-<td>Princeton, NJ</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://careers-sri.icims.com/jobs/6431/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0184a4dc-b3d8-4d2b-ab22-6675bc6e4ec3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/7f7e8b09-483e-48b3-a4c6-b2a24c8fbc34?utm_source=GHList&utm_medium=company">Innovation Works, Inc.</a></strong></td>
 <td>Scale Prototyping Shop Intern</td>
 <td>Pittsburgh, PA</td>
@@ -13378,7 +13370,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 
 <details>
-<summary>🗃️ Inactive roles (278)</summary>
+<summary>🗃️ Inactive roles (279)</summary>
 
 <table>
 <thead>
@@ -13428,6 +13420,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>↳</td>
 <td>Optical Verification Technician Intern/Co-op</td>
 <td>Ottawa, ON, Canada</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/SRI-International?utm_source=GHList&utm_medium=company">SRI International</a></strong></td>
+<td>Embedded Software Engineer Co-op</td>
+<td>Princeton, NJ</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>9d</td>
@@ -15561,7 +15561,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/SharkNinja?utm_source=GHList&utm_medium=company">SharkNinja</a></strong></td>
 <td>Fall 2026: Product Test Engineering Co-op - Ninja - July to December</td>
 <td>Needham, MA</td>
 <td>Fall 2026</td>
