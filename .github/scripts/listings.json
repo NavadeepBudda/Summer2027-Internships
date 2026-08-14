@@ -302613,7 +302613,7 @@
         "company_name": "Magna",
         "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
         "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334757,6 +334757,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Penta Group",
+        "id": "61c28f00-6cc4-4b2c-b4c5-4694f5775150",
+        "title": "Monitoring & Insights Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786703443,
+        "date_posted": 1785852568,
+        "url": "https://jobs.lever.co/pentagrp/501478ea-6890-47e2-8994-96e50b1159f0/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/347fb703-2342-4693-ad31-908e90f7bb34",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
