@@ -33123,7 +33123,7 @@
         "company_name": "Vendelux",
         "id": "08a8a761-d653-47a6-87d0-fb6aeef65d5e",
         "title": "Part Time Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -45421,7 +45421,7 @@
         "company_name": "Vendelux",
         "id": "58ae974d-ee3d-44c5-bcbd-c75bfd65521d",
         "title": "Tech Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2025"
@@ -319031,7 +319031,7 @@
         "company_name": "Rodan Energy Solutions Inc.",
         "id": "31064e52-65df-476b-89b9-d83f6663a2cc",
         "title": "Artificial Intelligence Co-op - Data Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326699,7 +326699,7 @@
         "company_name": "John Deere",
         "id": "17936a1f-6724-46a7-a97a-6feceb9c2a92",
         "title": "Part-Time Student - Dynamic Systems Modeling - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -327835,7 +327835,7 @@
         "company_name": "CLEAResult",
         "id": "cf9613df-d8e3-4474-87fd-386eaa1816e8",
         "title": "Energy Efficiency Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334273,5 +334273,141 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dmg Media",
+        "id": "4d2fd538-d00b-4c2f-9137-dd8193ee0066",
+        "title": "AI Engineer Intern - Innovation Team",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786728270,
+        "date_posted": 1786728035,
+        "url": "https://www.dmgmedia.co.uk/careers/jobs/id/8130352?gh_jid=8130352",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Dmg-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Pikeville",
+        "id": "7c0230d2-2b89-42c4-a691-ceb3f880dd7b",
+        "title": "Economic Development and Tourism Assistant Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786728200,
+        "date_posted": 1786727876,
+        "url": "https://upike.bamboohr.com/careers/491/",
+        "locations": [
+            "Pikeville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/3ff34a66-5376-4805-977f-32d0b7c61b05",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Inherent",
+        "id": "f69493f0-d5b2-484f-9ae5-3af6564e37c3",
+        "title": "Research Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786728184,
+        "date_posted": 1786727866,
+        "url": "https://jobs.ashbyhq.com/inherent/99476712-ec65-415d-928a-ec92e5c27a73/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/3416e53e-5836-4629-b9ff-228fb66475e0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "96d0c172-f893-4193-9ab7-44f5238a335c",
+        "title": "Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786728131,
+        "date_posted": 1786665600,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-22411",
+        "locations": [
+            "Pullman, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PGIM",
+        "id": "9cc8a439-1e3e-458b-86ca-a66d29624c35",
+        "title": "Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786727974,
+        "date_posted": 1786665600,
+        "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/PGIM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Baker Hughes",
+        "id": "25747e2e-ee6b-44e3-bc88-704d6db5696a",
+        "title": "Benefit Tool Developer Intern - Month Fixed Term Contract",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786727987,
+        "date_posted": 1786665600,
+        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Intern---Benefit-Tool-Developer--12-Month-Fixed-Term-Contract-_R168066",
+        "locations": [
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Baker-Hughes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
