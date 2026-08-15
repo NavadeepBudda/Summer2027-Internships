@@ -103,7 +103,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Carlsbad, CA</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8d7b1b4b-f6f4-4db3-929d-3330c61f1430?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bank-Of-China-USA?utm_source=GHList&utm_medium=company">Bank of China USA</a></strong></td>
@@ -111,7 +111,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>NYC</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://careers-bocusa.icims.com/jobs/4470/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/67073e06-6a56-423e-8829-d36ad479d2fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/First-American?utm_source=GHList&utm_medium=company">First American</a></strong></td>
@@ -6163,7 +6163,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Knoxville, TN</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://careers.sam.biz/jobs/7674?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4d89d8ce-29c7-48d4-9a03-db3096797ce6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -6171,7 +6171,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Atlanta, GA</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://careers.sam.biz/jobs/7782?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e683494b-e060-4b63-a084-41f4f799a3be?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -6179,7 +6179,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Warner Robins, GA</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://careers.sam.biz/jobs/7780?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4602a786-39e3-49a4-9555-f9f0c95fc992?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Reyes-Beverage-Group?utm_source=GHList&utm_medium=company">Reyes Beverage Group</a></strong></td>
@@ -6187,7 +6187,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Irvine, CA</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://jobportal.reyesbeveragegroup.com/jobs/34578?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c53d912b-b9f7-47d2-b3ee-07e72c708ece?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Magnera?utm_source=GHList&utm_medium=company">Magnera</a></strong></td>
@@ -6195,7 +6195,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Evansville, IN</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fcde5fad-7ca3-4a42-a088-cf0b2bc25cbd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bank-Of-China-USA?utm_source=GHList&utm_medium=company">Bank of China USA</a></strong></td>
@@ -6203,7 +6203,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>NYC</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://careers-bocusa.icims.com/jobs/4114/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9dceacf0-6d35-489a-95b3-0b2244d0c8d2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -6211,7 +6211,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>NYC</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://careers-bocusa.icims.com/jobs/4326/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fd2f0640-b221-4c71-bf6f-c57f8f5bc712?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Snap?utm_source=GHList&utm_medium=company">Snap</a></strong></td>
@@ -13123,7 +13123,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Cranberry Township, PA</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://careers.msasafety.com/jobs/9992?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fd49417f-1327-426c-80eb-88916ec1a934?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TrueAnomaly?utm_source=GHList&utm_medium=company">True Anomaly</a></strong></td>
