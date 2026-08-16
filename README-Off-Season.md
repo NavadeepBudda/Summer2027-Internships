@@ -15550,7 +15550,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Neenah, WI</td>
 <td>Spring 2027</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Johnson-Johnson?utm_source=GHList&utm_medium=company">Johnson & Johnson</a></strong></td>
