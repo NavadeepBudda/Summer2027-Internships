@@ -15558,7 +15558,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Columbia City, IN</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company">Caterpillar Inc.</a></strong></td>
