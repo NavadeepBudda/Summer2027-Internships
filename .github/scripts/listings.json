@@ -310120,7 +310120,7 @@
         "company_name": "CLEAResult",
         "id": "35d8cb0a-56cf-478f-80bb-73ba1dafbac2",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -318349,7 +318349,7 @@
         "company_name": "GE Appliances",
         "id": "ea40b09a-1b9a-48b0-8330-24a499d63fe8",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
