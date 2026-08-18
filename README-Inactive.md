@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 141 Inactive Internship Roles by Category
+### Browse 142 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (56)
+💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (57)
 
 📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (10)
 
@@ -122,6 +122,13 @@
 <td>↳</td>
 <td>Engineering Intern</td>
 <td>Niskayuna, NY</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Sentry?utm_source=GHList&utm_medium=company">Sentry</a></strong></td>
+<td>Software Engineer Intern - Summer 2027</td>
+<td>SF</td>
 <td>🔒</td>
 <td>6d</td>
 </tr>
