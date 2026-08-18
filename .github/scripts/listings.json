@@ -218833,7 +218833,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -259755,7 +259755,7 @@
         "company_name": "Magna",
         "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
         "title": "Junior Full Stack Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -308560,7 +308560,7 @@
         "company_name": "Turner & Townsend",
         "id": "60982936-8c74-4ce2-b381-e2ef98139011",
         "title": "Corporate Responsibility Data Analyst 4 Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330415,7 +330415,7 @@
         "company_name": "RTX",
         "id": "d84d3dcb-5e6b-483f-9b73-0653b224ffcd",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
