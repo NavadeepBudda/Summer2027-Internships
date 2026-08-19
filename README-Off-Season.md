@@ -10,13 +10,13 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 ---
 
-### Browse 555 Internship Roles by Category
+### Browse 552 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (175)
 
 📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (25)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (239)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (236)
 
 📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (25)
 
@@ -7262,15 +7262,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>15d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Inizio?utm_source=GHList&utm_medium=company">Inizio</a></strong></td>
-<td>Data and Analytics Intern</td>
-<td>Manchester, UK</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/inizio/jobs/8066854?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/90bed3b5-328b-429e-a975-7d88480c2246?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Machine Learning Engineer Intern - Data Search Local Service 🎓</td>
 <td>San Jose, CA</td>
 <td>Fall 2026</td>
@@ -7315,14 +7307,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Fayetteville, AR</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fd7fd37a-f2c7-4788-9c80-409d4ae8a683?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Metropolitan-Transportation-Authority?utm_source=GHList&utm_medium=company">Metropolitan Transportation Authority</a></strong></td>
-<td>Data Analyst Intern</td>
-<td>Brooklyn, NY</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://jobs.jobvite.com/metropolitantransportationauthority/job/oboAAfwt?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a2bbc600-552a-46dd-9a72-ae7911771bb9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>15d</td>
 </tr>
 <tr>
@@ -7763,14 +7747,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Palo Alto, CA</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/genmd/807adafc-7842-4e05-90f3-9bc45dd39a13/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/25b39cd6-8460-4aa3-be55-52865cb6c034?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/d5f00788-8a84-4c23-9829-117908723401?utm_source=GHList&utm_medium=company">Veeda AI</a></strong></td>
-<td>AI Scientist Intern - Veeda AI Scientist</td>
-<td>Seattle, WA<br>Toronto, ON, Canada<br>California</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c4946cfa-e397-493b-a5f8-f1e84a399bc5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>29d</td>
 </tr>
 <tr>
@@ -8290,7 +8266,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 
 <details>
-<summary>🗃️ Inactive roles (613)</summary>
+<summary>🗃️ Inactive roles (616)</summary>
 
 <table>
 <thead>
@@ -8625,6 +8601,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>14d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Inizio?utm_source=GHList&utm_medium=company">Inizio</a></strong></td>
+<td>Data and Analytics Intern</td>
+<td>Manchester, UK</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>15d</td>
+</tr>
+<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
 <td>Software Engineer Intern - Data Platform & Analytics</td>
 <td>Redmond, WA</td>
@@ -8668,6 +8652,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td><strong><a href="https://simplify.jobs/c/Environmental-Defense-Fund?utm_source=GHList&utm_medium=company">Environmental Defense Fund</a></strong></td>
 <td>Economics and Machine Learning Intern</td>
 <td>SF<br>Remote in USA</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Metropolitan-Transportation-Authority?utm_source=GHList&utm_medium=company">Metropolitan Transportation Authority</a></strong></td>
+<td>Data Analyst Intern</td>
+<td>Brooklyn, NY</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>15d</td>
@@ -9188,6 +9180,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td><strong><a href="https://simplify.jobs/c/6c84671e-d57d-49c5-b6bb-16232f1d39f1?utm_source=GHList&utm_medium=company">Democratic National Committee</a></strong></td>
 <td>DNC Technology Intern</td>
 <td>Washington, DC</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/d5f00788-8a84-4c23-9829-117908723401?utm_source=GHList&utm_medium=company">Veeda AI</a></strong></td>
+<td>AI Scientist Intern - Veeda AI Scientist</td>
+<td>Seattle, WA<br>Toronto, ON, Canada<br>California</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>29d</td>
@@ -11496,32 +11496,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>🔒</td>
 <td>3mo</td>
 </tr>
-</tbody>
-</table>
-
----
-
-<div align="center" id="github-cutoff-warning">
-  <h2>🔗 See Full List</h2>
-  <p><strong>⚠️ GitHub preview cuts off around here due to file size limits.</strong></p>
-  <p>📋 <strong><a href="https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README.md#-see-full-list">Click here to view the complete list with all internship opportunities!</a></strong> 📋</p>
-  <p><em>To find even more internships in tech, check out <a href="https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security&jobId=2ac81173-86b5-4dbd-a7a9-260847c259cc&jobType=Internship?utm_source=GHList">Simplify's website</a>.</em></p>
-</div>
-
----
-
-<table>
-<thead>
-<tr>
-<th>Company</th>
-<th>Role</th>
-<th>Location</th>
-<th>Application</th>
-<th>Age</th>
-</tr>
-</thead>
-<tbody>
-
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
 <td>Machine Learning Intern</td>
@@ -11562,6 +11536,32 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>🔒</td>
 <td>3mo</td>
 </tr>
+</tbody>
+</table>
+
+---
+
+<div align="center" id="github-cutoff-warning">
+  <h2>🔗 See Full List</h2>
+  <p><strong>⚠️ GitHub preview cuts off around here due to file size limits.</strong></p>
+  <p>📋 <strong><a href="https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README.md#-see-full-list">Click here to view the complete list with all internship opportunities!</a></strong> 📋</p>
+  <p><em>To find even more internships in tech, check out <a href="https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security&jobId=2ac81173-86b5-4dbd-a7a9-260847c259cc&jobType=Internship?utm_source=GHList">Simplify's website</a>.</em></p>
+</div>
+
+---
+
+<table>
+<thead>
+<tr>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
+</tr>
+</thead>
+<tbody>
+
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
 <td>Analyst Co-op/Intern - Months</td>
