@@ -10,11 +10,11 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 ---
 
-### Browse 556 Internship Roles by Category
+### Browse 555 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (175)
 
-📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (26)
+📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (25)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (239)
 
@@ -5431,14 +5431,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>29d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Vega-Investment-Technologies?utm_source=GHList&utm_medium=company">Vega Investment Technologies</a></strong></td>
-<td>Product Operations Intern</td>
-<td>London, UK</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/vega/ebce385f-d4d3-4a39-a999-e048877a81e4/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7dafcd00-57dc-437d-ad40-cc064eb2bea8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/BlackRock?utm_source=GHList&utm_medium=company">BlackRock</a></strong></td>
 <td>Global Product Intern</td>
 <td>Wilmington, DE</td>
@@ -5499,7 +5491,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 
 <details>
-<summary>🗃️ Inactive roles (104)</summary>
+<summary>🗃️ Inactive roles (105)</summary>
 
 <table>
 <thead>
@@ -5597,6 +5589,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td><strong><a href="https://simplify.jobs/c/ROCKWOOL-Group?utm_source=GHList&utm_medium=company">ROCKWOOL Group</a></strong></td>
 <td>Product Management Intern</td>
 <td>Chicago, IL</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Vega-Investment-Technologies?utm_source=GHList&utm_medium=company">Vega Investment Technologies</a></strong></td>
+<td>Product Operations Intern</td>
+<td>London, UK</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>29d</td>
@@ -11480,6 +11480,22 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>🔒</td>
 <td>3mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Manulife-Financial?utm_source=GHList&utm_medium=company">Manulife Financial</a></strong></td>
+<td>Data Strategy and Enablement Co-op - Data Strategy and Enablement</td>
+<td>Kitchener, ON, Canada</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Hitachi?utm_source=GHList&utm_medium=company">Hitachi</a></strong></td>
+<td>Data and Business Intelligence Analyst Intern</td>
+<td>Scarborough, ON, Canada</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -11506,22 +11522,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Manulife-Financial?utm_source=GHList&utm_medium=company">Manulife Financial</a></strong></td>
-<td>Data Strategy and Enablement Co-op - Data Strategy and Enablement</td>
-<td>Kitchener, ON, Canada</td>
-<td>Fall 2026</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Hitachi?utm_source=GHList&utm_medium=company">Hitachi</a></strong></td>
-<td>Data and Business Intelligence Analyst Intern</td>
-<td>Scarborough, ON, Canada</td>
-<td>Fall 2026</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
 <td>Machine Learning Intern</td>
