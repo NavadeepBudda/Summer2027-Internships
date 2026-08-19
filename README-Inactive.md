@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 159 Inactive Internship Roles by Category
+### Browse 162 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (60)
 
@@ -17,7 +17,7 @@
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (32)
 
-📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (43)
+📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (46)
 
 🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (13)
 
@@ -263,7 +263,7 @@
 <td>Software Engineer Intern - CoreAI</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -876,6 +876,27 @@
 <tbody>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Goldman-Sachs?utm_source=GHList&utm_medium=company">Goldman Sachs</a></strong></td>
+<td>Quantitative Strategist Intern - Multiple Teams</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>4d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Quantitative Strategist Associate Intern - Asset and Wealth Management 🎓</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>4d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Summer Associate Intern - Multiple Teams 🎓</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>4d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Summer Analyst Intern - FICC & Equities - Sales & Trading</td>
 <td>London, UK</td>
 <td>🔒</td>
