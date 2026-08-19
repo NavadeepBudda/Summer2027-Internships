@@ -118900,7 +118900,7 @@
         "company_name": "Cadence Design Systems",
         "id": "f3715da4-8208-47e0-9831-b46b285d0241",
         "title": "SSG Design Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -222587,7 +222587,7 @@
         "company_name": "Integra FEC",
         "id": "f9530ed3-2587-45c5-8a92-1bf929f199f3",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -232823,7 +232823,7 @@
         "company_name": "Tesla",
         "id": "6f90b990-327d-4a8f-9b22-f0d6cc181eaa",
         "title": "Software Integration Engineer Intern - Software Integration Engineer - Optimus",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331754,7 +331754,7 @@
         "company_name": "Vanguard",
         "id": "cee3ea0e-1799-447b-a1c6-f6e69f1c5202",
         "title": "Data Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
