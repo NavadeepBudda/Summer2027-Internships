@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 163 Inactive Internship Roles by Category
+### Browse 165 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (60)
+💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (62)
 
 📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (10)
 
@@ -203,6 +203,13 @@
 <td>10d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/McKesson?utm_source=GHList&utm_medium=company">McKesson</a></strong></td>
+<td>Technology Intern</td>
+<td>Columbus, OH</td>
+<td>🔒</td>
+<td>10d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/ING?utm_source=GHList&utm_medium=company">ING</a></strong></td>
 <td>Technology Intern - Innovation</td>
 <td>NYC</td>
@@ -341,6 +348,13 @@
 <td>Melbourne, FL</td>
 <td>🔒</td>
 <td>24d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Axon?utm_source=GHList&utm_medium=company">Axon</a></strong></td>
+<td>Software Engineering Intern</td>
+<td>Boston, MA<br>Seattle, WA</td>
+<td>🔒</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/0a6acf5a-ce00-4b14-b14c-3c4492983db2?utm_source=GHList&utm_medium=company">Bloxd</a></strong></td>
