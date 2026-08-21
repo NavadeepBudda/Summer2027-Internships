@@ -316546,7 +316546,7 @@
         "company_name": "Nokia",
         "id": "ec85ad4d-1542-495a-9e2a-0d122af39e86",
         "title": "AI R&D Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327543,7 +327543,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333471,7 +333471,7 @@
         "company_name": "NVIDIA",
         "id": "99bb5385-4fbf-4456-9493-a5b32eb48953",
         "title": "Ph.D. Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],

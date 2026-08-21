@@ -10,13 +10,13 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 ---
 
-### Browse 579 Internship Roles by Category
+### Browse 578 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (187)
 
 📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (25)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (246)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (245)
 
 📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (27)
 
@@ -7466,14 +7466,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>AI R&D Engineer Co-op 🎓</td>
 <td>Sunnyvale, CA</td>
 <td>Fall 2026</td>
-<td><div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39285?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ec85ad4d-1542-495a-9e2a-0d122af39e86?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>AI R&D Engineer Co-op 🎓</td>
-<td>Sunnyvale, CA</td>
-<td>Fall 2026</td>
 <td><div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39288?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/14c2a7d5-4d8d-4b11-be10-60c81211e8e2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>14d</td>
 </tr>
@@ -8522,7 +8514,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 
 <details>
-<summary>🗃️ Inactive roles (638)</summary>
+<summary>🗃️ Inactive roles (639)</summary>
 
 <table>
 <thead>
@@ -8836,6 +8828,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td><strong><a href="https://simplify.jobs/c/Sony-Pictures-Entertainment?utm_source=GHList&utm_medium=company">Sony Pictures Entertainment</a></strong></td>
 <td>Insights Intern - Multiple Teams</td>
 <td>Culver City, CA</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
+<td>AI R&D Engineer Co-op 🎓</td>
+<td>Sunnyvale, CA</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>14d</td>
@@ -11152,6 +11152,22 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>🔒</td>
 <td>2mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Nasdaq?utm_source=GHList&utm_medium=company">Nasdaq</a></strong></td>
+<td>Mitacs Research Intern 🎓</td>
+<td>St. John's, NL, Canada</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Philips?utm_source=GHList&utm_medium=company">Philips</a></strong></td>
+<td>Data Management Co-op</td>
+<td>Cleveland, OH</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -11178,22 +11194,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Nasdaq?utm_source=GHList&utm_medium=company">Nasdaq</a></strong></td>
-<td>Mitacs Research Intern 🎓</td>
-<td>St. John's, NL, Canada</td>
-<td>Fall 2026</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Philips?utm_source=GHList&utm_medium=company">Philips</a></strong></td>
-<td>Data Management Co-op</td>
-<td>Cleveland, OH</td>
-<td>Fall 2026</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NPR?utm_source=GHList&utm_medium=company">NPR</a></strong></td>
 <td>AI Research – Ethics and Readiness Intern</td>

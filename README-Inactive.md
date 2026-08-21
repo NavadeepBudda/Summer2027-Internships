@@ -17,9 +17,9 @@
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (37)
 
-📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (46)
+📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (47)
 
-🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (23)
+🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (22)
 
 ---
 
@@ -995,6 +995,13 @@
 </tr>
 <tr>
 <td>↳</td>
+<td>Quantitative Strategist Associate Intern - The Core Quantitative Strats 🎓</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Summer Analyst Intern - FICC and Equities - Sales and Trading</td>
 <td>West Palm Beach, FL</td>
 <td>🔒</td>
@@ -1304,13 +1311,6 @@
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
 <td>Computer Architecture Intern</td>
-<td>Santa Clara, CA</td>
-<td>🔒</td>
-<td>2d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Ph.D. Engineering Intern 🎓</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>2d</td>
