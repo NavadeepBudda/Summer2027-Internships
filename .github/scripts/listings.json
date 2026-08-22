@@ -214556,7 +214556,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329248,7 +329248,7 @@
         "company_name": "General Motors",
         "id": "5539c267-ef6d-41c0-a68d-dcbd5c411ef5",
         "title": "Battery and Sustainability Intern - Battery Research and Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329318,7 +329318,7 @@
         "company_name": "General Motors",
         "id": "1d43fc21-2de6-411c-8141-ec33e8fa8fed",
         "title": "Battery & Sustainability Intern - Battery Research and Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337089,7 +337089,7 @@
         "company_name": "Cubic",
         "id": "ae5500e9-bf44-4dd7-9a73-6b84de0fb777",
         "title": "Field Services Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337984,7 +337984,7 @@
         "company_name": "General Motors",
         "id": "e31170bc-ea00-45b7-bce9-7b1c8ecbe643",
         "title": "Lighting Software Development & Test Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -338735,7 +338735,7 @@
         "company_name": "RTX",
         "id": "f96bb586-5dba-40b3-ad65-08b6decf9934",
         "title": "Repair & Overhaul Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -339172,5 +339172,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "740d3c67-d925-48d7-995a-410073f010e8",
+        "title": "Industrialization Intern - Industrialization Production Readiness",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787410669,
+        "date_posted": 1787270400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Industrialisation----Internship---Winter-2027---Industrialization-Production-Readiness_01867520",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
