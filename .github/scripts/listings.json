@@ -237992,7 +237992,7 @@
         "company_name": "SOTI",
         "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -321640,7 +321640,7 @@
         "company_name": "RTX",
         "id": "52ceda8c-4220-45e3-b041-4de25d61aaee",
         "title": "Electro-Optical Systems Technician Intern - AN/ZSQ-2",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328040,7 +328040,7 @@
         "company_name": "KeyBank",
         "id": "530c60b3-3de0-4a8e-bb7c-5f32553939ac",
         "title": "Data Intern - Key Technology & Services - Data Track",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333164,7 +333164,7 @@
         "company_name": "Copart",
         "id": "1e0b5f98-bf0a-433e-9dda-74853a116f53",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
