@@ -277412,7 +277412,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ff964e2a-c499-417f-931c-e7ef2cdf871b",
         "title": "AI Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316034,7 +316034,7 @@
         "company_name": "Nokia",
         "id": "14c2a7d5-4d8d-4b11-be10-60c81211e8e2",
         "title": "AI R&D Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
