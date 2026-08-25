@@ -291105,7 +291105,7 @@
         "company_name": "Copart",
         "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325861,7 +325861,7 @@
         "company_name": "RTX",
         "id": "39be2363-aaad-4bf0-9f3a-19906a6a8182",
         "title": "Electrical Computer-Aided Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332642,7 +332642,7 @@
         "company_name": "NVIDIA",
         "id": "bb48b7b8-29e9-4f8f-8817-54e325180735",
         "title": "Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332933,7 +332933,7 @@
         "company_name": "NVIDIA",
         "id": "78faf2f2-9391-4542-b593-468ce69a67b5",
         "title": "Mixed Signal Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332958,7 +332958,7 @@
         "company_name": "NVIDIA",
         "id": "d8ff5790-a34b-425f-b812-2e10a1350a70",
         "title": "Computer Vision and Deep Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],

@@ -9,17 +9,17 @@
 
 ---
 
-### Browse 189 Inactive Internship Roles by Category
+### Browse 190 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (74)
 
 📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (11)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (42)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (41)
 
 📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (40)
 
-🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (22)
+🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (24)
 
 ---
 
@@ -756,13 +756,6 @@
 <td>5d</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
-<td>Computer Vision and Deep Learning Intern 🎓</td>
-<td>Santa Clara, CA</td>
-<td>🔒</td>
-<td>6d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/National-Reconnaissance-Office?utm_source=GHList&utm_medium=company">National Reconnaissance Office</a></strong></td>
 <td>Summer Internship - Dr. Chris Scolese</td>
 <td><details><summary><strong>4 locations</strong></summary>Aurora, CO<br>Chantilly, VA<br>White Sands Missile Range, NM<br>Fort Belvoir, VA</details></td>
@@ -1351,6 +1344,13 @@
 <td>6d</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Mixed Signal Design Intern</td>
+<td>Santa Clara, CA</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer Intern - Summer 2027</td>
 <td>Indianapolis, IN</td>
@@ -1417,6 +1417,13 @@
 <td>↳</td>
 <td>Software Engineer Intern - Summer 2027</td>
 <td>Burnsville, MN</td>
+<td>🔒</td>
+<td>11d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Electrical Computer-Aided Design Engineer Intern</td>
+<td>Tucson, AZ</td>
 <td>🔒</td>
 <td>11d</td>
 </tr>
