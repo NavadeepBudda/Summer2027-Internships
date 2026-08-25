@@ -319242,7 +319242,7 @@
         "company_name": "McKesson",
         "id": "8b699e41-5c53-4b40-aaf9-57a6bd162427",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343752,7 +343752,7 @@
         "company_name": "RTX",
         "id": "8b958c89-89d4-4a94-8e70-51e0d162eb51",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343899,7 +343899,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "43726f05-d685-4bcb-bd0f-b3d05ccc91e1",
         "title": "Technology Fintern - Software Engineering - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
