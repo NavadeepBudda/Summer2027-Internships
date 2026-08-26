@@ -262396,7 +262396,7 @@
         "company_name": "Tesla",
         "id": "73ed244d-cc7c-4920-8097-19a925c97233",
         "title": "Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -282711,7 +282711,7 @@
         "company_name": "Citadel",
         "id": "79ceb913-ca59-4a50-9fa9-18c378d86c3e",
         "title": "Trader: Fixed Income & Macro Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -284347,7 +284347,7 @@
         "company_name": "Citadel",
         "id": "af41c8d1-6670-4cbb-9111-9204ac3a4da9",
         "title": "Quantitative Trader: Equity Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -302933,7 +302933,7 @@
         "company_name": "Magna",
         "id": "75ba4d37-69a8-4034-b556-d8837ef4a500",
         "title": "IoT Systems Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -305582,7 +305582,7 @@
         "company_name": "Citadel",
         "id": "71e539ff-f839-4f08-8c0f-0c7a934bbf05",
         "title": "Sector Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -318990,7 +318990,7 @@
         "company_name": "Citadel",
         "id": "de926b0a-99e7-4dbd-94cd-334ec565be9f",
         "title": "Sector Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331761,7 +331761,7 @@
         "company_name": "NVIDIA",
         "id": "31523bd0-3228-448d-b0ce-f99812c17fca",
         "title": "Generative AI Ph.D. Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331954,7 +331954,7 @@
         "company_name": "NVIDIA",
         "id": "79fa5677-0cf7-4393-b826-2aa0806bbcd9",
         "title": "Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332173,7 +332173,7 @@
         "company_name": "NVIDIA",
         "id": "78faf2f2-9391-4542-b593-468ce69a67b5",
         "title": "Mixed Signal Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332568,7 +332568,7 @@
         "company_name": "RTX",
         "id": "d6ccc1b0-bad2-4c51-af45-22ed47ddb4b5",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
