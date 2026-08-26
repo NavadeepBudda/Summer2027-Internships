@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 197 Inactive Internship Roles by Category
+### Browse 198 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (81)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (41)
 
-🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (22)
+🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (23)
 
 ---
 
@@ -1452,6 +1452,13 @@
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>East Hartford, CT</td>
+<td>🔒</td>
+<td>12d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Intern - Summer 2027</td>
+<td>Cedar Rapids, IA</td>
 <td>🔒</td>
 <td>12d</td>
 </tr>
