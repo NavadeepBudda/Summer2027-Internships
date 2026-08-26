@@ -229279,7 +229279,7 @@
         "company_name": "Magnet Forensics",
         "id": "798c001c-3faa-430c-8a69-25c9e5746c89",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -239288,7 +239288,7 @@
         "company_name": "Astera",
         "id": "2bf9596e-6416-4fef-8c6d-48ac964d59fa",
         "title": "Computational Neuroscience Intern - Data Analysis and Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278135,7 +278135,7 @@
         "company_name": "Persistent Systems",
         "id": "99b96750-4604-4ae8-8e56-d3c3287cc493",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
