@@ -348463,5 +348463,26 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Koch Industries",
+        "id": "d7653110-4f3d-4eb3-87d9-02a024571973",
+        "title": "Data Developer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788042445,
+        "date_posted": 1788042402,
+        "url": "https://koch.avature.net/en_US/careers/JobDetail/193377",
+        "locations": [
+            "North Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Koch-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
