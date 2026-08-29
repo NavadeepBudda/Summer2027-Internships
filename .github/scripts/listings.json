@@ -306538,7 +306538,7 @@
         "company_name": "JP Morgan Chase",
         "id": "98635871-6276-41e4-ad95-172485704a2c",
         "title": "Data & AI Intern - Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -325382,7 +325382,7 @@
         "company_name": "Suncor",
         "id": "9a19ddc0-978b-4f92-832f-f0b96df5af93",
         "title": "Automation Intern - Software or Computer Engineering Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -329351,7 +329351,7 @@
         "company_name": "Microsoft",
         "id": "b5b15050-2287-4ebf-8a26-f0745c794fd3",
         "title": "AI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335822,7 +335822,7 @@
         "company_name": "RTX",
         "id": "740d3c67-d925-48d7-995a-410073f010e8",
         "title": "Industrialization Intern - Industrialization Production Readiness",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -336738,7 +336738,7 @@
         "company_name": "Google",
         "id": "e3dc5e7f-9828-4121-8b6f-6d45091a92a4",
         "title": "Research Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343825,7 +343825,7 @@
         "company_name": "RTX",
         "id": "c5d402c5-8735-4b94-86b9-a3a00c94c027",
         "title": "Engine Performance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -345972,7 +345972,7 @@
         "company_name": "American University",
         "id": "e11e5194-bb9a-4c4d-b11d-dc670a511c17",
         "title": "Research Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],

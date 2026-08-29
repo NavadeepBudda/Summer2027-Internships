@@ -130,7 +130,7 @@
 <td>Software Developer Intern 🎓</td>
 <td>Montreal, QC, Canada<br>Toronto, ON, Canada<br>Waterloo, ON, Canada</td>
 <td>🔒</td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -753,7 +753,7 @@
 <td>Product Development Intern - Product Development - Consumer Services</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
@@ -845,6 +845,13 @@
 <td>Jersey City, NJ</td>
 <td>🔒</td>
 <td>2d</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Google?utm_source=GHList&utm_medium=company">Google</a></strong></td>
+<td>Research Intern - PhD 🎓</td>
+<td><details><summary><strong>28 locations</strong></summary>Palo Alto, CA<br>Cambridge, MA<br>Madison, WI<br>Seattle, WA<br>Washington, DC<br>SF<br>Austin, TX<br>LA<br>San Jose, CA<br>Irvine, CA<br>Redwood City, CA<br>Raleigh, NC<br>San Bruno, CA<br>Redmond, WA<br>Durham, NC<br>Santa Cruz, CA<br>Chicago, IL<br>Goleta, CA<br>Pittsburgh, PA<br>Kirkland, WA<br>NYC<br>Bellevue, WA<br>Sunnyvale, CA<br>Mountain View, CA<br>Portland, OR<br>Boulder, CO<br>Atlanta, GA<br>San Diego, CA</details></td>
+<td>🔒</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ontario-Teachers-Pension-Plan?utm_source=GHList&utm_medium=company">Ontario Teachers' Pension Plan</a></strong></td>
@@ -1029,13 +1036,6 @@
 <td>26d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Data & AI Intern - Analyst</td>
-<td><details><summary><strong>8 locations</strong></summary>Palo Alto, CA<br>Newark, DE<br>Plano, TX<br>Chicago, IL<br>Jersey City, NJ<br>Columbus, OH<br>NYC<br>Wilmington, DE</details></td>
-<td>🔒</td>
-<td>26d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Williams?utm_source=GHList&utm_medium=company">Williams</a></strong></td>
 <td>Engineering Intern</td>
 <td>Salt Lake City, UT<br>Houston, TX<br>Tulsa, OK</td>
@@ -1201,7 +1201,7 @@
 <td>Quantitative Developer Internship - Summer 2027</td>
 <td>Dubai - United Arab Emirates<br>NYC</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Goldman-Sachs?utm_source=GHList&utm_medium=company">Goldman Sachs</a></strong></td>
@@ -1719,7 +1719,7 @@
 <td>Software Engineer Intern</td>
 <td>Delaware, OH</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
