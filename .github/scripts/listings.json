@@ -110740,7 +110740,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -195686,7 +195686,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -325581,7 +325581,7 @@
         "company_name": "University of Texas at Austin",
         "id": "cc92e86c-fbd6-4ac9-9dd6-416843dc0e27",
         "title": "Graduate Assistant - AI-Powered Career Success Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -330537,7 +330537,7 @@
         "company_name": "Brunswick",
         "id": "23283fde-40f1-42d9-bf10-9b7362a6c553",
         "title": "Software Engineer Intern - Boating Intelligence Design Lab",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339306,7 +339306,7 @@
         "company_name": "The Walt Disney Company",
         "id": "2988cc76-e6a5-4e83-83b9-4b0ea07da23a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -353048,7 +353048,7 @@
         "company_name": "Zurich Insurance",
         "id": "17b7544f-c3be-49f8-838a-a79a4ed854e0",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -355633,7 +355633,7 @@
         "company_name": "Andersen Corporation",
         "id": "c9ff9182-9268-4f02-a005-5706911147d0",
         "title": "Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359036,7 +359036,7 @@
         "company_name": "Intel",
         "id": "4ba241d0-99b3-4fa5-a8cc-38e1bc93ce59",
         "title": "Silicon Hardware Engineering Intern - Bachelor's",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -361269,7 +361269,7 @@
         "company_name": "Cisco",
         "id": "2e2b9880-d6c9-4502-b647-d93be679e9a2",
         "title": "Machine Learning Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -362617,7 +362617,7 @@
         "company_name": "Cisco",
         "id": "cc47ac63-57a2-4592-ad46-338af068e454",
         "title": "Machine Learning Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -366946,7 +366946,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "3f5ffb28-9dd8-40e6-ba6a-b7fc6052a43a",
         "title": "Business Analyst Intern - AI Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378592,6 +378592,52 @@
         "date_updated": 1788596901,
         "date_posted": 1788473329,
         "url": "https://jobs.smartrecruiters.com/GDMSI/744000147563929",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wealthsimple",
+        "id": "8e6234ef-f09e-4bd9-b4a9-2ca6c52f8657",
+        "title": "Credit & Fraud Analytics Intern - Winter 2027",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788606901,
+        "date_posted": 1788477064,
+        "url": "https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28/application?embed=true",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Wealthsimple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "d0909b73-ab4c-4cfe-9ff3-d1b9e1dc2929",
+        "title": "Mobile Domain System Engineering Co-op - Months",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788608368,
+        "date_posted": 1788530935,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000147552960",
         "locations": [
             "Calgary, AB, Canada"
         ],
