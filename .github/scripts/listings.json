@@ -1,98 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sigma Computing",
-        "id": "334fbd19-26cd-4df2-9c4c-767bf9514348",
-        "title": "Software Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768289229,
-        "date_posted": 1768289229,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7588094003",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "5f7f8ea0-cc7b-46b6-9acd-29f0409f5740",
-        "title": "Customer Applications Engineer Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768288319,
-        "date_posted": 1768288319,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28080",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Commvault",
-        "id": "c6de2776-dffd-48d6-a05e-3e84d0e0bbad",
-        "title": "Technical Enablement Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768288766,
-        "date_posted": 1768288766,
-        "url": "https://job-boards.greenhouse.io/commvault/jobs/5051679008",
-        "locations": [
-            "Shrewsbury, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Commvault",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sigma Computing",
-        "id": "4bafe0b5-f17f-45e2-9cb3-51c529b8c67d",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768300942,
-        "date_posted": 1768300942,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7588129003",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
         "date_updated": 1771250196,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -64422,7 +64329,7 @@
         "company_name": "Oracle",
         "id": "4a0eb1dc-86d2-4a53-bb34-06a44fd94c52",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268261,7 +268168,7 @@
         "company_name": "Pylon",
         "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -276404,7 +276311,7 @@
         "company_name": "Kirin",
         "id": "dd09b631-b758-451e-b3f1-067cadf66b69",
         "title": "Quantitative Research Intern - Prediction Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -307967,7 +307874,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -308016,7 +307923,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -321200,7 +321107,7 @@
         "company_name": "Freddie Mac",
         "id": "7d622bf2-9241-4e85-b72d-dc305db65752",
         "title": "Quantitative Risk Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341334,7 +341241,7 @@
         "company_name": "ZS",
         "id": "bfd24658-9d27-4663-b02c-2b76b6042f78",
         "title": "Decision Analytics Associate Intern - University Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -344727,7 +344634,7 @@
         "company_name": "Hermeus",
         "id": "768502d1-3bb6-48fe-8605-2c02c23d8e9e",
         "title": "Software Engineer Intern - Modeling & Simulation - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -350279,7 +350186,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "72dee251-66c4-4635-bc10-acd70891dd4c",
         "title": "Protocol and Special Events AI and Digital Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -353462,7 +353369,7 @@
         "company_name": "ABB",
         "id": "8e55e1d9-a6ba-4cf3-b2bd-186d0907c738",
         "title": "Physical AI Robotics Simulation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -363283,7 +363190,7 @@
         "company_name": "Hexagon AB",
         "id": "5e2fa2fd-c884-4674-a59b-5d590403fb0c",
         "title": "Geomatics Engineer Intern - GNSS Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363962,7 +363869,7 @@
         "company_name": "Goldman Sachs",
         "id": "5a49d74c-fa9f-4dd4-a66b-24fc3d9c1def",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -364099,7 +364006,7 @@
         "company_name": "Goldman Sachs",
         "id": "5bdec003-2a02-42a4-a602-467541840552",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -364122,7 +364029,7 @@
         "company_name": "Goldman Sachs",
         "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
         "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373398,7 +373305,7 @@
         "company_name": "Walmart",
         "id": "5fb29a7b-45e4-42fd-8b5d-e87ba55aa181",
         "title": "Transportation Data Analyst 2 Intern - Intern Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375064,7 +374971,7 @@
         "company_name": "United Airlines",
         "id": "328b3420-d343-4ef8-ac99-d5b626d3490e",
         "title": "Onboard Experience Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376672,7 +376579,7 @@
         "company_name": "ONE Finance",
         "id": "57114f9d-d821-430f-ac60-02a5e53ef385",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378494,7 +378401,7 @@
         "company_name": "Carmeuse",
         "id": "7651cd7a-561c-42d0-b52f-2ba5989fe922",
         "title": "Automation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -379056,7 +378963,7 @@
         "company_name": "Asure",
         "id": "29710cd0-626e-42e1-8df1-cac448ebe72c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -382238,7 +382145,7 @@
         "company_name": "Centific",
         "id": "aa85a66b-b7ad-40d5-b986-339012d241c9",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -385296,6 +385203,98 @@
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/Barr",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "J.M. Smucker",
+        "id": "521a43c9-5e43-42a9-bbde-16bd2b868baa",
+        "title": "Sensory and Products Research Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789033141,
+        "date_posted": 1787616000,
+        "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sensory-and-Products-Research-Intern--Summer-2027_115677",
+        "locations": [
+            "Orrville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/JM-Smucker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "7fedfbc6-98b6-4de0-b225-0a62b5515501",
+        "title": "Electrical Systems Engineer Co-op - Fixed Term",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1789035303,
+        "date_posted": 1788825600,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ohio State University",
+        "id": "8929009f-4d91-48b7-a216-bb0aedca2ce6",
+        "title": "Metadata Student Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789035481,
+        "date_posted": 1788134400,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Remote-Location/Metadata-Student-Assistant_R157294-2",
+        "locations": [
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Domino Data Lab",
+        "id": "eabf370c-678d-4de3-925f-22d7298aeb68",
+        "title": "Forward Deployed Engineer Intern - Campus Recruiting 2027",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1789037018,
+        "date_posted": 1788991996,
+        "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992534?gh_jid=7992534",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Domino-Data-Lab",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
