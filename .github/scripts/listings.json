@@ -2,50 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Uline",
-        "id": "26cd32f6-45cf-489b-b614-7d195ef04f84",
-        "title": "Financial Data Analyst Internship - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768393233,
-        "date_posted": 1768393233,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2026_R260525",
-        "locations": [
-            "Pleasant Prairie, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FactSet",
-        "id": "453e74ab-1f39-48d5-ace7-f526f01e0a7e",
-        "title": "Buy-Side Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768393360,
-        "date_posted": 1768393360,
-        "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Buy-Side-Analytics-Internship----London--Summer-2026-_R30900",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/FactSet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Geotab",
         "id": "87f9be9a-5e5d-431e-8108-49174ec58a0e",
         "title": "Data Platform Developer Intern - Orchestration",
@@ -186114,7 +186070,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -254813,7 +254769,7 @@
         "company_name": "Liberty University",
         "id": "ea053f2a-38d8-4cc1-af0b-e280de37935e",
         "title": "Business Analyst Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -290466,7 +290422,7 @@
         "company_name": "Samsara",
         "id": "43a2a7c2-28cb-4d16-9914-b1e324a8c4a5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028"
         ],
@@ -306038,7 +305994,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -318322,7 +318278,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ee239b53-fb7d-46b7-b98b-900f2b504f38",
         "title": "Transportation Logistics & Analytics Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -353184,7 +353140,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "1c09445e-a943-4258-9c49-7bf34a1087dd",
         "title": "Risk Intern - Models and Asset Liability",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -356674,7 +356630,7 @@
         "company_name": "Nio",
         "id": "da434a40-5732-4900-855f-676aa5cd10e7",
         "title": "AI Robotics Researcher Intern - Dexterous Manipulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -362025,7 +361981,7 @@
         "company_name": "Goldman Sachs",
         "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -362885,7 +362841,7 @@
         "company_name": "Boston Scientific",
         "id": "8a34588c-c5ee-4a8a-a5a6-7002eb677f3f",
         "title": "R&D Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365053,7 +365009,7 @@
         "company_name": "GlobalFoundries",
         "id": "e83c500f-6896-4414-b9b7-bc22069038ed",
         "title": "RF Technology Development Automation Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366818,7 +366774,7 @@
         "company_name": "Marvell",
         "id": "4d5f11db-f4d3-45a0-aaa1-9a429091be83",
         "title": "Design for Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368862,7 +368818,7 @@
         "company_name": "Marvell",
         "id": "769667d7-3030-4678-96db-9cd5a6787b75",
         "title": "Design Verification Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374110,7 +374066,7 @@
         "company_name": "Northrop Grumman",
         "id": "e7f91d55-7af9-4814-886b-7cec1ce1222e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385578,7 +385534,7 @@
         "company_name": "Canadian Tire",
         "id": "1b3aec3c-4c0c-4efb-a5bc-1e8fc5416875",
         "title": "Data Analyst Student - Winter Term 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -387788,6 +387744,73 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Swarm Aero",
+        "id": "4c49bc10-cd1b-499e-8eac-48cf3b26e69c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1789121341,
+        "date_posted": 1789079891,
+        "url": "https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Swarm-Aero",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Allen Control Systems",
+        "id": "86d4a17f-4782-4b97-8cb0-989b8695dc75",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789123301,
+        "date_posted": 1788906718,
+        "url": "https://jobs.ashbyhq.com/allen-control-systems/cc1618f1-e4b8-4dcb-88fd-9771da972220/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Allen-Control-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of St. Thomas",
+        "id": "e5f69b72-256c-4f21-aa77-aafbcc580de9",
+        "title": "Elevating the Arts Undergraduate Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789128361,
+        "date_posted": 1788559984,
+        "url": "https://studentemployment-stthomas.icims.com/jobs/9615/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-St-Thomas",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
