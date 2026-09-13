@@ -312738,7 +312738,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "feab6170-0da2-4e27-b0ab-3fd9be40aef4",
         "title": "Data Enablement Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374792,7 +374792,7 @@
         "company_name": "Pomerleau",
         "id": "aed38d9f-616d-4a6a-9e72-430249c9a2be",
         "title": "AI Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
