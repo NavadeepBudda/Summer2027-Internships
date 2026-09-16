@@ -1,121 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "0460220e-f581-4817-917f-76ae1c560028",
-        "title": "Walt Disney World Transportation Logistics & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1768807345,
-        "date_posted": 1768807345,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Summer-Fall-2026_10140614",
-        "locations": [
-            "Celebration, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "APL Logistics",
-        "id": "e22d9ce3-2852-4d63-b684-ea004964fb2c",
-        "title": "Intern - Technology Solutions and Digital Products",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768818708,
-        "date_posted": 1768818708,
-        "url": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3753",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/APL-Logistics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ocean Optics",
-        "id": "64546e1b-efb3-47dd-ab14-47d3044ccfa4",
-        "title": "Student Software Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768823542,
-        "date_posted": 1768823542,
-        "url": "https://halma.wd3.myworkdayjobs.com/halma/job/Havant/Student-Software-Engineer_JR26_000009",
-        "locations": [
-            "Portsmouth, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Ocean-Optics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "2136d7bd-4bc9-426d-b9a8-295e7f37dd46",
-        "title": "Disneyland Costuming Project Analyst Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768823873,
-        "date_posted": 1768823873,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Costuming-Project-Analyst-Intern--Summer-Fall-2026_10139692-1",
-        "locations": [
-            "Anaheim, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Acushnet Holdings",
-        "id": "0d5dfa1c-5a65-437e-9158-3f9b814a3047",
-        "title": "Summer 2026 Software Developer Intern - Vokey",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768823823,
-        "date_posted": 1768823823,
-        "url": "https://acushnetgolf.wd12.myworkdayjobs.com/ACU/job/Carlsbad-California-United-States-of-America/Summer-2026-Software-Developer-Intern---Vokey_Req100831",
-        "locations": [
-            "Carlsbad, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Acushnet-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Nokia",
         "id": "7d6846fa-a327-4fd8-895b-ea19e267f892",
@@ -100249,7 +100134,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -179600,7 +179485,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -244008,7 +243893,7 @@
         "company_name": "Periodic Labs",
         "id": "4284c1a9-1025-463f-97ee-3b175776e726",
         "title": "Nanofabrication Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246974,7 +246859,7 @@
         "company_name": "Core & Main",
         "id": "cf783ed0-c7de-4051-813a-018e1ba6e7fc",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279683,7 +279568,7 @@
         "company_name": "Tencent",
         "id": "72e9a1b8-bf1d-419d-a68b-ff77d2c0349f",
         "title": "Data Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -284320,7 +284205,7 @@
         "company_name": "Tesla",
         "id": "dc98760f-d794-4d68-be4d-5639d2bcf3f3",
         "title": "Cell Engineering Intern - Cell Qualification",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -299431,7 +299316,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -299457,7 +299342,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -299503,7 +299388,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -299962,7 +299847,7 @@
         "company_name": "Levi Strauss & Co.",
         "id": "2d31a59a-d33d-49cb-be61-428d92dfb81f",
         "title": "Analytics Intern - eCommerce",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -320371,7 +320256,7 @@
         "company_name": "Goldman Sachs",
         "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
         "title": "Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -322036,7 +321921,7 @@
         "company_name": "Deloitte",
         "id": "ec27d2f4-0e82-4c2b-b8c2-fc8a682baed1",
         "title": "AI Innovation Summer Scholar Intern - AI Innovation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333826,7 +333711,7 @@
         "company_name": "United Airlines",
         "id": "dbd78176-bb77-49e4-9500-82a26610cfbb",
         "title": "Research Scholar Intern - Statistics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334102,7 +333987,7 @@
         "company_name": "United Airlines",
         "id": "616f31e5-f760-4f12-ab94-7cfe7c256b54",
         "title": "Meteorology Support Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336072,7 +335957,7 @@
         "company_name": "United Airlines",
         "id": "b2910d1a-df08-4c5a-9ad6-88cf9a60ff6f",
         "title": "Air Traffic Strategy Data Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336189,7 +336074,7 @@
         "company_name": "United Airlines",
         "id": "97b4860b-2ba5-4a16-b270-99e61c276351",
         "title": "Sales Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340344,7 +340229,7 @@
         "company_name": "United Airlines",
         "id": "7afc8909-8e75-4217-afd4-e39a4c061462",
         "title": "Tech Ops Analytics & Business Intelligence Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340704,7 +340589,7 @@
         "company_name": "United Airlines",
         "id": "3af25d9c-26c3-459f-92b5-acad01055a09",
         "title": "Operations Strategy & Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350793,7 +350678,7 @@
         "company_name": "Brunswick",
         "id": "84f60c1d-5d94-4e3b-a460-466cccf1d021",
         "title": "Engineering Test Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354142,7 +354027,7 @@
         "company_name": "RTX",
         "id": "c48914ab-1f0c-4a5e-a350-c3cf1fbdf3a6",
         "title": "Performance Indicator Development and Process and Project Management Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -355419,7 +355304,7 @@
         "company_name": "Goldman Sachs",
         "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
         "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -355443,7 +355328,7 @@
         "company_name": "Goldman Sachs",
         "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -355467,7 +355352,7 @@
         "company_name": "Goldman Sachs",
         "id": "06098497-6840-4802-8838-81e0dbdec164",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -355490,7 +355375,7 @@
         "company_name": "Goldman Sachs",
         "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -357229,7 +357114,7 @@
         "company_name": "Tesla",
         "id": "d4160e5e-8dc5-4f23-bbb5-73742e02e435",
         "title": "Actuator Test Engineer Intern - Optimus",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -357884,7 +357769,7 @@
         "company_name": "United Airlines",
         "id": "5e16fdb9-dd97-429a-9b2a-9c7ebfd49735",
         "title": "Operations Strategy & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -357997,7 +357882,7 @@
         "company_name": "United Airlines",
         "id": "0d11ca14-e855-45a7-adc5-2936dba95091",
         "title": "Pricing & Revenue Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358130,7 +358015,7 @@
         "company_name": "Deloitte",
         "id": "2440120c-cae1-4ca3-8e9b-73e8ca4bfac9",
         "title": "Data & AI Solutions Engineering Summer Scholar Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362723,7 +362608,7 @@
         "company_name": "Walgreens",
         "id": "06bb9d4d-dab5-495e-ad36-24bc797defe0",
         "title": "Pharmacy Technician Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -364903,7 +364788,7 @@
         "company_name": "Loblaw Companies",
         "id": "703287b2-4c66-439b-af82-01074bd3526e",
         "title": "Revenue Management Co-op Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -365956,7 +365841,7 @@
         "company_name": "United Airlines",
         "id": "0b6231bf-1510-4b9c-b81b-7dbc9d578158",
         "title": "Operations Strategy Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366361,7 +366246,7 @@
         "company_name": "United Airlines",
         "id": "328b3420-d343-4ef8-ac99-d5b626d3490e",
         "title": "Onboard Experience Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371167,7 +371052,7 @@
         "company_name": "Wells Fargo",
         "id": "d8a35445-0290-4e38-8bf7-0956434a59df",
         "title": "Quantitative Analytics Intern - Applied Computational Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371759,7 +371644,7 @@
         "company_name": "Navy Federal",
         "id": "48f6fff0-85c3-4ab8-a67a-9c4836fed895",
         "title": "Credit Risk Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377806,7 +377691,7 @@
         "company_name": "AstraZeneca",
         "id": "d778c6d4-6ce5-40c6-8cb7-41d5b2f39824",
         "title": "AI Solutions & Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -378263,7 +378148,7 @@
         "company_name": "Marvell",
         "id": "c19ad514-a4fd-4e47-a2ae-ab57347804ad",
         "title": "Advanced Packaging & Physical Integration Intern - Advanced Packaging & Physical Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -391926,7 +391811,7 @@
         "company_name": "Engenious Design",
         "id": "d5070939-efc6-4e4e-9d94-605bd818eb45",
         "title": "Electrical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392448,7 +392333,7 @@
         "company_name": "Intel",
         "id": "726a288e-5e7a-40fd-ae58-e65668dd3a7e",
         "title": "AI Solutions Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -392928,7 +392813,7 @@
         "company_name": "IonQ",
         "id": "3d546d2e-953a-4016-b5a8-5d705ce6358f",
         "title": "Research and Development Characterization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -395570,7 +395455,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -397565,7 +397450,7 @@
         "company_name": "NVIDIA",
         "id": "ebdf452a-f6c6-46cb-beb0-fce7830344e4",
         "title": "Product Management MBA Intern - Data Center GPU",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397956,6 +397841,145 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "92e0027e-a9c8-4956-82d7-791d98c9d21b",
+        "title": "Silicon Intern - Hardware & Photonics Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789541121,
+        "date_posted": 1789540928,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5425407008",
+        "locations": [
+            "Boston, MA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PressW",
+        "id": "2ce45287-9550-4c52-9713-3ca4f1c8fc39",
+        "title": "Applied AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789548662,
+        "date_posted": 1789425117,
+        "url": "https://jobs.ashbyhq.com/pressw/3b69cc30-a47b-4cd2-a27c-763b8f65c8e3/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/PressW",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Illinois Tool Works",
+        "id": "8fb80f34-572c-4d42-8a99-b0aa189dd044",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789551935,
+        "date_posted": 1789551726,
+        "url": "https://careers.itw.com/global/en/job/JR10112",
+        "locations": [
+            "San Luis Obispo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Illinois-Tool-Works",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RAVE Aerospace",
+        "id": "59143a12-b5c5-4756-adf5-a3376f4b7296",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789552240,
+        "date_posted": 1789551797,
+        "url": "https://apply.workable.com/raveaerospace/j/739753C003/apply",
+        "locations": [
+            "Laramie, WY"
+        ],
+        "company_url": "https://simplify.jobs/c/RAVE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Antares Nuclear",
+        "id": "9d3deed3-7476-4d1b-ac11-2072ffe638ff",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789551292,
+        "date_posted": 1789550902,
+        "url": "https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Antares-Nuclear",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "82ef6fed-e7e8-4860-81dc-834f0cd0e99a",
+        "title": "Research Scientist Intern - Seed Responsible AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1789550821,
+        "date_posted": 1789550704,
+        "url": "https://jobs.bytedance.com/en/position/7685504461452577077/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
