@@ -175122,7 +175122,7 @@
         "company_name": "Amazon",
         "id": "683c26d5-8306-435d-9738-d85e030935f5",
         "title": "Applied Science Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -197128,7 +197128,7 @@
         "company_name": "Geotab",
         "id": "c3a7ff86-c368-460c-93a2-751b00392ebe",
         "title": "Insights & Integrations Consultancy Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -243263,7 +243263,7 @@
         "company_name": "Cotiviti",
         "id": "b099116b-63e4-4ecb-8557-b5c6dffa3d3d",
         "title": "Generative AI Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -249518,7 +249518,7 @@
         "company_name": "Maxima",
         "id": "da228603-aa5d-4d28-94e6-89b4d8db92e7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302285,7 +302285,7 @@
         "company_name": "By Light Professional IT Services",
         "id": "4404bf6d-28d8-4410-9254-cfbf94a50665",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -316823,7 +316823,7 @@
         "company_name": "Sabre Systems",
         "id": "d32abe7f-a579-49b8-9d71-10a16fdf5fc6",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -354176,7 +354176,7 @@
         "company_name": "Cadence Design Systems",
         "id": "b0e65597-fc48-43a6-a81f-3f20519603ec",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -373157,7 +373157,7 @@
         "company_name": "D2L",
         "id": "56346e1c-4af8-4325-8e9f-89e677b09533",
         "title": "Business Insights & Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -380781,7 +380781,7 @@
         "company_name": "Quantinuum",
         "id": "58b0b092-9029-4fcf-b51a-7e1bfe20437b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
