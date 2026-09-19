@@ -2,148 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Citadel",
-        "id": "9a900104-2a94-4f83-8db2-d908f008ed99",
-        "title": "Machine Learning Researcher \u2013 PhD Intern - US",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769066239,
-        "date_posted": 1769066239,
-        "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Analytical Mechanics Associates",
-        "id": "c31505d8-c315-4479-87da-fe6ca40bdc95",
-        "title": "AI/ML Research Associate",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1769066114,
-        "date_posted": 1769066114,
-        "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/AI-ML-Research-Associate_R-100457",
-        "locations": [
-            "Remote in USA",
-            "Hampton, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analytical-Mechanics-Associates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Westgate Resorts",
-        "id": "7e52c5f8-c50f-4bc3-9561-7da851eda20e",
-        "title": "Mortgage Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769065663,
-        "date_posted": 1769065663,
-        "url": "https://jobs.smartrecruiters.com/WestgateResorts/744000104839895",
-        "locations": [
-            "Winter Garden, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Westgate-Resorts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "APL Logistics",
-        "id": "e0fafefb-cdaa-41d6-ac01-53d66afad28a",
-        "title": "Apprentice/Intern - Data Science & BI - Wms",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769077776,
-        "date_posted": 1769077776,
-        "url": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3761",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/APL-Logistics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "7cfbeb0c-af31-4f2f-be63-1929643b91f0",
-        "title": "Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769077919,
-        "date_posted": 1769077919,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556745603",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "0019aa00-913b-4393-8edd-61e92809a205",
-        "title": "Software Engineer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769115848,
-        "date_posted": 1769078091,
-        "url": "https://aexp.eightfold.ai/careers/job/39688514",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Robert Bosch Venture Capital",
         "id": "377cde1b-3654-44ad-8167-02d579b614f7",
         "title": "Calibration Process Data Science Intern",
@@ -291445,7 +291303,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -291471,7 +291329,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -291517,7 +291375,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -303539,7 +303397,7 @@
         "company_name": "Mastercard",
         "id": "78c03ab4-f50a-445d-9802-fb785330b50f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -306821,7 +306679,7 @@
         "company_name": "L3Harris Technologies",
         "id": "8fe0fbae-59cc-4985-8962-d62969501a29",
         "title": "Configuration Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -312385,7 +312243,7 @@
         "company_name": "Goldman Sachs",
         "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
         "title": "Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -314050,7 +313908,7 @@
         "company_name": "Deloitte",
         "id": "ec27d2f4-0e82-4c2b-b8c2-fc8a682baed1",
         "title": "AI Innovation Summer Scholar Intern - AI Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328203,7 +328061,7 @@
         "company_name": "United Airlines",
         "id": "97b4860b-2ba5-4a16-b270-99e61c276351",
         "title": "Sales Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332695,7 +332553,7 @@
         "company_name": "United Airlines",
         "id": "fee4d0be-1cae-4798-833d-5e33b6f15169",
         "title": "Operations Data & Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332718,7 +332576,7 @@
         "company_name": "United Airlines",
         "id": "3af25d9c-26c3-459f-92b5-acad01055a09",
         "title": "Operations Strategy & Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347433,7 +347291,7 @@
         "company_name": "Goldman Sachs",
         "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
         "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -347457,7 +347315,7 @@
         "company_name": "Goldman Sachs",
         "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -347481,7 +347339,7 @@
         "company_name": "Goldman Sachs",
         "id": "06098497-6840-4802-8838-81e0dbdec164",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -347504,7 +347362,7 @@
         "company_name": "Goldman Sachs",
         "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -350144,7 +350002,7 @@
         "company_name": "Deloitte",
         "id": "2440120c-cae1-4ca3-8e9b-73e8ca4bfac9",
         "title": "Data & AI Solutions Engineering Summer Scholar Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -354028,7 +353886,7 @@
         "company_name": "Microsoft",
         "id": "60ee867e-4f34-4612-8d71-3c6d969e2c70",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -354052,7 +353910,7 @@
         "company_name": "Microsoft",
         "id": "6315146d-6cf9-4ca7-866f-001a7a9f3ff2",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -354077,7 +353935,7 @@
         "company_name": "Microsoft",
         "id": "19b44777-9f42-489e-8dab-541f494982f6",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -355464,7 +355322,7 @@
         "company_name": "Airbus",
         "id": "d8a175dc-dacf-4319-b15b-58365b57fa61",
         "title": "Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -357970,7 +357828,7 @@
         "company_name": "United Airlines",
         "id": "0b6231bf-1510-4b9c-b81b-7dbc9d578158",
         "title": "Operations Strategy Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358329,7 +358187,7 @@
         "company_name": "Airbus",
         "id": "4dc86313-ac1f-4d5e-a766-6c8629caffcf",
         "title": "Satellite Digital Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -361711,7 +361569,7 @@
         "company_name": "TJX",
         "id": "066c8aef-359c-430a-a8c6-4a97df74e69a",
         "title": "Business Intelligence & Automation Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -379140,7 +378998,7 @@
         "company_name": "State Farm",
         "id": "5071d3bb-61f2-4896-9065-dc7412d4ba00",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379166,7 +379024,7 @@
         "company_name": "State Farm",
         "id": "2daf141e-9ca0-4441-b4b7-8a3c0ba2ecc4",
         "title": "Technology Product Analyst Intern - Innovation Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379214,7 +379072,7 @@
         "company_name": "State Farm",
         "id": "87971fb5-3996-451a-a4b6-bf5d629dd0c4",
         "title": "Mainframe Software Engineer Intern - Enterprise Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379687,7 +379545,7 @@
         "company_name": "Wells Fargo",
         "id": "14f47481-e076-4f40-8d28-deaccaa6542d",
         "title": "Software Engineering Intern - Early Careers - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383280,7 +383138,7 @@
         "company_name": "General Motors",
         "id": "d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4",
         "title": "Race Strategy & Analytics Intern - IndyCar",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384550,7 +384408,7 @@
         "company_name": "RTX",
         "id": "8e2ae72c-1197-4234-9ceb-9e8f692add91",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -384575,7 +384433,7 @@
         "company_name": "RTX",
         "id": "1bd223c7-4d3d-4d64-8dcc-3c5d3d7095dc",
         "title": "Software Engineer Co-op - Summer/Fall 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -385100,7 +384958,7 @@
         "company_name": "Tencent",
         "id": "d67121ec-2c8e-4740-9997-3c06b550b498",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -385708,7 +385566,7 @@
         "company_name": "Verizon Communications",
         "id": "51022cd5-814f-411e-991c-86b9d9441d02",
         "title": "Marketing Technology Intern - Consumer Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387584,7 +387442,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -388561,7 +388419,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "229689bf-b48d-4ba7-876d-c683215799d0",
         "title": "Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392482,7 +392340,7 @@
         "company_name": "nVent",
         "id": "8801ee08-2b1c-4858-9978-77ec6600fd87",
         "title": "Engineering Lab Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -397217,7 +397075,7 @@
         "company_name": "RTX",
         "id": "a122ed0c-a472-4787-80bd-a028823e70bc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397970,7 +397828,7 @@
         "company_name": "NVIDIA",
         "id": "d58843db-952c-4753-94fe-da3da6efaa9d",
         "title": "PhD Research Intern - Circuits",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400488,6 +400346,55 @@
             "Redmond, WA"
         ],
         "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citadel",
+        "id": "9a900104-2a94-4f83-8db2-d908f008ed99",
+        "title": "Machine Learning Researcher Intern - PhD",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788505932,
+        "date_posted": 1782896943,
+        "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/",
+        "locations": [
+            "Greenwich, CT",
+            "Houston, TX",
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centene",
+        "id": "b1ddd57b-bd0d-4f01-acd3-b803848a6f3f",
+        "title": "Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789814233,
+        "date_posted": 1789689600,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Centene",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
