@@ -271837,7 +271837,7 @@
         "company_name": "NBT Bank",
         "id": "37eb663f-8550-42f6-9494-b03ad65cafdd",
         "title": "Data Warehouse & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -277940,7 +277940,7 @@
         "company_name": "BlueLabs Analytics",
         "id": "0df8e8db-3493-4b30-ac6d-81f4e6c21920",
         "title": "Strategic Analytics Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -282297,7 +282297,7 @@
         "company_name": "Wells Fargo",
         "id": "93ceecd3-ef7a-4e11-a4d0-fb7eb399e7f3",
         "title": "Quantitative Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292456,7 +292456,7 @@
         "company_name": "Swift",
         "id": "33253553-587b-447c-a021-ee8d32ddded1",
         "title": "Standards Strategy & Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -295814,7 +295814,7 @@
         "company_name": "Cigna Group",
         "id": "024af855-b60d-44e5-8ca0-8446b24f70e7",
         "title": "Technology Apprentice - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -300932,7 +300932,7 @@
         "company_name": "Rystad Energy",
         "id": "d98abdd9-48bc-4767-ad87-4f39e8156cba",
         "title": "Analyst Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -305311,7 +305311,7 @@
         "company_name": "L3Harris Technologies",
         "id": "15f5617b-df43-41d3-b529-d1458277c5cd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326663,7 +326663,7 @@
         "company_name": "Major League Baseball",
         "id": "6baf79c0-1bd1-4ef7-b360-b5f149641e81",
         "title": "Player Development Associate - Player Development",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -331240,7 +331240,7 @@
         "company_name": "Frost",
         "id": "6318ab90-8bcd-4d0c-af9b-00719bb66676",
         "title": "Model Risk Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -331385,7 +331385,7 @@
         "company_name": "CAE",
         "id": "c416ad28-d7e6-4fca-98ee-f4a2119e49e5",
         "title": "Software Engineering Intern - AI, Automation and Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -345431,7 +345431,7 @@
         "company_name": "Invesco",
         "id": "6716499c-74a8-4108-ab04-012b58e19656",
         "title": "Early Career Intern - Corporate Functions Data Office",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345870,7 +345870,7 @@
         "company_name": "Nationwide",
         "id": "58c1c9ca-335b-45dc-b8a9-bb40c95c95dd",
         "title": "Analytic Consulting Advisor Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353939,7 +353939,7 @@
         "company_name": "John Deere",
         "id": "b1f194a0-7d0c-43a1-8341-064d5e8cb99e",
         "title": "Embedded Robotics Engineering Student - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -358473,7 +358473,7 @@
         "company_name": "CAE",
         "id": "673f25da-a007-4065-9bbc-3bb07080ba59",
         "title": "Junior Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -359404,7 +359404,7 @@
         "company_name": "Garmin",
         "id": "1497b24b-487f-4977-a5ba-8c56c2ffb099",
         "title": "Software Engineer Intern - Real Time Aviation Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -363708,7 +363708,7 @@
         "company_name": "L3Harris Technologies",
         "id": "a91dc2d6-5619-4ff5-a70b-8961fc557d74",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -364326,7 +364326,7 @@
         "company_name": "L3Harris Technologies",
         "id": "cc2a43c3-1ce7-4b42-9f92-236adb09d59e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -371418,7 +371418,7 @@
         "company_name": "Commure",
         "id": "6a833744-e49d-4159-a168-e07ab82f981b",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374434,7 +374434,7 @@
         "company_name": "Genworth Financial",
         "id": "a6d458af-c99e-4109-a0f2-8231e3b60c9d",
         "title": "Process Improvement Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377486,7 +377486,7 @@
         "company_name": "Awardco",
         "id": "b7be327f-10fa-4775-8a1c-183ea4b062ce",
         "title": "Front-End Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385838,7 +385838,7 @@
         "company_name": "RTX",
         "id": "9f477186-5000-4fe3-8151-4971b1c4abfb",
         "title": "Software Engineer Co-op - Winter/Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -389441,7 +389441,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "3f405abf-6caa-4ae6-8c84-3d7c8931051a",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -393706,7 +393706,7 @@
         "company_name": "MetOx International",
         "id": "01adde08-7298-47e1-8394-bb946ac7ec13",
         "title": "Data Science Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
