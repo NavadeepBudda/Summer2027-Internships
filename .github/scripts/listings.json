@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dominion Energy",
-        "id": "1cf3e536-8d63-476d-8472-f674db08b8b7",
-        "title": "Associate Staff Engineer/Engineering Technical Specialist 1/2 or 3 - Electrical Testing N. Anna",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1769238867,
-        "date_posted": 1769238867,
-        "url": "https://careers.dominionenergy.com/job/MINERAL-Associate-Staff-EngineerEngineering-Technical-Specialist-III-or-III-Electrical-Testing-N_-Anna-VA-23117/1359101200/?ats=successfactors",
-        "locations": [
-            "Palmyra, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dominion-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nuro",
-        "id": "a6e4d29a-e90e-4d66-afab-43fbab49ea89",
-        "title": "Systems Engineering Intern - Compliance Coverage ML",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769240207,
-        "date_posted": 1769240207,
-        "url": "https://nuro.ai/careersitem?gh_jid=7562197",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nuro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Micron Technology",
         "id": "8a69bb29-9a82-4bb3-bee0-5c0468086d01",
@@ -282539,7 +282491,7 @@
         "company_name": "Wells Fargo",
         "id": "c0230293-14bd-4f7f-affb-255d60ae0334",
         "title": "Quantitative Analytics Intern - Capital Markets - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285781,7 +285733,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285823,7 +285775,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285872,7 +285824,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285964,7 +285916,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -288016,7 +287968,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "192ea991-da08-407c-8609-f30142e9d051",
         "title": "Developer Co-op - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -288087,7 +288039,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "65b44c5d-8fda-4aa8-aff9-e9ccb3106913",
         "title": "Capital Markets Quantitative Technology Services Co-op - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -288110,7 +288062,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "1babc71b-6886-48e4-9870-7503ec24824f",
         "title": "Technology & Operations Co-op - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -288278,7 +288230,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "d6b86750-e627-46d2-92a1-90ec653e1238",
         "title": "Technology & Operations Student - Data Specialists",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -288301,7 +288253,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "22a6c4bd-c737-4a92-ae44-074fdfb8affb",
         "title": "Data Analyst Co-op - AI Business Enablement",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -288322,7 +288274,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "a9948cfe-3281-4e0a-a0b4-f8c58b272354",
         "title": "Developer Co-op - Technology & Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -288968,7 +288920,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "8038fc52-e31f-4e5f-a826-481c083a5d36",
         "title": "Software Developer Co-op - Technology & Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -289012,7 +288964,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "e1d2ba99-5008-40eb-93a9-6c3ecdcbb820",
         "title": "Data Student - Data Specialists",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -289569,7 +289521,7 @@
         "company_name": "Wells Fargo",
         "id": "07139441-d9d3-4130-a236-620296b3a62a",
         "title": "Quantitative Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -290435,7 +290387,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "0cfbc30c-4e20-4b96-a5e6-f65b1fe1bf2a",
         "title": "AI Applications Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -293639,7 +293591,7 @@
         "company_name": "Goldman Sachs",
         "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
         "title": "AWM Product Management Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -298084,7 +298036,7 @@
         "company_name": "Mastercard",
         "id": "78c03ab4-f50a-445d-9802-fb785330b50f",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -298580,7 +298532,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "30c84bb4-705d-48e7-9877-1e65c271ce11",
         "title": "Data Intern - ECCO",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -298626,7 +298578,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "fec33d3a-662a-4bf7-b596-1f5ac6fa1eba",
         "title": "Business and Data Analyst Co-op - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -298697,7 +298649,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "8af45ce2-f9cb-4f74-ac2c-ff70488fcb5d",
         "title": "Data Analyst Co-op - Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -304463,7 +304415,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "1ff986e7-1259-4ef6-be26-7e2bcc66303b",
         "title": "Data & AI Intern - Balance Sheet and Liquidity Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -304509,7 +304461,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "d3633b94-e956-4f3a-9fc4-5a0b4a57a16b",
         "title": "Retail Risk Modeling Analyst Intern - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -305275,7 +305227,7 @@
         "company_name": "Mackenzie Investments",
         "id": "22da6961-acb7-4c21-b55b-05a5a8ee6bde",
         "title": "Platform Developer Intern - Platform Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -306139,7 +306091,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "1e908d1e-e2d2-490f-8aef-f6b6d7b5789d",
         "title": "Data Scientist Intern - ECT AI and Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -306633,7 +306585,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308163,7 +308115,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "b273bb27-6dcd-4b3f-9655-1e65dc080ae2",
         "title": "Data Analyst Developer Intern - Group Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -308186,7 +308138,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "aff12058-21b0-4489-ba44-3634afe09da9",
         "title": "Global AML Metrics Reporting Analyst Co-op - Group Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -310329,7 +310281,7 @@
         "company_name": "Charles Schwab",
         "id": "09239b96-d26a-4691-b9ab-9b8b442caa9f",
         "title": "Software Engineering Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310357,7 +310309,7 @@
         "company_name": "Charles Schwab",
         "id": "93f4951e-c280-428f-8f6f-a0611c97b96e",
         "title": "Data Engineering Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -312263,7 +312215,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "a35e806c-4423-4046-bc8f-f81f8e6782c1",
         "title": "Data Analyst Intern - Group Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -313546,7 +313498,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "6f890669-2f39-43e4-bd0f-8a7ab20a099b",
         "title": "Data Analyst Intern - Group Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -328112,7 +328064,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "0b2a9c96-185a-485d-bfc8-3ea3fbb8101b",
         "title": "ALM Risk Data & Automation Analyst Intern - Group Risk Management - Balance Sheet and Liquidity Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -341570,7 +341522,7 @@
         "company_name": "Premier",
         "id": "018b3915-5456-4f05-b3d3-4f7410a98b0d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -341686,7 +341638,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341709,7 +341661,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341732,7 +341684,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341755,7 +341707,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341776,7 +341728,7 @@
         "company_name": "Goldman Sachs",
         "id": "59064871-3c04-41bf-8676-945ce2cc7648",
         "title": "Summer Analyst Intern - Wealth Management - Quantitative Finance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341797,7 +341749,7 @@
         "company_name": "Goldman Sachs",
         "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
         "title": "Summer Analyst Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341818,7 +341770,7 @@
         "company_name": "Goldman Sachs",
         "id": "5a49d74c-fa9f-4dd4-a66b-24fc3d9c1def",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341839,7 +341791,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341862,7 +341814,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341886,7 +341838,7 @@
         "company_name": "Goldman Sachs",
         "id": "8f346a45-4490-4243-933e-264e3916e701",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341909,7 +341861,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341932,7 +341884,7 @@
         "company_name": "Goldman Sachs",
         "id": "765bb91e-34d7-4746-8e11-8598e700e845",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341955,7 +341907,7 @@
         "company_name": "Goldman Sachs",
         "id": "5bdec003-2a02-42a4-a602-467541840552",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342073,7 +342025,7 @@
         "company_name": "Goldman Sachs",
         "id": "b2b3a7df-bea1-4290-b988-4c3e567814b8",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342096,7 +342048,7 @@
         "company_name": "Goldman Sachs",
         "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348552,7 +348504,7 @@
         "company_name": "ATCO",
         "id": "2391b023-90fd-40d2-80e0-aa9e1f25abe1",
         "title": "Data Analytics Co-op - Customer Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -349590,7 +349542,7 @@
         "company_name": "OMERS",
         "id": "db839148-39dc-47b9-8185-15a85dd91e37",
         "title": "Portfolio Analytics Student - Winter 2027 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -349985,7 +349937,7 @@
         "company_name": "ICF International",
         "id": "75efacf7-58e1-468e-9621-e23a1444acdf",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -354367,7 +354319,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "ff8aad99-ec87-4706-9cf1-ced821e509ba",
         "title": "Data Analyst Intern - CLAO",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -356420,7 +356372,7 @@
         "company_name": "University of Arkansas",
         "id": "d71f9e6c-70f6-4284-9d54-3c7024305290",
         "title": "Marketing and Communications Intern - Web Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -358650,7 +358602,7 @@
         "company_name": "Bank of Montreal",
         "id": "33255c48-a961-49e1-841c-e4c4810ece51",
         "title": "Hardware Asset Management Analyst Co-op Intern - 8 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -358671,7 +358623,7 @@
         "company_name": "Bank of Montreal",
         "id": "32750662-1c75-4dc5-8f2d-9a04bcdc82fa",
         "title": "Hardware Asset Management Analyst Co-op Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -358761,7 +358713,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "be407afd-9fb7-45bc-91ec-bbb50e925784",
         "title": "Capital Markets Winter Analyst - AidenEdge Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -364477,7 +364429,7 @@
         "company_name": "BDC Venture Capital",
         "id": "27bfa036-d73f-448b-969a-af83a317d8e7",
         "title": "Student Analyst - Business Performance and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -379645,7 +379597,7 @@
         "company_name": "Tencent",
         "id": "d67121ec-2c8e-4740-9997-3c06b550b498",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -382129,7 +382081,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -384311,7 +384263,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "56083f58-d4ed-4ca0-8bd9-321b06f71acc",
         "title": "AI and Autonomous Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -386128,7 +386080,7 @@
         "company_name": "Barr",
         "id": "79e0f6b0-0ebd-4559-9d9c-88216eb679cb",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -386200,7 +386152,7 @@
         "company_name": "RTX",
         "id": "06c5700d-2702-4f7a-a7c1-e713c7de94a4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -395001,7 +394953,7 @@
         "company_name": "DatologyAI",
         "id": "f1aa6de1-3a54-4326-ac1b-83233e314a0b",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395342,6 +395294,309 @@
             "Rogers, MN"
         ],
         "company_url": "https://simplify.jobs/c/Illinois-Tool-Works",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "AutoZone",
+        "id": "85721ea7-7039-4fed-bd43-becafa1de541",
+        "title": "Ecommerce Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789971641,
+        "date_posted": 1789971420,
+        "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/AutoZone",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AutoZone",
+        "id": "7d5c4b26-9d58-4de0-b0fe-0ee845b9d45e",
+        "title": "Information Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789971613,
+        "date_posted": 1789971421,
+        "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/AutoZone",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AutoZone",
+        "id": "2e8bb17d-0726-4482-af62-5f868bede92c",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789971604,
+        "date_posted": 1789971425,
+        "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/AutoZone",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MFS",
+        "id": "952056a2-b2cc-495f-b6f7-1ea3d4caf8a1",
+        "title": "Consultant Relations Co-op - January - June",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789971529,
+        "date_posted": 1789948800,
+        "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Global-Institutional-Strategic-Accounts-Co-op-Spring-2027--January---June-_MFS-231931",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/MFS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "2a319a5b-a682-4c9d-9bc1-e3d5f7393fe9",
+        "title": "Digital Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789971455,
+        "date_posted": 1789948800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "a6f454a8-2bd5-4c59-a968-77237a0c890c",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789971418,
+        "date_posted": 1789948800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MFS",
+        "id": "a22505cf-c011-48dc-aff0-642aa353830e",
+        "title": "Distribution Sales Reporting Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1789971414,
+        "date_posted": 1789948800,
+        "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Distribution-Sales-Reporting-Co-op-Spring-2027--January---June-_MFS-231926",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/MFS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Interstates",
+        "id": "0a703703-0be7-4f89-89c2-56b288638eef",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789971124,
+        "date_posted": 1789970964,
+        "url": "https://www.interstates.com/careers/jobs?gh_jid=4218341009&gh_jid=4218341009",
+        "locations": [
+            "Sioux Center, IA",
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Interstates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Interstates",
+        "id": "db2027d0-629e-474c-b927-fb0ffc7d9e62",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789971124,
+        "date_posted": 1789970964,
+        "url": "https://www.interstates.com/careers/jobs?gh_jid=4218343009&gh_jid=4218343009",
+        "locations": [
+            "Sioux Center, IA",
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Interstates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nordson",
+        "id": "880f0ef0-3511-45a5-9803-3af2a5868a27",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789971301,
+        "date_posted": 1789862400,
+        "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Electrical-Engineering-Intern_REQ52913",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Nordson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mercury",
+        "id": "26e7fc97-03fa-4445-8338-fdad5cb0812c",
+        "title": "Software Engineering Intern - Spring 2027",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1789982933,
+        "date_posted": 1789982316,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004",
+        "locations": [
+            "SF",
+            "Remote in USA",
+            "NYC",
+            "Portland, OR",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercury",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "3f8ecfdc-461f-4732-bf24-79251228640c",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789984745,
+        "date_posted": 1789948800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
+        "locations": [
+            "Camarillo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ABEC",
+        "id": "e4f74430-6399-401d-97ca-da938138aeb3",
+        "title": "Project Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789987141,
+        "date_posted": 1789364195,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4500637",
+        "locations": [
+            "Springfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/ABEC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
