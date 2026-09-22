@@ -214310,7 +214310,7 @@
         "company_name": "Marvell",
         "id": "61e3734b-7ee5-4569-a6d9-7a7c0ee36478",
         "title": "Applied Machine Learning Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -216638,7 +216638,7 @@
         "company_name": "Fluxergy",
         "id": "d6f4cdc5-68b7-4f4f-a0af-e69f110a8a31",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246256,7 +246256,7 @@
         "company_name": "Xsolla",
         "id": "9eeb2878-4b21-43db-94eb-1586edccfa2a",
         "title": "AI-First Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -249378,7 +249378,7 @@
         "company_name": "Ignite Digital Services",
         "id": "d7042ff9-73e7-4c5a-bc41-551e7b2533b7",
         "title": "Engineer/Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -273152,7 +273152,7 @@
         "company_name": "GE Appliances",
         "id": "bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
         "title": "Software Engineer Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329625,7 +329625,7 @@
         "company_name": "Qorvo",
         "id": "b62dc133-f821-40c0-a4ac-21be000942cb",
         "title": "RFIC Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331035,7 +331035,7 @@
         "company_name": "AltaML",
         "id": "8b395263-c215-4129-b6bc-05ce51b926f7",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335949,7 +335949,7 @@
         "company_name": "Marvell",
         "id": "f3496429-e2af-47b2-a122-ca4af137dec7",
         "title": "Analog Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335996,7 +335996,7 @@
         "company_name": "Marvell",
         "id": "217b3813-5d5b-4b33-9c10-1c264b43215a",
         "title": "Analog Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344613,7 +344613,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "6e4167e4-c636-4cc7-8879-c3bb50f03ed5",
         "title": "Technology Support Intern - Emerging Talent",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -345580,7 +345580,7 @@
         "company_name": "AltaML",
         "id": "d57e49c5-62cc-4766-ab93-65e520c6fb9a",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371377,7 +371377,7 @@
         "company_name": "American University",
         "id": "eba00ed8-3e9c-4bab-878a-f40c09762da2",
         "title": "Quantitative Support Programmer - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -388794,7 +388794,7 @@
         "company_name": "Marvell",
         "id": "d1755914-48f5-47de-bfbd-54ea573f4448",
         "title": "SRAM Circuit Design Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388887,7 +388887,7 @@
         "company_name": "Marvell",
         "id": "b55a42a1-15a1-44c2-aa48-c6eba28cb565",
         "title": "SRAM Circuit Design Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390223,7 +390223,7 @@
         "company_name": "Allen Lund Company",
         "id": "102ebd08-8653-46c4-9bad-79821d8067a8",
         "title": "Technology and AI Intern - Technology and AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -396102,7 +396102,7 @@
         "company_name": "Resultant",
         "id": "1816a65e-9a0c-4436-b2e3-2a8a6feed191",
         "title": "Data & Analytics Consultant Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398696,7 +398696,7 @@
         "company_name": "Booz Allen",
         "id": "a102db82-0608-4e45-a9d3-ab4fa8963741",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398788,7 +398788,7 @@
         "company_name": "Booz Allen",
         "id": "e5917857-59b3-40b5-b472-7fdb54241da4",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399138,7 +399138,7 @@
         "company_name": "Booz Allen",
         "id": "c9648d41-b780-4e64-bb56-b8b3dd2960d1",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
