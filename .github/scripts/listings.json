@@ -1,86 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "7d2f4d2a-095a-4783-82f1-cb02fa15969c",
-        "title": "Software Engineer: Co-Op Intern Opportunities",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769769188,
-        "date_posted": 1769769188,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556746673",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Anywhere",
-        "id": "63f3cb92-828b-4fad-b9fe-bdf3bc3cc824",
-        "title": "Application Developer Intern - Client Innovation Center",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1769769126,
-        "date_posted": 1769769126,
-        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87264",
-        "locations": [
-            "East Lansing, MI",
-            "Monroe, LA",
-            "Baton Rouge, LA",
-            "Buffalo, NY",
-            "NYC",
-            "Louisiana",
-            "Michigan",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Anywhere-Real-Estatea",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Anywhere",
-        "id": "2dc41450-a0f3-4764-9d93-ff95749a4797",
-        "title": "AI Foundations \u2013 Research Internship: 2026 - Research Scientist",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1769769125,
-        "date_posted": 1769769125,
-        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58805",
-        "locations": [
-            "Cambridge, MA",
-            "San Jose, CA",
-            "New York",
-            "Albany, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Anywhere-Real-Estatea",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Fidelity Investments",
         "id": "9af2b479-ce6b-4409-a89d-701644cff541",
@@ -200033,7 +199953,7 @@
         "company_name": "Magna",
         "id": "d507cff6-5d9b-45f2-a806-de4fe7b2e699",
         "title": "Engineering ADAS Perception Features Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292688,7 +292608,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -296402,7 +296322,7 @@
         "company_name": "Brunswick",
         "id": "7fd82049-4a30-48f9-ab6c-519e8c2b11fd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328622,7 +328542,7 @@
         "company_name": "Goldman Sachs",
         "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
         "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335313,7 +335233,7 @@
         "company_name": "Marvell",
         "id": "2f6cedc3-6aa5-4caa-825b-45cf2ac41248",
         "title": "Design Verification Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354191,7 +354111,7 @@
         "company_name": "Walmart",
         "id": "f00e8399-0777-4e56-b2cb-0fd0631a0655",
         "title": "Software Engineer 2 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -361390,7 +361310,7 @@
         "company_name": "Johnson & Johnson",
         "id": "8f7fcdad-e342-4a99-91d5-65496fcb049a",
         "title": "Business Intelligence Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -367310,7 +367230,7 @@
         "company_name": "NVIDIA",
         "id": "83a6fa1e-2e59-414e-9c23-5b68b7d11e8a",
         "title": "Physical Design and Timing Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371798,7 +371718,7 @@
         "company_name": "Wellington Management",
         "id": "cadbb7d8-73c4-4387-91ec-dcd5b6e333a4",
         "title": "Quantitative Trading Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -374243,7 +374163,7 @@
         "company_name": "Wellington Management",
         "id": "de842588-7a1b-4f74-8b9f-98e9fb143e74",
         "title": "People Analytics Co-op - HR",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Winter 2027"
@@ -376236,7 +376156,7 @@
         "company_name": "Wellington Management",
         "id": "a5380d17-1b9c-48ba-ada4-ae136e855000",
         "title": "Business Intelligence Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -385120,7 +385040,7 @@
         "company_name": "Fidelity Investments",
         "id": "e90daa3f-ccbc-4cb4-a7b9-b19d4eaf6594",
         "title": "Quantitative Development & Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385240,7 +385160,7 @@
         "company_name": "Marvell",
         "id": "8d331a2d-b001-4caa-8b4b-d156010085c0",
         "title": "Digital IC Design Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388443,7 +388363,7 @@
         "company_name": "F5",
         "id": "143cb976-5cd1-40e5-bc6a-0f7216e58ec1",
         "title": "Software Engineer Intern - Digital",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -391799,7 +391719,7 @@
         "company_name": "Boston Scientific",
         "id": "5a8c9cf7-3eab-4d5e-91c3-eb63a3cb103d",
         "title": "Data Science Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395129,7 +395049,7 @@
         "company_name": "Boston Scientific",
         "id": "521a56a4-f683-4861-8565-e081a72736c1",
         "title": "Software Engineer Intern - R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
