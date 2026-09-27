@@ -241705,7 +241705,7 @@
         "company_name": "Dexmate",
         "id": "d9486fde-2890-432b-94f2-554f296d58bc",
         "title": "Frontend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -296422,7 +296422,7 @@
         "company_name": "Bland AI",
         "id": "25daa740-61f1-4b2b-b16f-ef6798135d16",
         "title": "Machine Learning Research Intern - Audio",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
