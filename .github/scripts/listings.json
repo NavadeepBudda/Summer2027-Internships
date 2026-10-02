@@ -238293,7 +238293,7 @@
         "company_name": "Melius",
         "id": "3d88fb1f-4b46-4e88-a576-048f777a91f2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -251496,7 +251496,7 @@
         "company_name": "Vertiv",
         "id": "fa8b65b7-46f3-4fed-bdff-a50d4855519d",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -311647,7 +311647,7 @@
         "company_name": "AMD",
         "id": "f16c4b8c-a66a-4096-b0d8-d0cb78d6664f",
         "title": "Diagnostics Design Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -316169,7 +316169,7 @@
         "company_name": "Wipfli",
         "id": "ee2f804d-b718-4730-838f-89fe383039ca",
         "title": "Data and Analytics Consulting Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -316435,7 +316435,7 @@
         "company_name": "Visionist",
         "id": "77f4f856-b89f-4e69-ad68-3f38aeda2b04",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -331754,7 +331754,7 @@
         "company_name": "Hex Technologies",
         "id": "6901d9ce-1abd-41d5-bcfc-3cd5a9bbf89c",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338639,7 +338639,7 @@
         "company_name": "Cox",
         "id": "3b30c0b3-6106-44e5-8c85-5c67c2116d43",
         "title": "Data Governance and Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348027,7 +348027,7 @@
         "company_name": "CoStar Group",
         "id": "54109f9e-2999-4211-9273-b6d34bc06e25",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350078,7 +350078,7 @@
         "company_name": "EquipmentShare",
         "id": "b527b34d-0364-42a6-9fbc-c21274a053eb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350168,7 +350168,7 @@
         "company_name": "EquipmentShare",
         "id": "b87b3f2f-c0e6-456a-a1b6-6c62b7d65970",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352044,7 +352044,7 @@
         "company_name": "Marvell",
         "id": "a72db9eb-aa2e-404c-8da4-e7916b173f94",
         "title": "Architecture Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352346,7 +352346,7 @@
         "company_name": "OpenGov",
         "id": "5bda221a-8620-420c-a38b-48bd4bdc58d3",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352823,7 +352823,7 @@
         "company_name": "Repsol",
         "id": "a6b8f766-8c9e-4078-bbb7-a4df6bf0d9de",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361394,7 +361394,7 @@
         "company_name": "Leidos",
         "id": "be3dadf8-1646-4cc7-926c-77a499228223",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362818,7 +362818,7 @@
         "company_name": "Autodesk",
         "id": "07af08ab-906b-43eb-b110-94f0ff3c0dc2",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -363710,7 +363710,7 @@
         "company_name": "Rockwell Automation",
         "id": "258a5d1f-2df5-4402-8cc1-876a88c5d320",
         "title": "Robotics Research Co-op - Physical AI - OTTO",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -363775,7 +363775,7 @@
         "company_name": "Rockwell Automation",
         "id": "430ed618-501d-4c53-ba90-e19adb770e58",
         "title": "Robotics Research Co-op - Physical AI - OTTO",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -372657,7 +372657,7 @@
         "company_name": "Fidelity Investments",
         "id": "1c5d275f-2e6f-4188-8951-f122d59a4f77",
         "title": "Quantitative Research Intern - Multi-Asset Systematic Research Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387323,7 +387323,7 @@
         "company_name": "Altice USA",
         "id": "5a537b13-411e-49f8-a1f4-631a90f3d9d6",
         "title": "Mobile Device Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -387489,7 +387489,7 @@
         "company_name": "Cigna Group",
         "id": "2dda6a1e-68a5-41f2-ac16-746b5bf4d7ec",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394669,7 +394669,7 @@
         "company_name": "Magna",
         "id": "1c2be5c5-568e-4267-992c-d7b9469c0e33",
         "title": "Optics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
