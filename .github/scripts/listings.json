@@ -1,631 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Resmed",
-        "id": "ccf0c64c-11e7-4619-be1c-ba548ea22abf",
-        "title": "Data Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770344704,
-        "date_posted": 1770344704,
-        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Data-Engineer-Intern_JR_047748",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Resmed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Resmed",
-        "id": "6f49d830-e5e3-451b-b389-316f82e0c981",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770344704,
-        "date_posted": 1770344704,
-        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Software-Engineer-Intern_JR_047857",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Resmed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Resmed",
-        "id": "3a635348-c28f-48d8-8030-346bd7ce3b05",
-        "title": "AI Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770344707,
-        "date_posted": 1770344707,
-        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/US-Brightree-Peachtree-Corners-Corp-Office/AI-Engineer-Intern_JR_047986",
-        "locations": [
-            "Norcross, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Resmed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Resmed",
-        "id": "3942819d-52ec-4f7c-9d19-56037819f8ed",
-        "title": "AI Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770344710,
-        "date_posted": 1770344710,
-        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/AI-Engineer-Intern_JR_047856",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Resmed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Resmed",
-        "id": "e8910bb2-112c-4d88-bd66-e9d2c80ba358",
-        "title": "Data Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1770344694,
-        "date_posted": 1770344694,
-        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Data-Engineer-Intern_JR_047745",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Resmed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Resmed",
-        "id": "c429e6aa-dca4-4dd1-bd57-290101c1a3c4",
-        "title": "Software Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770344695,
-        "date_posted": 1770344695,
-        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Software-Developer-Intern_JR_047863",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Resmed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Resmed",
-        "id": "586a53b5-a255-440b-8e76-65f9752baccc",
-        "title": "Data Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770344701,
-        "date_posted": 1770344701,
-        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Data-Engineer-Intern_JR_047864",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Resmed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Resmed",
-        "id": "3f72af26-fc07-4805-a317-a7ab8169e6e6",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1770344698,
-        "date_posted": 1770344698,
-        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Software-Developer-Intern_JR_047855",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Resmed",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Motors",
-        "id": "4d280f1f-2d8b-4b11-9e3e-5e477696ce7d",
-        "title": "2026 Summer Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770344437,
-        "date_posted": 1770344437,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2026-Summer-Intern---Autonomous-Vehicle-Systems-and-Integration--Bachelors-Degree-_JR-202524148",
-        "locations": [
-            "Milford Charter Twp, MI",
-            "Warren, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Pluralsight",
-        "id": "c0c27f7a-7986-4628-ac94-6405b09d50c8",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770344385,
-        "date_posted": 1770344385,
-        "url": "https://pluralsight.wd1.myworkdayjobs.com/en-US/Careers/job/Hybrid---Texas-Westlake/Software-Engineer-Intern_R0013956",
-        "locations": [
-            "Westlake, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Pluralsight",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "34eaf4a3-d6ab-454f-a2df-d77c324524da",
-        "title": "Product Strategist Project Intern - Global Monetization Product and Technology - 2026 Start",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770344021,
-        "date_posted": 1770344021,
-        "url": "https://lifeattiktok.com/search/7603516766509713717",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Basis Research Institute",
-        "id": "1b287bc8-d32c-43cb-9dde-c1acd271ffb5",
-        "title": "Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770343763,
-        "date_posted": 1770343763,
-        "url": "https://jobs.ashbyhq.com/basis-research/542c83b4-a6f2-4287-95bd-36f66c4780c4/application",
-        "locations": [
-            "Cambridge, MA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Basis-Research-Institute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "c8105a36-7da9-4019-bfdb-e9668188553d",
-        "title": "Java Software Engineer Intern - Oracle Health & Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770343638,
-        "date_posted": 1770343638,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/322421",
-        "locations": [
-            "Seattle, WA",
-            "San Carlos, CA",
-            "Pleasanton, CA",
-            "Santa Clara, CA",
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Air Liquide",
-        "id": "feabb17a-c407-4551-9afe-24989ee5d626",
-        "title": "Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770345908,
-        "date_posted": 1770345908,
-        "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Newark-DE-ICD/Research-Intern_R10084742-1",
-        "locations": [
-            "Newark, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/Air-Liquide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Astera Labs",
-        "id": "18021e71-6bb2-46a3-bcf2-55e4e3b50c5b",
-        "title": "AI/ML Intern Silicon Development Automation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770345194,
-        "date_posted": 1770345194,
-        "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4656081005",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AsteraLabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "a24a843e-4325-4ef5-b65c-9197ca9238ed",
-        "title": "Pricing & Product Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1770362605,
-        "date_posted": 1770362605,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Pricing---Product-Development-Intern--Summer-Fall-2026_10141998-2",
-        "locations": [
-            "Celebration, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "3d464dde-49a6-4b58-87f2-9bc1766ebfc4",
-        "title": "Disney Signature Experiences Pricing & Revenue Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770362612,
-        "date_posted": 1770362612,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Disney-Signature-Experiences-Pricing---Revenue-Management-Intern--Summer-Fall-2026_10142103",
-        "locations": [
-            "Celebration, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Guardian Life",
-        "id": "86a02306-9372-4840-a44a-7eee82de88e8",
-        "title": "Early Career Program - Technology Associate - Digital & Technology Rotational Program",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1770362511,
-        "date_posted": 1770362511,
-        "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Bethlehem/XMLNAME-2026-Early-Career-Program---Technology-Associate--Digital---Technology-Rotational-Program_R000107513",
-        "locations": [
-            "Holmdel, NJ",
-            "NYC",
-            "Bethlehem, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Guardian-Life",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Bootcamp"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "T. Rowe Price",
-        "id": "c9ba5d8f-bc7f-46ce-ab31-fd4c2e8806cf",
-        "title": "2026 Business Enablement Internship Program",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027",
-            "Fall 2027",
-            "Winter 2028",
-            "Spring 2028",
-            "Summer 2028"
-        ],
-        "date_updated": 1770362340,
-        "date_posted": 1770362340,
-        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2026-Business-Enablement-Internship-Program_79953",
-        "locations": [
-            "Owings Mills, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/t-rowe-price",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "T. Rowe Price",
-        "id": "6cf67c2a-a470-4f29-bb4c-fc6580d2f80d",
-        "title": "Global Product Intern Program",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027",
-            "Fall 2027",
-            "Winter 2028",
-            "Spring 2028",
-            "Summer 2028"
-        ],
-        "date_updated": 1770362335,
-        "date_posted": 1770362335,
-        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2026-Global-Product-Internship-Program_79952",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/t-rowe-price",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "T. Rowe Price",
-        "id": "2041fbb3-a975-4949-a56e-332b858847e2",
-        "title": "HR People Analytics Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027",
-            "Fall 2027",
-            "Winter 2028",
-            "Spring 2028",
-            "Summer 2028"
-        ],
-        "date_updated": 1770362336,
-        "date_posted": 1770362336,
-        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2026-HR-People-Analytics-Internship_80096",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/t-rowe-price",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Turion Space",
-        "id": "fca0ca94-a10b-48c7-91eb-ec73da3fe475",
-        "title": "Hardware Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770362053,
-        "date_posted": 1770362053,
-        "url": "https://jobs.ashbyhq.com/turion-space/650d46de-3bec-45b9-b062-6a9154064277/application",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Turion-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Turion Space",
-        "id": "5ccc3e5e-1b00-4b72-9f04-d84f47eb139a",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1770362052,
-        "date_posted": 1770362052,
-        "url": "https://jobs.ashbyhq.com/turion-space/a0fc3dae-26f0-44f4-a255-1a15e3b9f307/application",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Turion-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "1ce9a7d2-eb6b-47ee-b656-db85deacf2df",
-        "title": "PhD Software Engineer Intern - Database Technologies",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1770361696,
-        "date_posted": 1770361696,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325817",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Kinaxis",
-        "id": "3d5fe3f3-5cf8-4285-8137-fa4e38207a89",
-        "title": "Co-Op/Intern Software Engineer - AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770361682,
-        "date_posted": 1770361682,
-        "url": "https://careers-kinaxis.icims.com/jobs/34300/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Kinaxis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Autodesk",
         "id": "394bda73-c496-43a9-835d-63def409a009",
@@ -255303,7 +254678,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310927,7 +310302,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -310950,7 +310325,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310973,7 +310348,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -311290,7 +310665,7 @@
         "company_name": "Goldman Sachs",
         "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321400,7 +320775,7 @@
         "company_name": "Merck",
         "id": "e2818b99-0f21-4936-b942-da56f97129bd",
         "title": "Global Data Management and Standards Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331445,7 +330820,7 @@
         "company_name": "USAA",
         "id": "59607dda-cef3-4eb4-8c26-edee74b6dd72",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341912,7 +341287,7 @@
         "company_name": "TD Bank",
         "id": "580171f7-4613-4a78-b99a-3b85b469f5d0",
         "title": "Software Engineer Intern - Global Technology & Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341935,7 +341310,7 @@
         "company_name": "TD Bank",
         "id": "a78f5a0d-953f-4465-8622-6c6b2ad17d27",
         "title": "Data Engineer Intern - Global Technology & Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342145,7 +341520,7 @@
         "company_name": "TD Bank",
         "id": "00b431d7-b27a-42f0-9b16-db2bb8402cf7",
         "title": "Data Analyst Intern - Global Technology & Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343334,7 +342709,7 @@
         "company_name": "Ameriprise Financial",
         "id": "cdc90c92-a2b4-4524-be49-4c6676c48819",
         "title": "Quantitative Investment Research Co-op - Equities",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -351370,7 +350745,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -377726,7 +377101,7 @@
         "company_name": "Boston Scientific",
         "id": "521a56a4-f683-4861-8565-e081a72736c1",
         "title": "Software Engineer Intern - R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395081,6 +394456,52 @@
             "Cedar Rapids, IA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gartner",
+        "id": "27b40008-f015-43f7-b561-8134fe22e524",
+        "title": "IT Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791094534,
+        "date_posted": 1786579200,
+        "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Gartner",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DocuSign",
+        "id": "5675fa47-e852-4cdc-9992-395a0d1765b8",
+        "title": "Software Engineer Intern - Self-Service Directory Diagnostics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791094415,
+        "date_posted": 1791094240,
+        "url": "https://careers.docusign.com/jobs/30464?icims=1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/DocuSign",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
