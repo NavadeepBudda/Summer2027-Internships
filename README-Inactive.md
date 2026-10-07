@@ -9,17 +9,17 @@
 
 ---
 
-### Browse 1621 Inactive Internship Roles by Category
+### Browse 1651 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (584)
+💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (586)
 
-📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (99)
+📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (102)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (538)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (544)
 
-📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (175)
+📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (192)
 
-🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (225)
+🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (227)
 
 ---
 
@@ -90,6 +90,27 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Space-Dynamics-Laboratory?utm_source=GHList&utm_medium=company">Space Dynamics Laboratory</a></strong></td>
+<td>Software Engineer Intern - Software, AI, & Machine Learning</td>
+<td>North Logan, UT</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Intern - AI Enabled Software Development</td>
+<td>North Logan, UT</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Innovative-Defense-Technologies?utm_source=GHList&utm_medium=company">Innovative Defense Technologies</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Mt Laurel Township, NJ</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company">Capital One</a></strong></td>
 <td>Full Stack Software Engineer Intern</td>
@@ -168,13 +189,6 @@
 <td>7d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Iridium-Communications?utm_source=GHList&utm_medium=company">Iridium Communications</a></strong></td>
-<td>Software Engineering Intern</td>
-<td>Tempe, AZ<br>McLean, VA</td>
-<td>🔒</td>
-<td>7d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
 <td>Software Development Engineer Co-op</td>
 <td>Waltham, MA</td>
@@ -249,14 +263,14 @@
 <td>Software Engineering Co-op</td>
 <td>Philadelphia, PA</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Barrios?utm_source=GHList&utm_medium=company">Barrios</a></strong></td>
 <td>Data and Computer Engineering/Computer Science Intern</td>
 <td>Houston, TX</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/The-Aerospace-Corporation?utm_source=GHList&utm_medium=company">The Aerospace Corporation</a></strong></td>
@@ -466,7 +480,7 @@
 <td>AI Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Upbound-Group?utm_source=GHList&utm_medium=company">Upbound Group</a></strong></td>
@@ -1110,91 +1124,91 @@
 <td>Software Engineer Intern - BS/MS</td>
 <td>SF</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Principal-Financial?utm_source=GHList&utm_medium=company">Principal Financial Group</a></strong></td>
 <td>Software Engineer Intern - Summer 2027</td>
 <td>Des Moines, IA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Robinhood?utm_source=GHList&utm_medium=company">Robinhood</a></strong></td>
 <td>Software Engineer Intern - iOS - Summer 2027</td>
 <td>Menlo Park, CA<br>NYC</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Developer Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern - Backend</td>
 <td>Menlo Park, CA<br>NYC<br>Bellevue, WA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern - Web</td>
 <td>Menlo Park, CA<br>NYC</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>iOS Software Developer Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern - Android - Summer 2027</td>
 <td>Menlo Park, CA<br>NYC</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Developer Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Dell-Technologies?utm_source=GHList&utm_medium=company">Dell Technologies</a></strong></td>
 <td>Software Engineering Intern</td>
 <td>Round Rock, TX<br>Hopkinton, MA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/State-Farm?utm_source=GHList&utm_medium=company">State Farm</a></strong></td>
 <td>Software Engineer Intern - Innovation Group</td>
 <td><details><summary><strong>4 locations</strong></summary>Tempe, AZ<br>Dunwoody, GA<br>Richardson, TX<br>Bloomington, IL</details></td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern - Multiple Teams</td>
 <td><details><summary><strong>4 locations</strong></summary>Tempe, AZ<br>Dunwoody, GA<br>Richardson, TX<br>Bloomington, IL</details></td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Mainframe Software Engineer Intern - Enterprise Technology</td>
 <td><details><summary><strong>4 locations</strong></summary>Tempe, AZ<br>Dunwoody, GA<br>Richardson, TX<br>Bloomington, IL</details></td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company">Wells Fargo</a></strong></td>
@@ -1470,6 +1484,13 @@
 <td>27d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Gallup?utm_source=GHList&utm_medium=company">Gallup</a></strong></td>
+<td>Software Engineer Intern - Summer 2027</td>
+<td>SF</td>
+<td>🔒</td>
+<td>28d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/SECURE?utm_source=GHList&utm_medium=company">SECURE</a></strong></td>
 <td>Software Developer Intern</td>
 <td>Calgary, AB, Canada</td>
@@ -1600,7 +1621,7 @@
 <td>RPA Automation Intern</td>
 <td>St. Louis, MO</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
@@ -1659,13 +1680,6 @@
 <td>29d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Automation Developer Intern</td>
-<td>Bloomington, IL</td>
-<td>🔒</td>
-<td>29d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/ABB?utm_source=GHList&utm_medium=company">ABB</a></strong></td>
 <td>Application Engineering Intern - Summer 2027</td>
 <td>Lombard, IL<br>Alpharetta, GA</td>
@@ -1677,7 +1691,7 @@
 <td>Software Engineer Intern - Summer 2027</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Xcel-Energy?utm_source=GHList&utm_medium=company">Xcel Energy</a></strong></td>
@@ -4081,7 +4095,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Marshall-Wace?utm_source=GHList&utm_medium=company">Marshall Wace</a></strong></td>
+<td>↳</td>
 <td>Technology Intern</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -4211,7 +4225,7 @@
 <td>Product Growth Intern - MBA 🎓</td>
 <td>Palo Alto, CA</td>
 <td>🔒</td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
@@ -4247,6 +4261,13 @@
 <td>Mountain View, CA</td>
 <td>🔒</td>
 <td>13d</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Google?utm_source=GHList&utm_medium=company">Google</a></strong></td>
+<td>Product Manager Intern - Summer 2027</td>
+<td><details><summary><strong>4 locations</strong></summary>SF<br>San Bruno, CA<br>NYC<br>Mountain View, CA</details></td>
+<td>🔒</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Mastercard?utm_source=GHList&utm_medium=company">Mastercard</a></strong></td>
@@ -4333,6 +4354,13 @@
 <td>20d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Nasdaq?utm_source=GHList&utm_medium=company">Nasdaq</a></strong></td>
+<td>Product Owner Intern</td>
+<td>Atlanta, GA</td>
+<td>🔒</td>
+<td>21d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/PwC?utm_source=GHList&utm_medium=company">PricewaterhouseCoopers (PwC)</a></strong></td>
 <td>Product Management Intern - Commercial Tech & Innovation</td>
 <td>Rosemont, IL</td>
@@ -4365,7 +4393,7 @@
 <td>Digital Product Management Intern</td>
 <td>Bolingbrook, IL</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Oshkosh?utm_source=GHList&utm_medium=company">Oshkosh</a></strong></td>
@@ -4421,7 +4449,7 @@
 <td>Product Management Intern</td>
 <td>Lincoln, NE</td>
 <td>🔒</td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Charles-Schwab?utm_source=GHList&utm_medium=company">Charles Schwab</a></strong></td>
@@ -4435,19 +4463,26 @@
 <td>Product Strategist Intern - Student Loans</td>
 <td>Vienna, VA</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Product Strategist Intern</td>
 <td>Vienna, VA</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Mechanical Product Line Management Co-op - Spring/Summer 2027</td>
 <td>Rockford, IL</td>
+<td>🔒</td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Ingredion?utm_source=GHList&utm_medium=company">Ingredion</a></strong></td>
+<td>Customer Innovation Technical Service Intern - Texture & Healthful Solutions</td>
+<td>Bridgewater, NJ</td>
 <td>🔒</td>
 <td>29d</td>
 </tr>
@@ -4508,7 +4543,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/United-Airlines?utm_source=GHList&utm_medium=company">United Airlines</a></strong></td>
 <td>Sales Product Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -4753,7 +4788,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
 <td>Product Innovation Intern - Credit & Fraud Risk</td>
 <td>Phoenix, AZ</td>
 <td>🔒</td>
@@ -4781,14 +4816,14 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
 <td>Product Development Intern - Product Development - Consumer Services</td>
 <td>NYC</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
+<td>↳</td>
 <td>Digital Product Analyst Intern</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -4921,18 +4956,18 @@
 <td>1d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Kyndryl?utm_source=GHList&utm_medium=company">Kyndryl</a></strong></td>
+<td>Marketing Intern - Marketing Analytics</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
 <td>Summer Intern - Global Manufacturing Robotics & Automation</td>
 <td>Warren, MI</td>
 <td>🔒</td>
 <td>1d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Data Analytics Intern</td>
-<td>Annapolis, MD</td>
-<td>🔒</td>
-<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Autodesk?utm_source=GHList&utm_medium=company">Autodesk</a></strong></td>
@@ -5086,7 +5121,7 @@
 <td>Evaluation Engineer Intern - Metric Prototyping</td>
 <td>SF</td>
 <td>🔒</td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/The-Federal-Reserve-System?utm_source=GHList&utm_medium=company">The Federal Reserve System</a></strong></td>
@@ -5127,6 +5162,27 @@
 <td>↳</td>
 <td>Operations Analytics & Reporting Intern</td>
 <td>Tampa, FL<br>St. Petersburg, FL</td>
+<td>🔒</td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Excellus-BCBS?utm_source=GHList&utm_medium=company">Excellus BCBS</a></strong></td>
+<td>Healthcare Analytics Intern - Healthcare Analytics</td>
+<td><details><summary><strong>6 locations</strong></summary>Rochester, NY<br>De Witt, NY<br>Utica, NY<br>Albany, NY<br>Binghamton, NY<br>Buffalo, NY</details></td>
+<td>🔒</td>
+<td>14d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>College Intern - Healthcare Statistical Analytics</td>
+<td><details><summary><strong>6 locations</strong></summary>Rochester, NY<br>De Witt, NY<br>Utica, NY<br>Albany, NY<br>Binghamton, NY<br>Buffalo, NY</details></td>
+<td>🔒</td>
+<td>14d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>College Intern - Data Governance & AI Governance</td>
+<td><details><summary><strong>6 locations</strong></summary>Rochester, NY<br>De Witt, NY<br>Utica, NY<br>Albany, NY<br>Binghamton, NY<br>Buffalo, NY</details></td>
 <td>🔒</td>
 <td>14d</td>
 </tr>
@@ -5408,7 +5464,7 @@
 <td>Artificial Intelligence Intern - AI</td>
 <td>Pittsburgh, PA</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Smith-Nephew?utm_source=GHList&utm_medium=company">Smith+Nephew</a></strong></td>
@@ -5555,70 +5611,70 @@
 <td>Revenue Management Intern</td>
 <td>LA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Revenue Management Intern - Summer 2027</td>
 <td>SF</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Revenue Management Intern - Summer 2027</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Revenue Management Intern - Summer 2027</td>
 <td>Miami, FL</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Revenue Management Intern - Summer 2027</td>
 <td>Boston, MA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ulta-Beauty?utm_source=GHList&utm_medium=company">Ulta Beauty</a></strong></td>
 <td>Supply Chain Data & Analytics Intern</td>
 <td>Bolingbrook, IL</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Principal-Financial?utm_source=GHList&utm_medium=company">Principal Financial Group</a></strong></td>
 <td>Data and Analytics Intern - Multiple Teams</td>
 <td><details><summary><strong>4 locations</strong></summary>Des Moines, IA<br>Remote in USA<br>Raleigh, NC<br>Charlotte, NC</details></td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Data Engineer Intern</td>
 <td>Des Moines, IA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Robinhood?utm_source=GHList&utm_medium=company">Robinhood</a></strong></td>
 <td>People Insights & Analytics Intern - Summer 2027 🎓</td>
 <td>Menlo Park, CA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/State-Farm?utm_source=GHList&utm_medium=company">State Farm</a></strong></td>
 <td>Technology Product Analyst Intern - Innovation Group</td>
 <td><details><summary><strong>4 locations</strong></summary>Tempe, AZ<br>Dunwoody, GA<br>Richardson, TX<br>Bloomington, IL</details></td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
@@ -5719,6 +5775,13 @@
 <td>23d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Clarios?utm_source=GHList&utm_medium=company">Clarios</a></strong></td>
+<td>People Analytics Intern - Summer 2027</td>
+<td>Milwaukee, WI</td>
+<td>🔒</td>
+<td>23d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/AtkinsRealis?utm_source=GHList&utm_medium=company">AtkinsRéalis</a></strong></td>
 <td>Data Scientist Intern - Summer 2027</td>
 <td>Tempe, AZ</td>
@@ -5758,7 +5821,7 @@
 <td>Finance Analyst Intern</td>
 <td>Madison, PA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/The-Toro-Company?utm_source=GHList&utm_medium=company">The Toro Company</a></strong></td>
@@ -5877,7 +5940,7 @@
 <td>Associate Intern 🎓</td>
 <td>Pensacola, FL<br>Vienna, VA</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Gallup?utm_source=GHList&utm_medium=company">Gallup</a></strong></td>
@@ -5967,6 +6030,13 @@
 <td><strong><a href="https://simplify.jobs/c/One-Finance?utm_source=GHList&utm_medium=company">ONE Finance</a></strong></td>
 <td>AI Research Intern</td>
 <td>Remote in USA</td>
+<td>🔒</td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Spirit-AeroSystems?utm_source=GHList&utm_medium=company">Spirit AeroSystems</a></strong></td>
+<td>Data Analytics Intern - Production & Industrial Engineering - Paid</td>
+<td>Wichita, KS</td>
 <td>🔒</td>
 <td>28d</td>
 </tr>
@@ -7728,6 +7798,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Goldman-Sachs?utm_source=GHList&utm_medium=company">Goldman Sachs</a></strong></td>
+<td>Quantitative Strategist Associate Intern - The Core Quantitative Strats 🎓</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/BerryDunn?utm_source=GHList&utm_medium=company">BerryDunn</a></strong></td>
 <td>Consulting Intern - Healthcare Data Management and Strategy</td>
 <td>Portland, ME</td>
@@ -8712,10 +8789,17 @@
 <td>Quantitative Analysis Intern - Quantitative Analysis</td>
 <td>Raleigh, NC</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Fidelity-Investments?utm_source=GHList&utm_medium=company">Fidelity Investments</a></strong></td>
+<td>Quantitative Research Intern - Multi-Asset Research Team</td>
+<td>Boston, MA</td>
+<td>🔒</td>
+<td>16d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Quantitative Analyst Intern - Fixed Income Team 🎓</td>
 <td>Boston, MA<br>Merrimack, NH</td>
 <td>🔒</td>
@@ -9143,6 +9227,62 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Goldman-Sachs?utm_source=GHList&utm_medium=company">Goldman Sachs</a></strong></td>
+<td>Quantitative Strategist Intern - Investment Banking</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Quantitative Strategist Intern - Multiple Teams</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Quantitative Strategist Associate Intern - Asset and Wealth Management 🎓</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Summer Analyst Intern</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Quantitative Strats Analyst Intern - Americas - Investment Banking</td>
+<td>Dallas, TX</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Summer Associate Intern 🎓</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Summer Associate Intern - Multiple Teams 🎓</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Summer Analyst Intern - Americas - Investment Banking Quantitative Strats</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -9150,7 +9290,49 @@
 </tr>
 <tr>
 <td>↳</td>
+<td>Quantitative Strategist Intern - Americas - The Core Quantitative Strats</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Quantitative Strategist Intern - Americas</td>
+<td>Dallas, TX</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Quantitative Strategist Intern - Americas - The Core Quantitative Strats</td>
+<td>Dallas, TX</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Quantitative Strategist Intern - Americas - The Core Quantitative Strats</td>
+<td>Salt Lake City, UT</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Summer Analyst Intern - FICC & Equities - Sales & Trading</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Quantitative Strategist Intern - Multiple Teams</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Quantitative Strategist Associate Intern - The Core Quantitative Strats 🎓</td>
 <td>London, UK</td>
 <td>🔒</td>
 <td>1mo</td>
@@ -9178,6 +9360,13 @@
 </tr>
 <tr>
 <td>↳</td>
+<td>Summer Analyst Intern - The Core Quantitative Strats</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Summer Analyst Intern - FICC and Equities - Sales and Trading</td>
 <td>West Palm Beach, FL</td>
 <td>🔒</td>
@@ -9194,6 +9383,13 @@
 <td><strong><a href="https://simplify.jobs/c/PGIM?utm_source=GHList&utm_medium=company">PGIM</a></strong></td>
 <td>Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group</td>
 <td>Newark, NJ</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Barclays?utm_source=GHList&utm_medium=company">Barclays</a></strong></td>
+<td>Quantitative Finance Associate Intern</td>
+<td>NYC</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -9870,7 +10066,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/BP?utm_source=GHList&utm_medium=company">BP</a></strong></td>
 <td>Finance & Risk Intern - Supply - Trading</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -9947,25 +10143,32 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Systems Engineering Test Equipment Intern</td>
+<td>El Segundo, CA</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Renesas-Electronics?utm_source=GHList&utm_medium=company">Renesas Electronics</a></strong></td>
 <td>Analog Intern 🎓</td>
 <td>San Jose, CA<br>Plano, TX<br>San Diego, CA</td>
 <td>🔒</td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Analog Intern 🎓</td>
 <td>San Jose, CA<br>Plano, TX<br>San Diego, CA</td>
 <td>🔒</td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Analog Intern 🎓</td>
 <td>San Jose, CA<br>Plano, TX<br>San Diego, CA</td>
 <td>🔒</td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
@@ -9979,7 +10182,7 @@
 <td>FPGA Electrical Engineer Intern - Civil & Commercial Space Division</td>
 <td>North Logan, UT</td>
 <td>🔒</td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -9994,6 +10197,13 @@
 <td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>6d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Software Engineer Intern - Summer 2027</td>
+<td>Fort Wayne, IN</td>
+<td>🔒</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
@@ -10034,6 +10244,13 @@
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Largo, FL</td>
+<td>🔒</td>
+<td>8d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Intern</td>
+<td>Rockford, IL</td>
 <td>🔒</td>
 <td>8d</td>
 </tr>
@@ -10217,7 +10434,7 @@
 <td>Imaging Sciences Engineer Intern</td>
 <td>Keene, NH</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -10265,13 +10482,6 @@
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
 <td>SRAM Circuit Design Intern - MS 🎓</td>
 <td>Burlington, VT</td>
-<td>🔒</td>
-<td>20d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Design for Test Intern - MS 🎓</td>
-<td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>20d</td>
 </tr>

@@ -10,17 +10,17 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 ---
 
-### Browse 641 Internship Roles by Category
+### Browse 640 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (202)
+💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (201)
 
 📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (30)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (210)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (209)
 
 📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (9)
 
-🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (190)
+🔧 **[Hardware Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (191)
 
 ---
 
@@ -87,14 +87,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Vancouver, BC, Canada</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://apply.workable.com/semios/j/4B5D1FB613/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9b4e37d9-a98c-45f4-bc30-a54925f62d8b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/KnowBe4?utm_source=GHList&utm_medium=company">KnowBe4</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Tampa, FL</td>
-<td>Winter 2027</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8870749002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1ba9c023-a121-4599-a80d-ad93c324a247?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -327,7 +319,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Colorado Springs, CO</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/bluestaq/jobs/4420189009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d314f5f4-0dfc-4dcd-9b4a-b27f1694d1b9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company">Notion</a></strong></td>
@@ -351,7 +343,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Fairport, NY</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10635?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0114fd01-23de-4242-a750-9e8add8525e7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -359,7 +351,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Fairport, NY</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10634?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/69a8769a-6a70-4042-a0f5-b88658b5c3b0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -367,7 +359,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Fairport, NY</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10636?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d343ee60-37ae-444d-a47b-e9be6f1046d9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vital-Lyfe?utm_source=GHList&utm_medium=company">Vital Lyfe</a></strong></td>
@@ -655,7 +647,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Toronto, ON, Canada</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/167090cb-a6cc-4740-9731-6e37db8ce44d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -663,7 +655,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Toronto, ON, Canada</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fdbbada2-df05-4944-b424-c36fcf81ead1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
@@ -679,7 +671,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Boston, MA</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/90073809-4e42-4a91-9c65-c5750c320aba?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
@@ -703,7 +695,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Palo Alto, CA</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://www.tesla.com/careers/search/job/283117?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a6be63fe-0ed7-4ad2-a4f7-774bd97b77b8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company">Kinaxis</a></strong></td>
@@ -767,7 +759,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Blacksburg, VA<br>Herndon, VA</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://careers-peraton.icims.com/jobs/170319/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/53214376-dcb6-4b32-99dd-b69bd332ee7e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company">Kinaxis</a></strong></td>
@@ -775,7 +767,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5ac1d7a8-5581-4468-b12a-92c221dd3cd0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
@@ -946,7 +938,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-UK?utm_source=GHList&utm_medium=company">General Dynamics UK</a></strong></td>
 <td>Software Developer Co-op - 16-Months</td>
 <td>Calgary, AB, Canada</td>
 <td>Winter 2027</td>
@@ -1026,7 +1018,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Qorvo?utm_source=GHList&utm_medium=company">Qorvo</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Richardson, TX</td>
 <td>Fall 2026</td>
@@ -1694,7 +1686,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 
 <details>
-<summary>🗃️ Inactive roles (782)</summary>
+<summary>🗃️ Inactive roles (783)</summary>
 
 <table>
 <thead>
@@ -1708,6 +1700,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/KnowBe4?utm_source=GHList&utm_medium=company">KnowBe4</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Tampa, FL</td>
+<td>Winter 2027</td>
+<td>🔒</td>
+<td>0d</td>
+</tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
 <td>Distributed Systems Software Engineer Intern - Energy Engineering</td>
@@ -1850,7 +1850,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Chicago, IL</td>
 <td>Winter 2027, Spring 2027</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Mercury?utm_source=GHList&utm_medium=company">Mercury</a></strong></td>
@@ -1906,7 +1906,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Montreal, QC, Canada</td>
 <td>Winter 2027</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Manulife-Financial?utm_source=GHList&utm_medium=company">Manulife Financial</a></strong></td>
@@ -1994,7 +1994,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2027</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Gulfstream?utm_source=GHList&utm_medium=company">Gulfstream</a></strong></td>
@@ -2002,7 +2002,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Savannah, GA</td>
 <td>Spring 2027</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -2010,7 +2010,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Savannah, GA</td>
 <td>Spring 2027</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/A-Thinking-Ape?utm_source=GHList&utm_medium=company">A Thinking Ape</a></strong></td>
@@ -2050,7 +2050,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Toronto, ON, Canada</td>
 <td>Winter 2027</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BDO-Canada?utm_source=GHList&utm_medium=company">BDO Canada</a></strong></td>
@@ -2114,7 +2114,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Winnipeg, MB, Canada<br>Toronto, ON, Canada</td>
 <td>Winter 2027</td>
 <td>🔒</td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company">Intel</a></strong></td>
@@ -2413,7 +2413,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
+<td>↳</td>
 <td>Tools and Automation Software Developer Co-op/Intern</td>
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2027</td>
@@ -5805,7 +5805,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>4mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
+<td>↳</td>
 <td>Firmware Content Management Intern - Content Integration Engineer - Vehicle Firmware</td>
 <td>Palo Alto, CA</td>
 <td>Fall 2026</td>
@@ -5965,7 +5965,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
 <td>Service Engineering Intern - Product Support Engineer - Service Engineering</td>
 <td>Palo Alto, CA</td>
 <td>Fall 2026</td>
@@ -8135,12 +8135,12 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>25d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
 <td>Vehicle Accessories & Merchandise Product Intern - Global Merchandise</td>
 <td>Hawthorne, CA</td>
 <td>Winter 2027, Spring 2027</td>
 <td><div align="center"><a href="https://www.tesla.com/careers/search/job/283137?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d5c67b95-ec5f-4c2d-b9dc-68c0a2efad5d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Definity-Financial?utm_source=GHList&utm_medium=company">Definity Financial</a></strong></td>
@@ -9587,7 +9587,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Toronto, ON, Canada<br>Waterloo, ON, Canada<br>Ottawa, ON, Canada</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/212771ed-92c6-48c7-b5d0-8fba7e55a26f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bose?utm_source=GHList&utm_medium=company">Bose</a></strong></td>
@@ -10019,7 +10019,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Laurel, MD</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://careers.jhuapl.edu/jobs/60031?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a4df1ba6-a9b3-47cb-ad51-5515e6284b2e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Republic-Airways?utm_source=GHList&utm_medium=company">Republic Airways</a></strong></td>
@@ -10091,7 +10091,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>London, UK</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://jobs.lever.co/ekimetrics/8df1a768-c6b0-4082-9c41-b3171c0fb548/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f9edd21f-f918-4ee8-a483-6533c49d8901?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
@@ -10123,7 +10123,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Toronto, ON, Canada<br>Waterloo, ON, Canada</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b83d94c7-7ca2-4da6-a521-6e5cabc072e7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Interstates?utm_source=GHList&utm_medium=company">Interstates</a></strong></td>
@@ -10150,12 +10150,12 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>25d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
 <td>Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus</td>
 <td>Palo Alto, CA</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://www.tesla.com/careers/search/job/283128?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/43f7ea35-f35d-4add-a344-e6dc42c8dbaa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GrayMatterRobotics?utm_source=GHList&utm_medium=company">GrayMatter Robotics</a></strong></td>
@@ -10838,14 +10838,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>1mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
-<td>Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries</td>
-<td>Santa Clara, CA</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bb48b7b8-29e9-4f8f-8817-54e325180735?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Marmon-Holdings?utm_source=GHList&utm_medium=company">Marmon Holdings</a></strong></td>
 <td>Data & Process Automation Intern - Duty Drawback</td>
 <td>Newark, NJ</td>
@@ -11034,7 +11026,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 
 
 <details>
-<summary>🗃️ Inactive roles (1203)</summary>
+<summary>🗃️ Inactive roles (1204)</summary>
 
 <table>
 <thead>
@@ -11600,32 +11592,6 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>🔒</td>
 <td>28d</td>
 </tr>
-</tbody>
-</table>
-
----
-
-<div align="center" id="github-cutoff-warning">
-  <h2>🔗 See Full List</h2>
-  <p><strong>⚠️ GitHub preview cuts off around here due to file size limits.</strong></p>
-  <p>📋 <strong><a href="https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README.md#-see-full-list">Click here to view the complete list with all internship opportunities!</a></strong> 📋</p>
-  <p><em>To find even more internships in tech, check out <a href="https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security&jobId=2ac81173-86b5-4dbd-a7a9-260847c259cc&jobType=Internship?utm_source=GHList">Simplify's website</a>.</em></p>
-</div>
-
----
-
-<table>
-<thead>
-<tr>
-<th>Company</th>
-<th>Role</th>
-<th>Location</th>
-<th>Application</th>
-<th>Age</th>
-</tr>
-</thead>
-<tbody>
-
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
 <td>Hardware Asset Management Analyst Co-op Intern - 8 months</td>
@@ -11666,6 +11632,32 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>🔒</td>
 <td>29d</td>
 </tr>
+</tbody>
+</table>
+
+---
+
+<div align="center" id="github-cutoff-warning">
+  <h2>🔗 See Full List</h2>
+  <p><strong>⚠️ GitHub preview cuts off around here due to file size limits.</strong></p>
+  <p>📋 <strong><a href="https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README.md#-see-full-list">Click here to view the complete list with all internship opportunities!</a></strong> 📋</p>
+  <p><em>To find even more internships in tech, check out <a href="https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security&jobId=2ac81173-86b5-4dbd-a7a9-260847c259cc&jobType=Internship?utm_source=GHList">Simplify's website</a>.</em></p>
+</div>
+
+---
+
+<table>
+<thead>
+<tr>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
+</tr>
+</thead>
+<tbody>
+
 <tr>
 <td>↳</td>
 <td>Data Science Co-op - Analytics Insights & Artificial Intelligence</td>
@@ -13686,6 +13678,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td><strong><a href="https://simplify.jobs/c/Teledyne?utm_source=GHList&utm_medium=company">Teledyne</a></strong></td>
 <td>AI & Automation Engineer Co-op</td>
 <td>Waterloo, ON, Canada</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
+<td>Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries</td>
+<td>Santa Clara, CA</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>1mo</td>
@@ -15739,7 +15739,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Toshiba-Global-Commerce?utm_source=GHList&utm_medium=company">Toshiba Global Commerce</a></strong></td>
+<td>↳</td>
 <td>AI Engineer Intern</td>
 <td>Frisco, TX</td>
 <td>Fall 2026</td>
@@ -17395,7 +17395,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Bosch-Home-Comfort?utm_source=GHList&utm_medium=company">Bosch Home Comfort</a></strong></td>
+<td>↳</td>
 <td>Foreign Trade Data Analytics Intern</td>
 <td>Western Springs, IL</td>
 <td>Fall 2026</td>
@@ -18144,7 +18144,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Cincinnati, OH</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zipline?utm_source=GHList&utm_medium=company">Zipline</a></strong></td>
@@ -18283,7 +18283,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
 <td>Data Engineer Intern - Fleet Analytics</td>
 <td>Palo Alto, CA</td>
 <td>Fall 2026</td>
@@ -20035,7 +20035,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
+<td>↳</td>
 <td>Wealth Management Data Analyst Co-op</td>
 <td>Toronto, ON, Canada</td>
 <td>Fall 2026</td>
@@ -20728,7 +20728,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Chicago, IL</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://www.oldmissioncapital.com/careers/?gh_jid=8002345003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5ca3d9ed-7ea0-42ca-87f3-9791668c9ee4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Manulife-Financial?utm_source=GHList&utm_medium=company">Manulife Financial</a></strong></td>
@@ -20843,7 +20843,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>NYC</td>
 <td>Winter 2027</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Northwestern-Mutual?utm_source=GHList&utm_medium=company">Northwestern Mutual</a></strong></td>
@@ -21555,7 +21555,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Waltham, MA</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990015854776?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ce9d6556-a976-430c-baea-f3f22efbf0e1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
@@ -21707,7 +21707,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Basingstoke, UK</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10868?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/692cb87c-949d-4c21-bbb0-8aec9daaa90e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
@@ -21875,7 +21875,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://techinsights.applytojob.com/apply/bKNlLKEsBR/Circuit-Analysis-Coop-Student-Winter-2027?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/388297a0-afa4-4597-89e7-a9526951264f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
@@ -22030,6 +22030,14 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>21d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Insulet-Corporation?utm_source=GHList&utm_medium=company">Insulet</a></strong></td>
+<td>Embedded Software Test Engineering Co-op</td>
+<td>Acton, MA</td>
+<td>Winter 2027</td>
+<td><div align="center"><a href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b4789431-e06c-4c29-83bf-0028a887dc8a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
 <td>Actuator Test Engineer Intern - Optimus</td>
 <td>Langley, BC, Canada</td>
@@ -22051,7 +22059,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2027</td>
 <td><div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d94c84cc-d47a-4059-ba2f-57d2caabe29d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
@@ -22294,7 +22302,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Qorvo?utm_source=GHList&utm_medium=company">Qorvo</a></strong></td>
+<td>↳</td>
 <td>Test Engineer Intern</td>
 <td>Chelmsford, MA</td>
 <td>Fall 2026</td>
@@ -22942,7 +22950,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Waltham, MA</td>
 <td>Winter 2027</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
@@ -23193,7 +23201,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-UK?utm_source=GHList&utm_medium=company">General Dynamics UK</a></strong></td>
 <td>Mobile Domain System Engineering Co-op - Months</td>
 <td>Calgary, AB, Canada</td>
 <td>Winter 2027</td>
@@ -23289,7 +23297,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Qorvo?utm_source=GHList&utm_medium=company">Qorvo</a></strong></td>
+<td>↳</td>
 <td>RFIC Design Intern 🎓</td>
 <td>Chelmsford, MA</td>
 <td>Fall 2026</td>
@@ -25910,7 +25918,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>Sunnyvale, CA</td>
 <td>Fall 2026</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zipline?utm_source=GHList&utm_medium=company">Zipline</a></strong></td>
@@ -25945,7 +25953,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>4mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
+<td>↳</td>
 <td>Electronic Design Engineer Intern - Optimus</td>
 <td>Palo Alto, CA</td>
 <td>Fall 2026</td>
@@ -26041,7 +26049,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
 <td>Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering</td>
 <td>Palo Alto, CA</td>
 <td>Fall 2026</td>
@@ -27257,7 +27265,7 @@ This community view tracks software, tech, CS, PM, and quant internships for **F
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
+<td>↳</td>
 <td>Product Engineering Exterior/Interior International Intern</td>
 <td>Spartanburg, SC</td>
 <td>Fall 2026</td>
