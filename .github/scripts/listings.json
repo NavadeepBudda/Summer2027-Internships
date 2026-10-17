@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Honeywell",
-        "id": "2954a3bc-b6dd-4b05-a105-6a85f9f59ba3",
-        "title": "Product Management Intern Engineer - m/w/d",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771497166,
-        "date_posted": 1771497166,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140089",
-        "locations": [
-            "Neukirchen-Vluyn, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Roku",
         "id": "5fc64f5d-6e78-463a-b932-6d42e94a7973",
@@ -119700,7 +119677,7 @@
         "company_name": "Corpay",
         "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
         "title": "Software Developer \u2013 Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -223136,7 +223113,7 @@
         "company_name": "ResponsiveAds",
         "id": "95179997-e004-4aab-84b7-07ebc63d814a",
         "title": "Full-Stack Developer Intern - ResponsiveAds - Studio 4",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -260325,7 +260302,7 @@
         "company_name": "Trane Technologies",
         "id": "98540e92-9f57-4fcc-9005-6dc6593e8205",
         "title": "AI Intern - AI Product Management - AI Controls Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -289774,7 +289751,7 @@
         "company_name": "Perry Homes",
         "id": "e83278e0-c4fd-42f9-a773-171b6b1e16c1",
         "title": "Options Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292840,7 +292817,7 @@
         "company_name": "Marvell",
         "id": "bab771b3-ac96-486f-9e4a-e48811b37eab",
         "title": "Physical Design Engineer Intern - MS - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -293550,7 +293527,7 @@
         "company_name": "Xcel Energy",
         "id": "eb864411-1731-4c2b-b415-4b9881d16890",
         "title": "Renewable Operations Center Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -293597,7 +293574,7 @@
         "company_name": "Xcel Energy",
         "id": "9d775cbb-265e-4b3f-9406-171ecf54ffb2",
         "title": "Asset Strategy & Budget Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -293620,7 +293597,7 @@
         "company_name": "Xcel Energy",
         "id": "6372d8e1-142c-4d6e-871a-b4f1c44e6df8",
         "title": "Gas Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -293828,7 +293805,7 @@
         "company_name": "Xcel Energy",
         "id": "a9f96455-83df-4502-ab33-b878fb073616",
         "title": "AI & Automation Intern - Regulatory",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -295556,7 +295533,7 @@
         "company_name": "Cox",
         "id": "97899cd4-de4e-4a30-88bb-d77f77c316cb",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304098,7 +304075,7 @@
         "company_name": "Xcel Energy",
         "id": "9f3cbb1e-b4a0-4f15-b1fc-ea0c6a200973",
         "title": "Residential Energy Product Strategy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308857,7 +308834,7 @@
         "company_name": "Marvell",
         "id": "9c3c759c-4a1c-4b6f-8f1c-51e5c4fdb90d",
         "title": "Ph.D. Intern - AI/ML & Design Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -318994,7 +318971,7 @@
         "company_name": "Xcel Energy",
         "id": "e80d6106-b8f0-46f9-913a-bb970d461cdf",
         "title": "Load Research & Energy and Demand Forecasting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322707,7 +322684,7 @@
         "company_name": "Johnson & Johnson",
         "id": "ca83c527-3aa7-4bc1-b842-d5e57efca6dd",
         "title": "Robotics Controls & Autonomy Intern - Robotics R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325587,7 +325564,7 @@
         "company_name": "Xcel Energy",
         "id": "8367abf1-0004-45dc-9b38-6d41c668730a",
         "title": "Data Governance, Visualization and Automation Intern - Financial Data Governance - Data Visualization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327704,7 +327681,7 @@
         "company_name": "Johnson & Johnson",
         "id": "4c2e5fe2-a3e6-4d00-ac53-11343dc121dc",
         "title": "Software Engineer Intern - Robotics R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345924,7 +345901,7 @@
         "company_name": "Rippling",
         "id": "93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
         "title": "Machine Learning Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -355049,7 +355026,7 @@
         "company_name": "Intel",
         "id": "ef2297ca-14a3-41d1-b09c-4297b662e9f6",
         "title": "Software Research Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355831,7 +355808,7 @@
         "company_name": "GovSignals",
         "id": "954f1915-886d-44d2-b63c-900fb3b88410",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -362018,7 +361995,7 @@
         "company_name": "Bose",
         "id": "3ee40ac5-c7d1-4fcc-92ae-6bbd4a5346a0",
         "title": "Reverse Logistics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -366834,7 +366811,7 @@
         "company_name": "Mindex",
         "id": "96268a8b-5041-4571-913d-7a04ae9c4c50",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -381746,7 +381723,7 @@
         "company_name": "Boston Scientific",
         "id": "d1dc4ba6-e31d-45f7-951e-0d48b6d86048",
         "title": "R&D Research Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383949,7 +383926,7 @@
         "company_name": "KLA",
         "id": "71921694-6090-4a12-af16-6e95203596a0",
         "title": "Applications Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404527,6 +404504,73 @@
             "Chippenham, UK"
         ],
         "company_url": "https://simplify.jobs/c/Siemens",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Focusrite Group",
+        "id": "b0fb54b5-eefe-4969-b998-22da93d6c774",
+        "title": "Software Developer Placement Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792228396,
+        "date_posted": 1790634035,
+        "url": "https://apply.workable.com/focusrite/j/BFA6731604/apply",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Focusrite-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Focusrite Group",
+        "id": "ff723fb0-8021-476f-94d8-a14675f7883f",
+        "title": "Production Systems Developer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792230365,
+        "date_posted": 1790634035,
+        "url": "https://apply.workable.com/focusrite/j/EB05509AE0/apply",
+        "locations": [
+            "High Wycombe, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Focusrite-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Focusrite Group",
+        "id": "f940f70a-cfb4-4dbb-bb7a-154fb8d11427",
+        "title": "Hardware \u2013 Electronics and Firmware Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1792230184,
+        "date_posted": 1790634031,
+        "url": "https://apply.workable.com/focusrite/j/4296FAD493/apply",
+        "locations": [
+            "High Wycombe, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Focusrite-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
