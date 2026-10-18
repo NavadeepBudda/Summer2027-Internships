@@ -2,356 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Critical Mass",
-        "id": "545a33b1-a59b-43f6-806f-c87fd25c77c3",
-        "title": "Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771554287,
-        "date_posted": 1771554287,
-        "url": "https://job-boards.greenhouse.io/criticalmass/jobs/7592492",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Critical-Mass",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Critical Mass",
-        "id": "1e7b2aeb-33dd-4ddb-8179-29114cb70b5a",
-        "title": "Marketing Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771554295,
-        "date_posted": 1771554295,
-        "url": "https://job-boards.greenhouse.io/criticalmass/jobs/7592477",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Critical-Mass",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Bank of Montreal",
-        "id": "89478ddc-3356-4fa1-8297-3a6be69ffdd0",
-        "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771555729,
-        "date_posted": 1771555729,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Junior-Engineer--Electronic-Trading-Infrastructure--Summer-2026--Co-op-Internship----4-months_R260005626-1",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "fe29e18a-b1ec-4057-8528-04ed56ffcab9",
-        "title": "Intern \u2013 Asic Gen-AI",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1771555360,
-        "date_posted": 1771555360,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---ASIC-Gen-AI_JR91600",
-        "locations": [
-            "Folsom, CA",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "45630b76-1313-42dd-a310-dbd7f1116414",
-        "title": "Intern \u2013 Asic Gen-AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771555361,
-        "date_posted": 1771555361,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/ASIC-Gen-AI-Intern_JR91643",
-        "locations": [
-            "Folsom, CA",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "37495d9a-21c4-42f5-bc87-248a88046f0c",
-        "title": "Intern - ASIC Gen-AI",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1771555361,
-        "date_posted": 1771555361,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---ASIC-Gen-AI_JR91648",
-        "locations": [
-            "Folsom, CA",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Johnson & Johnson",
-        "id": "2499010a-01e8-48bc-beb3-8dfe84cc21ed",
-        "title": "Data Science Co-Op - Fall 2026",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1771555328,
-        "date_posted": 1771555328,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Data-Science-Co-Op---Fall-2026_R-059773-1",
-        "locations": [
-            "Peabody, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "0f08e9f3-5a29-4bdb-a16d-cea0898dc9d8",
-        "title": "Intern \u2013 Asic Gen-AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771555363,
-        "date_posted": 1771555363,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---ASIC-Gen-AI_JR91646",
-        "locations": [
-            "Folsom, CA",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Bank of Montreal",
-        "id": "72483713-9572-4e01-b3f2-67c353cdc381",
-        "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771555189,
-        "date_posted": 1771555189,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/REMOTETELETRAVAIL-ON-CAN/Junior-Engineer--Electronic-Trading-Infrastructure--Summer-2026--Co-op-Internship----4-months_R260005626-2",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NICE ",
-        "id": "53168310-07ef-45df-ac22-520fa73e1bc1",
-        "title": "Associate Software Engineer - Student Program",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771555181,
-        "date_posted": 1771555181,
-        "url": "https://boards.eu.greenhouse.io/nice/jobs/4786794101?gh_jid=4786794101",
-        "locations": [
-            "Draper, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/NICE",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Bank of Montreal",
-        "id": "05ec054b-8383-4f55-b7a7-3b3a1813f1aa",
-        "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771555205,
-        "date_posted": 1771555205,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/REMOTETELETRAVAIL-ON-CAN/Junior-Engineer--Electronic-Trading-Infrastructure--Summer-2026--Co-op-Internship----4-months_R260005626",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "X Development",
-        "id": "7906ae4b-a2bf-420a-a929-2b11f82819e8",
-        "title": "2026 PhD Residency - Earth Scientist AI Resident - Early Stage Project",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1771554887,
-        "date_posted": 1771554887,
-        "url": "https://x.company/careers/8425736002?gh_jid=8425736002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/X-Development",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Critical Mass",
-        "id": "c2cb6328-1643-44d2-aafe-da57b32e3f7c",
-        "title": "Marketing Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771554292,
-        "date_posted": 1771554292,
-        "url": "https://job-boards.greenhouse.io/criticalmass/jobs/7592470",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Critical-Mass",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GE Vernova",
-        "id": "9afde047-49cd-4393-a186-a78513ed99a3",
-        "title": "GE Vernova",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771554388,
-        "date_posted": 1771554388,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Graduate-Intern---AI-Agents-for-Physics-Based-Gas-Turbine-Design-Tools---Summer-2026_R5022706-3",
-        "locations": [
-            "Greenville, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Critical Mass",
-        "id": "7e956f99-b185-4dd0-9742-a71ae7b6ae6f",
-        "title": "Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771554288,
-        "date_posted": 1771554288,
-        "url": "https://job-boards.greenhouse.io/criticalmass/jobs/7592488",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Critical-Mass",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Cornerstone Building Brands",
         "id": "dcc79ca8-e3f4-4f1e-b0a1-23013203189c",
         "title": "Product Engineer Intern",
@@ -560,31 +210,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "1302cb69-e719-4d0c-84b5-22a97dfc1994",
-        "title": "Intern \u2013 Asic Gen-AI",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1771555361,
-        "date_posted": 1771555361,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---ASIC-Gen-AI_JR91647",
-        "locations": [
-            "Folsom, CA",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -258525,7 +258150,7 @@
         "company_name": "American Express",
         "id": "6e4aa2c7-7957-4b8d-b4a1-b19dfa362504",
         "title": "Data Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -261397,7 +261022,7 @@
         "company_name": "Citi",
         "id": "a8fdee84-6f33-45c4-ba6b-61bc65d9fe5a",
         "title": "Quantitative Analysis - Off Cycle Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -265317,7 +264942,7 @@
         "company_name": "L3Harris Technologies",
         "id": "941463b7-732f-40bc-8932-531a347a7611",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -265387,7 +265012,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5cdccc6d-3f48-476f-a0e7-576b4158a76b",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -265433,7 +265058,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5f51df85-f362-425b-811e-958c07266b8e",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -265456,7 +265081,7 @@
         "company_name": "L3Harris Technologies",
         "id": "556a9f83-e9ef-4df2-af50-03818c084d87",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -265502,7 +265127,7 @@
         "company_name": "L3Harris Technologies",
         "id": "16853d18-2909-41d9-9162-4cc792f0ea17",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -293570,7 +293195,7 @@
         "company_name": "TD Bank",
         "id": "73d79b50-25b2-48bc-8d74-c95e069e68c8",
         "title": "Portfolio Analytics Developer Intern/Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -293644,7 +293269,7 @@
         "company_name": "TD Bank",
         "id": "0ae8eab8-0ba9-41fd-ada9-5af34d6026a2",
         "title": "Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -297203,7 +296828,7 @@
         "company_name": "Trimble",
         "id": "ca3d442d-982e-4251-b443-6e607ffd2504",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359570,7 +359195,7 @@
         "company_name": "KLA",
         "id": "46bc2309-eff6-49b8-b663-051d87560282",
         "title": "Algorithm Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -363196,7 +362821,7 @@
         "company_name": "The Home Depot",
         "id": "e16ac71f-72f4-4100-b277-2a92a88c6d05",
         "title": "AI Machine Learning Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -363240,7 +362865,7 @@
         "company_name": "The Home Depot",
         "id": "73cce5ae-4123-4752-9ad2-67b8ab0e009f",
         "title": "Full Stack Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -367456,7 +367081,7 @@
         "company_name": "KLA Corporation",
         "id": "fb99fc9f-da10-4a0c-9d4c-565dd66138c8",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -391291,7 +390916,7 @@
         "company_name": "KLA",
         "id": "c1d1f32a-c770-499d-aece-ef5b490c9f9a",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -391408,7 +391033,7 @@
         "company_name": "KLA",
         "id": "1e02c0c8-04fb-42f2-acd8-84b45dc94d33",
         "title": "Product Development Intern - Electron Beam Instrumentation",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -399536,7 +399161,7 @@
         "company_name": "KLA Corporation",
         "id": "1f9e40fa-bda2-4366-8040-720e0b377855",
         "title": "Research Scientist Intern - Plasma Light Source Characterization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -400174,7 +399799,7 @@
         "company_name": "Leonardo",
         "id": "33481bc4-8637-4823-a224-81cbfae0e6ee",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
