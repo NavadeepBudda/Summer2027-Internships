@@ -1,320 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WebAI",
-        "id": "f227c925-5e4d-4068-949b-762afc940eee",
-        "title": "Intern - Machine Learning Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771640228,
-        "date_posted": 1771640228,
-        "url": "https://jobs.ashbyhq.com/webai/d4d6bcde-2c73-4c56-b41c-841e405dda9e/application",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/c60298a7-e24e-4f51-a18d-dde3aa81e93e",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zoox",
-        "id": "bfe63b5c-8fde-4077-b32e-0cf6b73e8361",
-        "title": "AI Applications Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771640021,
-        "date_posted": 1771640021,
-        "url": "https://jobs.lever.co/zoox/9935eecc-fca9-4f72-9ea8-85ebea928967/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ConductorOne",
-        "id": "4c43999c-d159-4dfd-980d-059f5db5c2bc",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771639900,
-        "date_posted": 1771639900,
-        "url": "https://jobs.ashbyhq.com/conductorone/db5ebd0c-669f-45b9-8709-cf507f9b7b1f/application",
-        "locations": [
-            "Portland, OR",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Conductor-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "fe775c74-ab0c-4937-9a9a-7c4223377e07",
-        "title": "Summer 2026 Intern - Advanced System Development Engineering - Hardware/Software",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771639667,
-        "date_posted": 1771639667,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110490745",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "c6a708c3-810c-4722-bf4f-a23f72dbdfab",
-        "title": "Intern - Software Engineer - Firmware",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771639675,
-        "date_posted": 1771639675,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110490378",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "b6152327-810b-44b2-b9f7-6e75716d2090",
-        "title": "Summer 2026 Intern - Software Engineering - Firmware",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771639642,
-        "date_posted": 1771639642,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110490126",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "9664285a-3def-432f-b245-8ed6cc5b476b",
-        "title": "Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771639652,
-        "date_posted": 1771639652,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110487475",
-        "locations": [
-            "Rochester, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "8b2df490-dee0-4310-bb07-b829ff7b126b",
-        "title": "Early Career Talent - Drive Integration Engineer - Role begins Summer 2026",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771639651,
-        "date_posted": 1771639651,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110487246",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "89b1e622-74aa-4c7e-b580-1a00344e7e51",
-        "title": "Summer 2026 Intern - Software Engineering - Firmware",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771639647,
-        "date_posted": 1771639647,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110490085",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "64c38e8f-295d-4ba7-8877-265c553202ce",
-        "title": "Intern - Software Engineer - Embedded",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771639665,
-        "date_posted": 1771639665,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110488536",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "04f749e1-cc2b-4aa0-ab39-fed18da3d2df",
-        "title": "Summer 2026 Co-Op - Read/Write Channel Integration",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771639629,
-        "date_posted": 1771639629,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110493655",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Aurora Innovation",
-        "id": "1b3446cc-c736-4b84-887b-e3f2cddf428e",
-        "title": "Hardware Engineering Intern - Embedded",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1771641672,
-        "date_posted": 1771641672,
-        "url": "https://aurora.tech/jobs/8336885002?gh_jid=8336885002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Box",
-        "id": "e264f6ed-d02f-4138-9e9a-dcce1ab4b6c2",
-        "title": "Product Management Intern - Internal Developer Platforms",
-        "active": false,
-        "terms": [
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1771641529,
-        "date_posted": 1771641529,
-        "url": "https://job-boards.greenhouse.io/boxinc/jobs/7550753",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Box",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Hearst",
         "id": "db9d47f1-f626-440e-83ed-c3000fe346da",
@@ -255062,7 +254748,7 @@
         "company_name": "American Express",
         "id": "19707ef8-155b-4c94-bab9-a0988614b068",
         "title": "Data Analytics Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -255247,7 +254933,7 @@
         "company_name": "American Express",
         "id": "9fc62002-c095-4800-9d4f-5225ecf2f861",
         "title": "Data Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -255477,7 +255163,7 @@
         "company_name": "American Express",
         "id": "56cea9ec-cce7-458e-a197-985b6435bd36",
         "title": "Data Analytics Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338868,7 +338554,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346188,7 +345874,7 @@
         "company_name": "Cohen & Steers",
         "id": "4a8ed348-9ea2-4c4e-8efa-e8de2490bf60",
         "title": "Product Strategy & Development Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351901,7 +351587,7 @@
         "company_name": "Perchwell",
         "id": "1ee79857-d633-45a7-8e77-d969ec16837d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351924,7 +351610,7 @@
         "company_name": "Perchwell",
         "id": "70276fbb-025b-4544-b0c0-db8dc7259234",
         "title": "Data Analytics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358258,7 +357944,7 @@
         "company_name": "Autodesk",
         "id": "a76fe4c5-ec63-4f65-a3d1-11ead25b41b2",
         "title": "AI Data Developer Intern - Winter",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -358376,7 +358062,7 @@
         "company_name": "Autodesk",
         "id": "e6414b54-64ba-4d7b-b52d-df126a7170ab",
         "title": "AI/ML Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -362249,7 +361935,7 @@
         "company_name": "Manulife Financial",
         "id": "1d938bfb-bee6-422b-9ba6-6fa75f0b6751",
         "title": "Technology Enablement Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -366904,7 +366590,7 @@
         "company_name": "Autodesk",
         "id": "ea6fc297-3ea1-4919-a564-a3b6c294af60",
         "title": "PhD Researcher Intern - Machine Learning for Construction",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -366949,7 +366635,7 @@
         "company_name": "Autodesk",
         "id": "96540543-955c-4dd4-a9ab-4382147f9d78",
         "title": "Research Intern - Multimodal AI for Human Experience",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366973,7 +366659,7 @@
         "company_name": "Autodesk",
         "id": "6942172c-4edc-4339-b395-fb8080da9906",
         "title": "Researcher Intern - Machine Learning for Construction",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -368137,7 +367823,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "9e56dcfc-a790-4a64-8f68-0c5d098d75fa",
         "title": "AI Developer Intern - Innovation & AI Center of Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -368232,7 +367918,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "2a5a98d4-8075-447d-b561-c0e2b294b0a4",
         "title": "AI Developer Intern - Grm - Innovation & AI Center of Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -385248,7 +384934,7 @@
         "company_name": "AtkinsR\u00e9alis",
         "id": "19542c33-d5eb-4d1e-9aad-4ac45c6b09be",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389330,7 +389016,7 @@
         "company_name": "Sun Life",
         "id": "19fbec6f-29ce-43ff-addf-6a88e1a8dd85",
         "title": "AI Developer Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390560,7 +390246,7 @@
         "company_name": "L3Harris Technologies",
         "id": "468b0b25-a717-4435-bfd6-105806b9b5e4",
         "title": "Associate Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394356,7 +394042,7 @@
         "company_name": "Autodesk",
         "id": "517be45c-a43f-423f-96d6-f0eaea850e51",
         "title": "PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394633,7 +394319,7 @@
         "company_name": "Autodesk",
         "id": "1dba15c8-8b9b-480b-9237-6a5a7bf57e11",
         "title": "PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395058,7 +394744,7 @@
         "company_name": "RTX",
         "id": "3633ac91-cc9e-4744-991d-3263b145bab8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399897,6 +399583,77 @@
             "Kitchener, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Aptiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HeyGen",
+        "id": "2f956c52-edf6-4b68-99c9-7db4d96de3c0",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792373052,
+        "date_posted": 1792372994,
+        "url": "https://job-boards.greenhouse.io/heygen/jobs/4540716007",
+        "locations": [
+            "Toronto, ON, Canada",
+            "SF",
+            "LA",
+            "Singapore"
+        ],
+        "company_url": "https://simplify.jobs/c/HeyGen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Ottawa",
+        "id": "e22e5105-4050-4583-95a1-47a24adc4dad",
+        "title": "Teaching Assistant Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1792390217,
+        "date_posted": 1792368000,
+        "url": "https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter-2027---Teaching-Assistant---ADM4379_JR40054",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Ottawa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "c9f2736c-ca54-46f8-98a1-81570a3bd159",
+        "title": "Quality Data Science Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1792390258,
+        "date_posted": 1792368000,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
