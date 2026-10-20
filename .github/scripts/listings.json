@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "4667fa93-10f5-47fa-9fd5-dd62c6ff8f28",
-        "title": "Intern - HDD Testing",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771744175,
-        "date_posted": 1771744175,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110543825",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Western Digital",
-        "id": "0d1a1aa2-36ac-4351-af65-180d09512b88",
-        "title": "2026 Summer Intern - Data Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1771744178,
-        "date_posted": 1771744178,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110544134",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Roku",
         "id": "1d52c618-5d43-475b-8790-f6e679eafe19",
@@ -197766,7 +197718,7 @@
         "company_name": "BlackEdge Capital",
         "id": "4bd46e38-6629-44aa-b557-05c1094d119c",
         "title": "Quantitative Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -312565,7 +312517,7 @@
         "company_name": "Johnson & Johnson",
         "id": "fab9af01-5b7a-416b-9ede-43f39adb375b",
         "title": "Technology and Digital Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -312615,7 +312567,7 @@
         "company_name": "Johnson & Johnson",
         "id": "7a2e4e2c-b2bc-4342-8cb2-9340dfc4d25b",
         "title": "Technology and Digital Quality Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -341234,7 +341186,7 @@
         "company_name": "KLA Corporation",
         "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -373581,7 +373533,7 @@
         "company_name": "Austin Community College District",
         "id": "91e99012-8825-485f-9d0c-534bc8ab62ab",
         "title": "GIS Intern 1 - NSGIC/TxGIO Project",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390952,7 +390904,7 @@
         "company_name": "Salesforce",
         "id": "a87824c1-e36d-4891-a705-55a8af563659",
         "title": "Product Management Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393170,7 +393122,7 @@
         "company_name": "RTX",
         "id": "9502dcc3-6ca9-499c-8b33-b8fc0cb96b60",
         "title": "Repair & Overhaul Customer Solutions Group Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -394321,7 +394273,7 @@
         "company_name": "RTX",
         "id": "450e4484-4377-400a-9da6-573dd1196e57",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397861,7 +397813,7 @@
         "company_name": "Analytical Mechanics Associates",
         "id": "bae50bf6-94fe-4d18-bcb5-84cbab255649",
         "title": "Oceanographic Lidar Remote Sensing and Field Campaign Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
