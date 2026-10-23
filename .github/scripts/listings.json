@@ -105601,7 +105601,7 @@
         "company_name": "TIFIN",
         "id": "66154b24-f9a8-43fb-8911-8bffb75278df",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169419,7 +169419,7 @@
         "company_name": "Optiver",
         "id": "95f1deb7-1dce-443a-ad6d-1d1c78b64892",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -169465,7 +169465,7 @@
         "company_name": "Optiver",
         "id": "a296d107-a3c9-4996-98c4-581930edc8df",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -180519,7 +180519,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -229565,7 +229565,7 @@
         "company_name": "Audax Group",
         "id": "2b1cb4ad-439e-499f-95a2-d30ea699fb24",
         "title": "AI Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -277040,7 +277040,7 @@
         "company_name": "Nokia",
         "id": "92d19f9f-b983-4fa7-a8f3-2344103d710e",
         "title": "AI Agent Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -289944,7 +289944,7 @@
         "company_name": "S&P Global",
         "id": "b93e1e71-e120-4e6d-8deb-aff1ce68d3f1",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -291420,7 +291420,7 @@
         "company_name": "HMH",
         "id": "56aeb6bb-7cae-408d-8f71-eb7b1a99ea96",
         "title": "Digital Services Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -291905,7 +291905,7 @@
         "company_name": "Booz Allen",
         "id": "bf4ff037-a559-4845-9678-eb93cb17a890",
         "title": "Quantum Computing Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -307303,7 +307303,7 @@
         "company_name": "Cyvl",
         "id": "057dd9da-1280-4dab-a6a2-a29c81fedad0",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310105,7 +310105,7 @@
         "company_name": "Avis Budget Group",
         "id": "bcf5b326-6a1f-42e1-b189-3d314b84fc8d",
         "title": "IT Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -314200,7 +314200,7 @@
         "company_name": "CesiumAstro",
         "id": "e594a5ce-1e2e-4e72-97df-2dfbaee88a0e",
         "title": "Electrical Engineer Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345302,7 +345302,7 @@
         "company_name": "DEKA Research & Development Corp.",
         "id": "3621cd26-a352-4183-b3a4-30fe4f0f25c6",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -360665,7 +360665,7 @@
         "company_name": "Cirrus Logic",
         "id": "005abe0f-5c5a-4363-bfc4-bbff60db6d64",
         "title": "Embedded Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360713,7 +360713,7 @@
         "company_name": "Cirrus Logic",
         "id": "e915a1c9-d59b-4f53-a81f-e7864f68f430",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -362317,7 +362317,7 @@
         "company_name": "IEX",
         "id": "af98a22d-d813-4ff1-a656-3513cc954ee7",
         "title": "Options Strategy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -362340,7 +362340,7 @@
         "company_name": "IEX",
         "id": "82c7882b-dc50-4738-b410-17d8fadcd128",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -379390,7 +379390,7 @@
         "company_name": "Rainmaker",
         "id": "a37b51de-58fe-4812-bbb4-f01456abd797",
         "title": "Radar Science Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382911,7 +382911,7 @@
         "company_name": "KION Group",
         "id": "08348ecb-6917-4687-aa67-6d71cdd2be04",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -385007,7 +385007,7 @@
         "company_name": "Brookfield",
         "id": "0f342529-4449-45db-8d27-40075631b3a6",
         "title": "Analytics Modelling Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391482,7 +391482,7 @@
         "company_name": "Northrop Grumman",
         "id": "3d0329e2-14b0-446f-859e-a1dea8bb23a0",
         "title": "Electrical Engineer 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396319,7 +396319,7 @@
         "company_name": "Skydio",
         "id": "b8bee710-0e73-4628-b6c5-5f14de72eec9",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
