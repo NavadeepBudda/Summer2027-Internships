@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 2567 Inactive Internship Roles by Category
+### Browse 2569 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (906)
 
 📱 **[Product Management](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (170)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (895)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (897)
 
 📈 **[Quantitative Finance](https://github.com/NavadeepBudda/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (228)
 
@@ -627,14 +627,14 @@
 <td>Software Engineer Intern - Software, AI, & Machine Learning</td>
 <td>North Logan, UT</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern - AI Enabled Software Development</td>
 <td>North Logan, UT</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Idemia?utm_source=GHList&utm_medium=company">IDEMIA</a></strong></td>
@@ -8019,7 +8019,7 @@
 <td>Equipment Engineering AI Vision Engineer Intern</td>
 <td>Maple Grove, MN</td>
 <td>🔒</td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KKR?utm_source=GHList&utm_medium=company">KKR</a></strong></td>
@@ -8208,7 +8208,7 @@
 <td>Analyst Intern</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
@@ -11809,6 +11809,20 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Auto-Owners-Insurance?utm_source=GHList&utm_medium=company">Auto-Owners Insurance</a></strong></td>
+<td>Data Engineering Intern - Summer 2027</td>
+<td>Lansing, MI</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/WhiteWater-Midstream?utm_source=GHList&utm_medium=company">WhiteWater Midstream</a></strong></td>
+<td>Data Science Intern - Summer 2027</td>
+<td>Austin, TX</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>AI Infrastructure Engineer Intern - Recommendation & LLM</td>
 <td>San Jose, CA</td>
@@ -13976,14 +13990,14 @@
 <td>Quantitative Research Intern</td>
 <td>Austin, TX</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quantitative Developer Intern</td>
 <td>Austin, TX</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KKR?utm_source=GHList&utm_medium=company">KKR</a></strong></td>
@@ -14438,7 +14452,7 @@
 <td>Trading Operations Intern - Summer 2027</td>
 <td>Austin, TX</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/DV-Trading?utm_source=GHList&utm_medium=company">DV Trading</a></strong></td>
