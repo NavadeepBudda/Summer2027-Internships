@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vantage Data Centers",
-        "id": "ccbc31c1-4ec1-4a51-839d-48cbdbf187a8",
-        "title": "Design Management Intern Tool Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772281403,
-        "date_posted": 1772281403,
-        "url": "https://vantagedc.wd1.myworkdayjobs.com/en-US/Vantage/job/Denver-Colorado/Design-Management-Intern--NA_R21140",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Amazon",
         "id": "5eea2f48-7d19-4e02-9851-e52da422ed27",
@@ -39,27 +16,6 @@
             "Hermiston, OR"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vantage Data Centers",
-        "id": "7dbf87b0-5fc0-4015-947f-d80a709c91bc",
-        "title": "Design Management Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772287279,
-        "date_posted": 1772287279,
-        "url": "https://vantagedc.wd1.myworkdayjobs.com/en-US/Vantage/job/Denver-Colorado/Design-Management-Intern--NA_R21139",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -250,30 +206,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "07953fe3-43c0-412c-a737-922af4de9aef",
-        "title": "Millennium Space Systems Summer 2026 Internship Program - Assembly - Test','And Launch','Atlo','Operations",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772373543,
-        "date_posted": 1772284888,
-        "url": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Assembly--Test--and-Launch--ATLO--Operations_JR2026498295-1",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -4041,30 +3973,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "a7a85f8d-db27-4283-8416-1c42ea010fde",
-        "title": "Millennium Space Systems Intern Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772454591,
-        "date_posted": 1772286439,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Millennium-Space-Systems-Summer-2026-Internship-Program---Assembly--Test--and-Launch--ATLO--Operations_JR2026498295",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -235176,7 +235084,7 @@
         "company_name": "The Home Depot",
         "id": "fd8c8cd3-1a79-472d-8dae-d896f4660ce8",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -235199,7 +235107,7 @@
         "company_name": "The Home Depot",
         "id": "91cb2b7b-aa32-4e7d-82f1-4d95b00718d3",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -235222,7 +235130,7 @@
         "company_name": "The Home Depot",
         "id": "4060f153-ab15-44d4-9f86-1bf555dbf0f7",
         "title": "Data Science & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -235243,7 +235151,7 @@
         "company_name": "The Home Depot",
         "id": "344cba34-8972-4eb0-b47d-64f9893987bc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -238563,7 +238471,7 @@
         "company_name": "Travelers",
         "id": "c6dd05de-594d-4fa3-8da1-c646ae0eca31",
         "title": "Engineering Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335646,7 +335554,7 @@
         "company_name": "Stryker",
         "id": "edbfc137-545b-4ee8-a315-2c1bdeeaa277",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -335669,7 +335577,7 @@
         "company_name": "Stryker",
         "id": "a1e33777-66db-432c-ae5d-6cec88b6c107",
         "title": "Electrical and Electronic Engineering Co-op - HeartSine R&D Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -347258,7 +347166,7 @@
         "company_name": "CME Group",
         "id": "eaefc21c-3712-43eb-9284-7017f77c1481",
         "title": "AI Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -349482,7 +349390,7 @@
         "company_name": "Parsons",
         "id": "f865648f-b814-4503-ba7b-112c3f3fe9f1",
         "title": "CNO Developer Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -363983,7 +363891,7 @@
         "company_name": "Moog",
         "id": "1f80afa8-c775-4da7-b930-bcb71e621fad",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370958,7 +370866,7 @@
         "company_name": "Expedia Group",
         "id": "03a462fa-9718-48c0-a23a-12c1003d5c8d",
         "title": "Mobile Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375150,7 +375058,7 @@
         "company_name": "Johnson & Johnson",
         "id": "6c74498a-09f5-4f4d-8cbc-8697e435f29d",
         "title": "AI/ML/Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -375547,7 +375455,7 @@
         "company_name": "LSEG",
         "id": "a217a750-20b7-4ee0-b9a2-1855fdd996b2",
         "title": "Finance Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375594,7 +375502,7 @@
         "company_name": "LSEG",
         "id": "8a2d9b32-6b34-4e11-ab1a-faf886eae48a",
         "title": "Finance Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375617,7 +375525,7 @@
         "company_name": "LSEG",
         "id": "81f6a6a0-ca1b-4a27-aafa-49735204bc0e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375732,7 +375640,7 @@
         "company_name": "LSEG",
         "id": "9bd3bc29-77ef-440c-9c59-3f852606c72c",
         "title": "Quantitative Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381384,7 +381292,7 @@
         "company_name": "Apple",
         "id": "cae47bed-b842-4cee-8e20-e5fecb96fa80",
         "title": "Software Engineer Intern - Apple Services Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382301,7 +382209,7 @@
         "company_name": "KPMG",
         "id": "5f8d1c66-3ed0-4764-950c-a542a30a1c58",
         "title": "AI Builder Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383930,7 +383838,7 @@
         "company_name": "Wise",
         "id": "e23e8b39-0bb4-40d5-8ffc-74ac90837a8e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383975,7 +383883,7 @@
         "company_name": "Wise",
         "id": "4f038232-125e-40c1-aa88-2701ec7c0353",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389845,7 +389753,7 @@
         "company_name": "Rakuten International",
         "id": "058f10b5-7e10-4926-bb72-004c74c2a665",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -392181,7 +392089,7 @@
         "company_name": "ManTech",
         "id": "d005c265-e4c0-4cfe-a117-fe33afe73f8a",
         "title": "AI Workflow Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394974,7 +394882,7 @@
         "company_name": "STR",
         "id": "d2f74a87-aaab-4d5c-8b92-ce3716d85f6a",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397387,7 +397295,7 @@
         "company_name": "QTS",
         "id": "ce71deaf-609d-4056-a87f-79161320e181",
         "title": "Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400448,7 +400356,7 @@
         "company_name": "Goodlord",
         "id": "20ab69e2-0291-4950-bcd8-5f25e296e51f",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -403379,5 +403287,26 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vigil Labs",
+        "id": "4712ce89-b48c-4c1c-9db2-5b03917f8bb2",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793000696,
+        "date_posted": 1793000696,
+        "url": "https://simplify.jobs/p/4712ce89-b48c-4c1c-9db2-5b03917f8bb2",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vigil-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
