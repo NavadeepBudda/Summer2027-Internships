@@ -178502,7 +178502,7 @@
         "company_name": "Chicago Trading Company",
         "id": "59e1ceb1-c7e4-4305-99e7-7761b7545cdb",
         "title": "Quant Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -191400,7 +191400,7 @@
         "company_name": "Chicago Trading Company",
         "id": "1637f003-d1c1-4f07-a7da-d53a33e61cc1",
         "title": "Quant Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -197268,7 +197268,7 @@
         "company_name": "Ameren",
         "id": "51b0d062-6f05-4d98-afb7-8dc7523b4758",
         "title": "Digital Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -200636,7 +200636,7 @@
         "company_name": "Tesla",
         "id": "06fa48a4-38e1-4ac5-9534-ba1c6702b680",
         "title": "Applied AI Engineer Intern - AI Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -202065,7 +202065,7 @@
         "company_name": "Tesla",
         "id": "cd27aaf0-33b6-4d6a-950e-8acff7bbe6ce",
         "title": "Software Engineer Intern - AI Inference Co Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -206050,7 +206050,7 @@
         "company_name": "GuideWell Mutual",
         "id": "7cd1e33f-21cb-46a0-9c15-b8392e204d63",
         "title": "Enterprise Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -225295,7 +225295,7 @@
         "company_name": "Epic Games",
         "id": "706c113d-3534-4a68-8836-c8195ea3f0c9",
         "title": "Gameplay Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -286204,7 +286204,7 @@
         "company_name": "Insulet",
         "id": "4488d9e4-5ff9-4041-bb53-54feb6a20ba1",
         "title": "Life Cycle Engineering Co-op - Electrical",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -287629,7 +287629,7 @@
         "company_name": "Tesla",
         "id": "3c5a73cb-e206-4607-bba3-aa3fbb3b51b9",
         "title": "Data Engineer Intern - Fleet Data - Self-Driving",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -291999,7 +291999,7 @@
         "company_name": "Amgen",
         "id": "97071ed7-a906-402b-b755-8a9a9f9968c7",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292049,7 +292049,7 @@
         "company_name": "Amgen",
         "id": "dc2aebf1-8c3c-4139-937e-f31dfd69950e",
         "title": "Machine Learning Engineer Intern - Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292097,7 +292097,7 @@
         "company_name": "Amgen",
         "id": "9eef895c-2727-4ebb-92bc-fda2b10c3d34",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292120,7 +292120,7 @@
         "company_name": "Amgen",
         "id": "811210da-553e-4d37-b262-9897450dc43d",
         "title": "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292241,7 +292241,7 @@
         "company_name": "Amgen",
         "id": "6e4f094f-682c-4e8f-b9a8-f1ee44c201d3",
         "title": "Digital Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -303567,7 +303567,7 @@
         "company_name": "Equitable Bank",
         "id": "8c8bcea8-31bd-4def-b90f-93f3f6db99c3",
         "title": "Data Scientist Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -316962,7 +316962,7 @@
         "company_name": "Lazard",
         "id": "da61d135-a599-4c02-89dc-afe22196934e",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323800,7 +323800,7 @@
         "company_name": "American Family Insurance Group",
         "id": "668addc3-ee22-4b6d-b2be-f2536915cf3e",
         "title": "Web Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -339100,7 +339100,7 @@
         "company_name": "KLA",
         "id": "46bc2309-eff6-49b8-b663-051d87560282",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -347481,7 +347481,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "c7e5909c-6b27-4ea3-991a-0d78c09beb2f",
         "title": "Postdoctoral Researcher: Development of Thin Film Nitride Materials Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -358232,7 +358232,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "1ed211df-94af-49fb-adc6-90893c7879b2",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -358621,7 +358621,7 @@
         "company_name": "Koch Industries",
         "id": "766c0340-ea87-48cd-8d8a-9e800c455e0a",
         "title": "Engineering Assistant Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371416,7 +371416,7 @@
         "company_name": "7-Eleven",
         "id": "07b72404-06cc-425a-80c5-b8a9a253652a",
         "title": "AI Analyst / AI Automation Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374936,7 +374936,7 @@
         "company_name": "Nasdaq",
         "id": "dc3a9143-cfc6-4926-a93c-e8f88ee84555",
         "title": "Intelligent Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375774,7 +375774,7 @@
         "company_name": "AGCO",
         "id": "7667ab73-65ee-42b0-96d1-cbf12853d654",
         "title": "AI & Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -377683,7 +377683,7 @@
         "company_name": "RTX",
         "id": "450e4484-4377-400a-9da6-573dd1196e57",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381044,7 +381044,7 @@
         "company_name": "Altera",
         "id": "c667509a-a75f-4862-a9ae-d0ca20846b62",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389387,7 +389387,7 @@
         "company_name": "WisdomTree",
         "id": "4d4eca51-b895-46ce-9c44-183c741ddb11",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393856,7 +393856,7 @@
         "company_name": "Ursa Major",
         "id": "8af9387e-120b-4e72-bafe-1c85ff072299",
         "title": "Embedded Flight Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394431,7 +394431,7 @@
         "company_name": "CVS Health",
         "id": "63e6ac11-18af-4a74-b78e-fb596834ab90",
         "title": "Innovation & Technology Software Engineering: Platform & Applications Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397132,7 +397132,7 @@
         "company_name": "Micron Technology",
         "id": "ca642544-00ec-45ef-b6e5-d8bfdc579f5a",
         "title": "Site Industrial Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399072,7 +399072,7 @@
         "company_name": "Sedgwick Claims Management Services",
         "id": "731a0491-8cb0-4279-a27e-9e40fcaff5da",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400444,7 +400444,7 @@
         "company_name": "KLA",
         "id": "7a312bde-0d90-40b2-a5f6-afdd500d25d4",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -403601,7 +403601,7 @@
         "company_name": "Danaher",
         "id": "10a05117-a7ef-46fb-8efd-30906c28cd60",
         "title": "Supply Chain AI Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405909,7 +405909,7 @@
         "company_name": "Aurora Innovation",
         "id": "426d3a6b-3001-4dd4-acbd-89a9e2bec287",
         "title": "Behavior and Planning Intern - ML Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407760,7 +407760,7 @@
         "company_name": "Renesas Electronics",
         "id": "de7fa612-c692-41df-bee6-384a28885a20",
         "title": "Digital Design Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409117,7 +409117,7 @@
         "company_name": "Nomad GCS",
         "id": "7cf9e6f3-53d7-436f-8cfb-de413386333b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -410664,7 +410664,7 @@
         "company_name": "VSP Vision",
         "id": "d54ad503-0917-4cd9-8e73-8ecd6fe2d56d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -410708,7 +410708,7 @@
         "company_name": "VSP Vision",
         "id": "5a6710d9-eb37-4044-b352-2b23303dd73c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
