@@ -175322,7 +175322,7 @@
         "company_name": "The Boeing Company",
         "id": "3c052483-a306-453e-a3dc-ccfe99cf5624",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -190758,7 +190758,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -190800,7 +190800,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -190967,7 +190967,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -190993,7 +190993,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -191039,7 +191039,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -211907,7 +211907,7 @@
         "company_name": "Goldman Sachs",
         "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
         "title": "Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -212308,7 +212308,7 @@
         "company_name": "Phoenix Contact",
         "id": "ba997393-daa9-4477-9391-5eb428918ddb",
         "title": "Data Science & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -246661,7 +246661,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -246726,7 +246726,7 @@
         "company_name": "Goldman Sachs",
         "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
         "title": "Summer Analyst Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -246768,7 +246768,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -246791,7 +246791,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -246838,7 +246838,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -246861,7 +246861,7 @@
         "company_name": "Goldman Sachs",
         "id": "765bb91e-34d7-4746-8e11-8598e700e845",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -246884,7 +246884,7 @@
         "company_name": "Goldman Sachs",
         "id": "5bdec003-2a02-42a4-a602-467541840552",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -246907,7 +246907,7 @@
         "company_name": "Goldman Sachs",
         "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
         "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -246931,7 +246931,7 @@
         "company_name": "Goldman Sachs",
         "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -246955,7 +246955,7 @@
         "company_name": "Goldman Sachs",
         "id": "06098497-6840-4802-8838-81e0dbdec164",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -247025,7 +247025,7 @@
         "company_name": "Goldman Sachs",
         "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -259597,7 +259597,7 @@
         "company_name": "Trimble",
         "id": "63bb5635-fcbb-4c10-ac91-d7f76b6c3d75",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -260409,7 +260409,7 @@
         "company_name": "Trimble",
         "id": "ca3d442d-982e-4251-b443-6e607ffd2504",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -270178,7 +270178,7 @@
         "company_name": "AllianceBernstein",
         "id": "d57f2b05-8674-4998-ac7a-1c906d4976a1",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -298011,7 +298011,7 @@
         "company_name": "Tesla",
         "id": "b3e74a6e-d3af-4e37-808e-8a94de03c75d",
         "title": "Systems Integration Engineer Intern - Body Controls",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -328798,7 +328798,7 @@
         "company_name": "Trimble",
         "id": "bee2e809-5a33-41d9-8c9b-0dc0c44f7100",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331035,7 +331035,7 @@
         "company_name": "Nebius",
         "id": "b380c306-bed2-4e4a-8c77-71a792a86621",
         "title": "ML Solution Architect Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -331714,7 +331714,7 @@
         "company_name": "EMC Insurance",
         "id": "722989ed-df3d-4611-83a2-26c5369b1e66",
         "title": "Claims Intern - Workers' Compensation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332192,7 +332192,7 @@
         "company_name": "EMC Insurance",
         "id": "b96cf9b7-1f8d-47c4-8c9c-6c70376ffe7c",
         "title": "Claims Intern - Workers' Compensation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345876,7 +345876,7 @@
         "company_name": "Sensata",
         "id": "2dd43b4d-a243-4996-826b-d46251f0fc5e",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -345899,7 +345899,7 @@
         "company_name": "Sensata",
         "id": "d9a3f92c-e25d-49d0-9782-5d9f9a8b9e8d",
         "title": "Hardware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -345922,7 +345922,7 @@
         "company_name": "Sensata",
         "id": "a5a7c6ed-12ef-47c1-bf9d-a14037da20b1",
         "title": "Electronics/Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -345946,7 +345946,7 @@
         "company_name": "Sensata",
         "id": "5abedb52-732f-4c88-8e97-b4e013473a3f",
         "title": "Placement Student Intern - Aftermarket",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -346874,7 +346874,7 @@
         "company_name": "Allegro MicroSystems",
         "id": "9d7498a9-3f4b-4af0-943c-58268a2a5e81",
         "title": "Electronic Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -354115,7 +354115,7 @@
         "company_name": "Boston Scientific",
         "id": "19c22c7f-5af3-4bed-806e-2ee412ae0d63",
         "title": "R&D Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355445,7 +355445,7 @@
         "company_name": "Canadian Tire",
         "id": "d73bb505-f6f2-4b62-bd96-ad904a15d953",
         "title": "Product Strategy Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -358034,7 +358034,7 @@
         "company_name": "LSEG",
         "id": "a217a750-20b7-4ee0-b9a2-1855fdd996b2",
         "title": "Finance Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -358081,7 +358081,7 @@
         "company_name": "LSEG",
         "id": "8a2d9b32-6b34-4e11-ab1a-faf886eae48a",
         "title": "Finance Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -358104,7 +358104,7 @@
         "company_name": "LSEG",
         "id": "81f6a6a0-ca1b-4a27-aafa-49735204bc0e",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -358175,7 +358175,7 @@
         "company_name": "LSEG",
         "id": "112ac640-41ea-4a8d-9297-a0fab277b9a9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -358219,7 +358219,7 @@
         "company_name": "LSEG",
         "id": "9bd3bc29-77ef-440c-9c59-3f852606c72c",
         "title": "Quantitative Services Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -358243,7 +358243,7 @@
         "company_name": "LSEG",
         "id": "60675f9d-44aa-4f9c-a843-a1160824d1f8",
         "title": "Quantitative Services Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -360703,7 +360703,7 @@
         "company_name": "Tencent",
         "id": "9017884c-ac21-4042-9b87-f21cc598295d",
         "title": "Game Development Tools Intern - AI Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -361708,7 +361708,7 @@
         "company_name": "Johnson & Johnson",
         "id": "efaafd55-6352-4ff5-83d5-37358bbcbe36",
         "title": "Data Operations & Analytics Spring Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -368768,7 +368768,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "eb3a5bc3-2fb4-4151-93b2-ebee300ad678",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369205,7 +369205,7 @@
         "company_name": "Trimble",
         "id": "4faaca93-0c42-437d-9ffe-3b46d8d67e62",
         "title": "Hardware/Software Testing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386007,7 +386007,7 @@
         "company_name": "Tencent",
         "id": "cb28120a-d18d-4f68-9377-edcb04adaa4f",
         "title": "Game UI Intern - AI Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394588,7 +394588,7 @@
         "company_name": "RTX",
         "id": "e20b7038-01d7-4798-a53d-313f94bd9e80",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -401304,7 +401304,7 @@
         "company_name": "Northrop Grumman",
         "id": "b9797b22-811f-4d42-b0c1-22917f860e5a",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402449,7 +402449,7 @@
         "company_name": "Newmont",
         "id": "b1af74c5-7bce-4b61-a57f-bdbb3cb3926e",
         "title": "Resource Modeling Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407866,7 +407866,7 @@
         "company_name": "Epic Games",
         "id": "8d1e76b1-c393-4e56-95a5-8fb8284ed06d",
         "title": "Tools Programmer Intern - Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408874,7 +408874,7 @@
         "company_name": "Parsons",
         "id": "cffd0bd5-d650-4e9e-ae41-cde4ff1d94d3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -410401,6 +410401,250 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Sonos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "onsemi",
+        "id": "65952a38-1cc8-471c-92f6-5f0ce2d07896",
+        "title": "Device Characterization Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793690296,
+        "date_posted": 1793690124,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506292",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Onsemi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lloyds Bank",
+        "id": "1fc0a9f9-7328-424d-bbd6-a70e647f434e",
+        "title": "Applied Data and AI Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1793690281,
+        "date_posted": 1793664000,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Birmingham/Applied-Data-and-AI-Apprentice---Birmingham_165591",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASML",
+        "id": "7772f70d-d994-4fdf-8874-04f00ed5e24b",
+        "title": "Electrical Engineer Co-op Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793689721,
+        "date_posted": 1793577600,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/CoOp---Electrical-Engineer--Internship-_J-00356208",
+        "locations": [
+            "Wilton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "onepot",
+        "id": "c2b1b1ff-27fa-48bb-909f-52cf19e69b16",
+        "title": "Machine Learning Researcher Intern - Machine Learning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793692289,
+        "date_posted": 1793664000,
+        "url": "https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8/application?embed=true",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Onepot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "46fd3fa6-a273-49da-b7ac-7cb7fcf894a9",
+        "title": "AI Compiler and Kernel Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793692261,
+        "date_posted": 1793577600,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Paccar",
+        "id": "ef31b232-5a78-40fe-9d4a-b2cca861468f",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793692134,
+        "date_posted": 1793692077,
+        "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors",
+        "locations": [
+            "Denton, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Elsevier",
+        "id": "96c8b389-a503-485c-be53-188820c418b4",
+        "title": "AI Research Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793703100,
+        "date_posted": 1793664000,
+        "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Intern-Data-Science_R120607",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Elsevier",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KION Group",
+        "id": "03c9a04b-0184-44c4-a9a3-fd2d18ea7e18",
+        "title": "Real-Time Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1793704691,
+        "date_posted": 1793664000,
+        "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Stockport-United-Kingdom/Campus-visit-Dematic---Placement-student_JR-0082859-1",
+        "locations": [
+            "Westhill, UK",
+            "Stockport, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/KION-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lloyds Bank",
+        "id": "ddef9c15-01b5-4ea8-953e-93a6e9a9f4e6",
+        "title": "Applied Data and AI Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1793704321,
+        "date_posted": 1793664000,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Applied-Data-and-AI-Apprentice---Edinburgh_165592",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lloyds Bank",
+        "id": "4332482c-4ea5-46b7-8be3-2fb8b77b0023",
+        "title": "Digital & Technology Solutions Degree Apprenticeship",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1793708822,
+        "date_posted": 1793664000,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Digital---Technology-Solutions-Degree-Apprenticeship---Manchester_164903",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ICF International",
+        "id": "59dcdcf5-e048-4e2b-99c1-024440a01f9a",
+        "title": "Energy Researcher Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1793714780,
+        "date_posted": 1791417600,
+        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Researcher--Reston--VA--Arlington--VA-_R2603418",
+        "locations": [
+            "Arlington County, Arlington, VA",
+            "Reston, VA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ICF-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
