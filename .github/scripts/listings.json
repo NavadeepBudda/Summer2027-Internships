@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nasuni",
-        "id": "10ebccb4-749a-419d-a92c-50ffcd6547a2",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773988084,
-        "date_posted": 1773988084,
-        "url": "https://www.nasuni.com/about-us/careers/open-positions/?gh_jid=5142981008",
-        "locations": [
-            "Boston, MA",
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nasuni",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Spellman High Voltage Electronics",
         "id": "833f47fd-859d-4721-ab45-e77291f2ec14",
@@ -40,27 +16,6 @@
             "Crawley, UK"
         ],
         "company_url": "https://simplify.jobs/c/Spellman-High-Voltage-Electronics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Watts Water",
-        "id": "4e66a95d-2217-4c34-b0d9-937d5e5af3d3",
-        "title": "Electronics Hardware Developer Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773998979,
-        "date_posted": 1773998979,
-        "url": "https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Vernon-BC/Electronics-Hardware-Developer-Co-Op_10015806-1",
-        "locations": [
-            "Kelowna, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Watts-Water",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -4757,29 +4712,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Insulet Corporation",
-        "id": "f2c6da02-1f31-4807-9860-ee830d24bd03",
-        "title": "Life Cycle Engineering - Systems",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1773988547,
-        "date_posted": 1773988547,
-        "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Life-Cycle-Engineering---Systems--July---December-2026--Hybrid-_REQ-2026-14941",
-        "locations": [
-            "Acton, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Insulet-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -171197,7 +171129,7 @@
         "company_name": "Bank of Montreal",
         "id": "82823c58-ec25-462f-a885-fbf297c25a22",
         "title": "Workforce Analyst Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -226082,7 +226014,7 @@
         "company_name": "Kodiak Robotics",
         "id": "7c45d4ef-21c8-4acd-b82a-f56987b07548",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -241723,7 +241655,7 @@
         "company_name": "Blue Origin",
         "id": "7fedfbc6-98b6-4de0-b225-0a62b5515501",
         "title": "Electrical Systems Engineer Co-op - Fixed Term",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -319508,7 +319440,7 @@
         "company_name": "Sensata",
         "id": "2dd43b4d-a243-4996-826b-d46251f0fc5e",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -319531,7 +319463,7 @@
         "company_name": "Sensata",
         "id": "d9a3f92c-e25d-49d0-9782-5d9f9a8b9e8d",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -319554,7 +319486,7 @@
         "company_name": "Sensata",
         "id": "a5a7c6ed-12ef-47c1-bf9d-a14037da20b1",
         "title": "Electronics/Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -319578,7 +319510,7 @@
         "company_name": "Sensata",
         "id": "5abedb52-732f-4c88-8e97-b4e013473a3f",
         "title": "Placement Student Intern - Aftermarket",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -321135,7 +321067,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "a4493c94-033c-44ce-ae50-4d4e92ed5dda",
         "title": "People Research and Analytics Co-op - People Research and Analytics - Human Resources",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -323787,7 +323719,7 @@
         "company_name": "Workday",
         "id": "94a30c63-9e16-4706-b9bb-9713c9b0afd0",
         "title": "Software Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -323859,7 +323791,7 @@
         "company_name": "Workday",
         "id": "9187fc2c-03e7-4644-8d01-d1d0a44fc73d",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -381241,7 +381173,7 @@
         "company_name": "Bank of Montreal",
         "id": "969fad49-3d84-4fbc-9700-8d9045078201",
         "title": "UX/UI Designer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -382125,7 +382057,7 @@
         "company_name": "Bank of Montreal",
         "id": "c20bef46-45b5-497e-883d-4745f23e27b0",
         "title": "UX/UI Designer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -391621,7 +391553,7 @@
         "company_name": "JM Family",
         "id": "b9ce969b-feac-4712-867d-4dc584234d94",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391645,7 +391577,7 @@
         "company_name": "JM Family",
         "id": "d51fae92-efd8-41b6-b50e-1552f35e9dfc",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391714,7 +391646,7 @@
         "company_name": "JM Family",
         "id": "972e59fe-5d7f-418d-8180-1595a1b7c989",
         "title": "Software Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -392219,7 +392151,7 @@
         "company_name": "JM Family",
         "id": "fcda4098-94ad-4409-96fc-32ee92289e01",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402772,7 +402704,7 @@
         "company_name": "Applied Materials",
         "id": "02780f68-02f8-4700-b1ab-46a3a5711c4e",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -412235,5 +412167,93 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blizzard Entertainment",
+        "id": "a66d16d8-304f-49d6-ae57-3f9db2d9042c",
+        "title": "Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794729275,
+        "date_posted": 1794528000,
+        "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Genesys",
+        "id": "793ec0c7-1beb-4313-b882-ed495d809c95",
+        "title": "Web Software Developer Intern - WFM",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1794729242,
+        "date_posted": 1791331200,
+        "url": "https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Genesys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oregon State University",
+        "id": "a95e645b-d4e1-4e7a-ad25-7ec0e7b7f610",
+        "title": "Technical Student Assistant Intern - OPEnS Lab",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1794728723,
+        "date_posted": 1793059200,
+        "url": "https://oregonstate.wd501.myworkdayjobs.com/OSU_Careers_Site/job/Corvallis-Main-Campus/Technical-Student-Assistant---OPEnS-Lab_JR0001736",
+        "locations": [
+            "Corvallis, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Oregon-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oregon State University",
+        "id": "7cb846f0-4e40-4dae-a481-dbc9848337d9",
+        "title": "Student Developer Intern - CASS Software Development Group",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1794728732,
+        "date_posted": 1791158400,
+        "url": "https://oregonstate.wd501.myworkdayjobs.com/OSU_Careers_Site/job/Corvallis-Main-Campus/Student-Developer---CASS-Software-Development-Group_JR0001296",
+        "locations": [
+            "Remote in USA",
+            "Corvallis, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Oregon-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
