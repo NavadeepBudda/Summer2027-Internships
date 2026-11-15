@@ -202387,7 +202387,7 @@
         "company_name": "Ingredion",
         "id": "c2e6377c-2c49-47ed-a0e6-12520a2d17a4",
         "title": "Digital Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -240972,7 +240972,7 @@
         "company_name": "Rocket Lab USA",
         "id": "09f2ddca-c47a-4987-a1c6-12af07005663",
         "title": "Flight Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
